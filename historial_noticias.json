@@ -2126,5 +2126,197 @@
       "relevancia_justificacion": "La exposición se centra en el arte contemporáneo, la historia angoleña y la reflexión sobre el impacto del comercio global, temas altamente relevantes para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Vote de confiance à Bayrou : nouvelle baisse du CAC 40 à Paris lors des premiers échanges",
+      "link": "https://www.lefigaro.fr/politique/en-direct-vote-de-confiance-le-pari-a-haut-risque-de-francois-bayrou-20250826",
+      "fecha_obj": "2025-08-26T07:10:36+00:00",
+      "fecha_str": "26-08-2025 07:10 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Mélenchon anuncia moción de destitución contra Macron y prevé una victoria Insoumise en elecciones anticipadas.",
+      "resumen": "Jean-Luc Mélenchon, líder de La France Insoumise, anunció que presentará una moción de destitución contra Emmanuel Macron el 23 de septiembre.  Mélenchon considera que la salida de Macron es la única solución a la actual crisis de régimen, comparándola con situaciones históricas como 1788 y 1957.  A pesar de la solicitud de un voto de confianza al gobierno, Mélenchon se muestra confiado en que Macron dejará el poder,  previendo incluso una victoria de La France Insoumise en unas posibles elecciones presidenciales anticipadas, aunque no confirma su propia candidatura.  El anuncio coincide con una nueva caída del CAC 40 en París.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia trata sobre un evento político de gran importancia en Francia, un país con influencia global.  La posible destitución del presidente y las implicaciones políticas nacionales e internacionales justifican una alta relevancia en la categoría 'Internacional'."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Trump continue sa chasse aux énergies renouvelables et ordonne l’arrêt des travaux d’un parc éolien en mer",
+      "link": "https://www.lemonde.fr/economie/article/2025/08/26/trump-continue-sa-chasse-aux-energies-renouvelables-et-ordonne-l-arret-des-travaux-d-un-parc-eolien-en-mer_6635302_3234.html",
+      "fecha_obj": "2025-08-26T07:09:03+00:00",
+      "fecha_str": "26-08-2025 07:09 UTC",
+      "source_name": "Le Monde International"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump frena la expansión de la energía eólica marina en EEUU, afectando a Orsted y generando incertidumbre en el sector.",
+      "resumen": "La administración Trump ha ordenado la suspensión de las obras del parque eólico marino Revolution Wind de Orsted, causando una caída del 16% en las acciones de la compañía danesa.  Esta decisión, justificada con vagas razones de seguridad nacional, forma parte de una estrategia más amplia de la administración Trump para desmantelar proyectos de energía renovable iniciados durante la presidencia de Biden.  La medida afecta significativamente a Orsted, líder mundial en energía eólica marina, y genera incertidumbre en el sector, considerando que el desarrollo de la energía eólica marina en Estados Unidos aún es incipiente.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia tiene relevancia internacional por el impacto de las decisiones políticas de EEUU en el mercado global de energías renovables, afectando a una empresa danesa líder en el sector y generando incertidumbre en el desarrollo de este tipo de energía a nivel mundial."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "2 Police Officers Killed in Shooting in Rural Australia",
+      "link": "https://www.nytimes.com/2025/08/26/world/australia/australia-police-shooting-porepunkah.html",
+      "fecha_obj": "2025-08-26T07:08:53+00:00",
+      "fecha_str": "26-08-2025 07:08 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Dos policías asesinados a tiros en Australia; la policía pide evitar la zona.",
+      "resumen": "Dos agentes de policía murieron el martes en un tiroteo en Porepunkah, una localidad rural de Australia. La alcaldesa del municipio de Alpine Shire confirmó los fallecimientos.  Según medios australianos, los oficiales fueron emboscados mientras cumplían una orden de registro.  La policía ha pedido a la población que evite la zona y se ha negado a dar más detalles. Porepunkah, situada a casi 200 millas de Melbourne, tiene una población de aproximadamente 1000 habitantes.  Imágenes en redes sociales muestran una fuerte presencia policial en la zona, incluyendo un helicóptero.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El suceso, al involucrar muertes violentas de agentes del orden en un país extranjero, tiene relevancia internacional.  La naturaleza trágica del evento y la respuesta policial justifican una puntuación alta."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Brazil, India and Other Countries Fight Back Against Trump’s Tariffs",
+      "link": "https://www.nytimes.com/2025/08/26/opinion/trump-brazil-india-tariffs.html",
+      "fecha_obj": "2025-08-26T05:34:44+00:00",
+      "fecha_str": "26-08-2025 05:34 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "India y Brasil resisten la presión de Trump con una estrategia de diversificación geopolítica.",
+      "resumen": "El artículo analiza la respuesta de India y Brasil a los aranceles punitivos de Trump, calificándolos como herramientas de coerción política.  En lugar de ceder, ambos países emplean una estrategia de \"cobertura estratégica\", cultivando múltiples relaciones internacionales para evitar la dependencia de una sola potencia, especialmente Estados Unidos.  Esta estrategia, desarrollada durante décadas, se basa en la desconfianza en el unilateralismo estadounidense y la creencia de que incluso las potencias benignas pueden abusar de su poder.  La resistencia de India y Brasil plantea un desafío al enfoque simplista de \"aliado o adversario\" de Washington, y podría llevar a un mundo más fragmentado.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la geopolítica y la respuesta de países emergentes a la presión estadounidense.  Analiza una estrategia específica y sus implicaciones, lo que lo hace adecuado para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "I’ve seen the UN at its best. As it turns 80, with a world in crisis, it must recover its courage | Martin Griffiths",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/26/un-recover-courage-palestine-ukraine-sudan",
+      "fecha_obj": "2025-08-26T05:00:20+00:00",
+      "fecha_str": "26-08-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La ONU, en crisis a sus 80 años, necesita recuperar el coraje para ser relevante.",
+      "resumen": "Martin Griffiths, ex-colaborador de la ONU, analiza la crisis de relevancia de la organización en conflictos globales.  Atribuye esta situación a una falta de coraje para liderar, mediar y encontrar soluciones, creando una cultura de cautela e inacción.  Si bien destaca el trabajo humanitario vital de la ONU y el éxito de la iniciativa del grano en el Mar Negro como ejemplo de lo que se puede lograr con liderazgo audaz, critica la marginalización de la ONU en la resolución de conflictos.  Propone soluciones como mejorar la formación en mediación, fortalecer las alianzas y articular una visión clara del futuro de la organización para recuperar su papel crucial en la paz mundial.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que reflexiona críticamente sobre el estado actual de la ONU, ofreciendo propuestas concretas y una perspectiva personal basada en la experiencia del autor.  Su tono reflexivo, análisis profundo y propuesta de soluciones lo ubican perfectamente dentro de la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Amsterdam’s squatter wars are back – and wealthy Dutch homeowners have only themselves to blame | Senay Boztas",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/26/amsterdam-dutch-squatter-wars-homeowners-property",
+      "fecha_obj": "2025-08-26T04:00:19+00:00",
+      "fecha_str": "26-08-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La crisis habitacional en Ámsterdam desata las protestas de los 'krakers', mientras los propietarios se benefician de generosos subsidios.",
+      "resumen": "El artículo analiza el resurgimiento de las ocupaciones ilegales ('kraken') en Ámsterdam debido a la crisis habitacional.  La escasez de viviendas, exacerbada por precios exorbitantes y generosos beneficios fiscales para propietarios, ha llevado a una nueva generación de 'krakers'.  El autor destaca la injusticia del sistema, donde los beneficios fiscales para propietarios recaen en los contribuyentes, mientras que los jóvenes calificados no pueden acceder a una vivienda asequible.  Se critica la falta de soluciones por parte del gobierno y la necesidad de un cambio de mentalidad entre los propietarios, quienes se benefician de un sistema que perjudica a la mayoría.  La situación se agrava por la inmigración y la demanda de vivienda, pero el problema principal radica en las políticas fiscales que favorecen a los propietarios.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la crisis habitacional en Ámsterdam, analizando sus causas, consecuencias y posibles soluciones.  Se basa en datos, ejemplos y entrevistas, ofreciendo una perspectiva crítica y reflexiva sobre el tema.  Su estructura y enfoque lo hacen adecuado para la categoría 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "AI Is Eliminating Jobs for Younger Workers",
+      "link": "https://www.wired.com/story/stanford-research-ai-replace-jobs-young-workers/",
+      "fecha_obj": "2025-08-26T07:00:00+00:00",
+      "fecha_str": "26-08-2025 07:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La IA elimina empleos de jóvenes, pero crea oportunidades para trabajadores con experiencia, según estudio de Stanford.",
+      "resumen": "Un estudio de Stanford, utilizando datos de nómina de ADP, revela que la IA está reduciendo empleos para trabajadores jóvenes (22-25 años) en sectores como servicio al cliente y desarrollo de software, con una disminución del 16%.  Sin embargo, los trabajadores con más experiencia en esas mismas industrias no han sufrido el mismo impacto, o incluso han visto un ligero crecimiento.  La investigación destaca que el impacto de la IA se relaciona más con la experiencia que con el tipo de trabajo.  Se consideran factores como la pandemia y los despidos tecnológicos, concluyendo que la IA tiene un impacto independiente.  Los autores sugieren políticas gubernamentales y el desarrollo de sistemas de colaboración humano-máquina para mitigar los efectos negativos y maximizar los beneficios de la IA. Se advierte que el impacto en trabajadores jóvenes podría extenderse a otros con más experiencia.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre el impacto de la inteligencia artificial en el mercado laboral, un tema central en ciencia y tecnología.  Analiza datos, estudios e implicaciones futuras, lo que lo hace altamente relevante para la categoría."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Une personne sur quatre n'a pas d'accès sécurisé à l'eau potable, selon l'ONU",
+      "link": "https://www.sciencesetavenir.fr/sante/une-personne-sur-quatre-n-a-pas-d-acces-securise-a-l-eau-potable-selon-l-onu_187815?xtor=RSS-16",
+      "fecha_obj": "2025-08-26T06:00:09+00:00",
+      "fecha_str": "26-08-2025 06:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "2.100 millones carecen de acceso a agua potable segura, según la ONU; el objetivo 2030 está lejos.",
+      "resumen": "Un nuevo informe de la ONU revela que 2.100 millones de personas aún no tienen acceso a agua potable segura, lo que representa una cuarta parte de la población mundial.  A pesar de avances desde 2015, con 961 millones más accediendo a este servicio, el objetivo de cobertura universal para 2030 se aleja.  El informe destaca la persistencia del uso de aguas superficiales contaminadas y las desigualdades, especialmente en África, donde la falta de acceso es más pronunciada.  Se enfatiza la importancia del agua potable, el saneamiento y la higiene como derechos humanos fundamentales, y la vulnerabilidad de las niñas, quienes a menudo se encargan de la recolección del agua.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien el acceso al agua potable tiene implicaciones tecnológicas en cuanto a su gestión y purificación, el tema principal del artículo es de índole social y sanitaria, no directamente científico-tecnológico."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Vietnam: trois morts après le passage du typhon Kajiki",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/vietnam-trois-morts-apres-le-passage-du-typhon-kajiki_187814?xtor=RSS-15",
+      "fecha_obj": "2025-08-26T05:19:22+00:00",
+      "fecha_str": "26-08-2025 05:19 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Tyfón Kajiki azo Vietnam dejando tres muertos y daños devastadores.",
+      "resumen": "El tyfón Kajiki azotó Vietnam el lunes con vientos de 130 km/h, causando tres muertes y 13 heridos.  Más de 1,6 millones de personas se quedaron sin electricidad y miles de casas sufrieron daños en sus techos.  Las fuertes lluvias provocaron inundaciones y aislaron 27 aldeas en zonas montañosas.  Más de 44.000 personas fueron evacuadas.  En Hanoï, las inundaciones causaron caos en las calles.  El tyfón, que luego se debilitó, también afectó Laos, interrumpiendo el servicio ferroviario de alta velocidad entre Laos y China.  El artículo relaciona estos eventos con el cambio climático y menciona el alto número de víctimas por desastres naturales en Vietnam durante el 2025.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien el artículo menciona el cambio climático como factor contribuyente, el enfoque principal es el impacto del tifón, un evento meteorológico.  La conexión con ciencia y tecnología es indirecta, a través del análisis científico del cambio climático y la infraestructura afectada (ferrocarril de alta velocidad)."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: the White House Farm murder case re-examined 40 years on",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/26/tv-tonight-the-white-house-farm-case-re-examined-40-years-on",
+      "fecha_obj": "2025-08-26T05:20:20+00:00",
+      "fecha_str": "26-08-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: desde el caso White House Farm hasta la comedia de ciencia ficción, hay opciones para todos.",
+      "resumen": "La programación televisiva de esta noche ofrece una variedad de opciones.  Se reexamina el caso White House Farm, un impactante asesinato familiar ocurrido en 1985.  También se presentan nuevos episodios de 'The Great British Sewing Bee', 'The Jury: Murder Trial', y 'Tommy: The Good. The Bad. The Fury'.  La comedia de ciencia ficción 'Resident Alien' regresa con una nueva temporada, y 'Crime Scene Cleaners' muestra el trabajo de limpieza de escenas de crímenes.  Finalmente, se incluye la película 'Wheel of Fortune and Fantasy' y eventos deportivos como partidos de cricket y fútbol.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien se menciona la semana del arte en 'The Great British Sewing Bee' y la película 'Wheel of Fortune and Fantasy', la mayor parte del artículo se centra en programas de crímenes, reality shows y deportes.  La relevancia para la categoría 'Cultura Arte' es baja."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Dos notas de Clarín y una entrevista de Revista Ñ, premiadas por la Sociedad Interamericana de Prensa",
+      "link": "https://www.clarin.com/cultura/notas-clarin-entrevista-revista-n-premiados-sociedad-interamericana-prensa_0_JLGqMdpYpw.html",
+      "fecha_obj": "2025-08-26T02:15:27+00:00",
+      "fecha_str": "26-08-2025 02:15 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Clarín y Revista Ñ, premiados por la SIP por excelencia periodística en cultura, política y crónica.",
+      "resumen": "La Sociedad Interamericana de Prensa (SIP) premió artículos de Clarín y Revista Ñ, entre otros medios argentinos.  Héctor Pavón de Revista Ñ ganó por una entrevista con Jens Balzer sobre apropiación cultural.  Hugo Alconada Mon de La Nación ganó por una entrevista con Pepe Mujica.  También fueron premiados Pablo Javier Blanco por una crónica y Alejandro Borensztein por una columna de opinión. Los premios reconocen la calidad periodística en un contexto de autoritarismo y desinformación, abarcando temas diversos como la apropiación cultural, la guerra de Malvinas y la política argentina.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo destaca la entrevista sobre apropiación cultural, un tema central en la cultura y el arte.  También se menciona la Revista Ñ, un medio cultural, y se discute la obra de artistas y la cultura argentina, otorgándole relevancia a la categoría."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Colorado Town Settles With Native Artist Who Brought Free Speech Lawsuit",
+      "link": "https://hyperallergic.com/1036790/colorado-town-settles-with-native-artist-danielle-seewalker-who-brought-free-speech-lawsuit/",
+      "fecha_obj": "2025-08-25T21:26:41+00:00",
+      "fecha_str": "25-08-2025 21:26 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Artista nativa americana llega a acuerdo con Vail tras demanda por censura de arte pro-Palestina.",
+      "resumen": "La pintora Húŋkpapȟa Lakȟóta Danielle SeeWalker llegó a un acuerdo con la ciudad de Vail, Colorado, después de que cancelaran su residencia artística por una obra pro-Palestina.  La demanda, presentada por la ACLU de Colorado, alegaba violación de la libertad de expresión. El acuerdo incluye fondos para un programa de arte para personas desfavorecidas, un powwow anual organizado por SeeWalker durante cinco años, un foro comunitario sobre Israel y Palestina, y capacitación anual en sensibilidad cultural indígena para empleados municipales. SeeWalker considera que el acuerdo beneficia a otros artistas, priorizando el impacto comunitario sobre sus propias quejas. Vail argumentó que no usaría fondos públicos para apoyar una postura en un tema geopolítico polarizante, a pesar de que la obra en cuestión no estaba destinada al mural comisionado.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre la censura de una artista, un tema central en el debate sobre libertad de expresión en el arte, y las consecuencias legales y el acuerdo subsecuente.  Además, se centra en el arte nativo americano y su representación, aspectos relevantes dentro de la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
   }
 ]
