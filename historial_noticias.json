@@ -2318,5 +2318,165 @@
       "relevancia_justificacion": "El artículo trata directamente sobre la censura de una artista, un tema central en el debate sobre libertad de expresión en el arte, y las consecuencias legales y el acuerdo subsecuente.  Además, se centra en el arte nativo americano y su representación, aspectos relevantes dentro de la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Vote de confiance à Bayrou : le Medef appelle la classe politique à ne pas ajouter «du chaos au chaos»",
+      "link": "https://www.lefigaro.fr/politique/en-direct-le-gouvernement-fait-sa-rentree-avec-un-conseil-des-ministres-a-moins-de-deux-semaines-d-un-vote-de-confiance-decisif-a-l-assemblee-nationale-20250827",
+      "fecha_obj": "2025-08-27T07:06:02+00:00",
+      "fecha_str": "27-08-2025 07:06 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El Medef urge a la clase política francesa a evitar más caos y a mantener la estabilidad para impulsar la economía.",
+      "resumen": "Patrick Martin, presidente del Medef (movimiento empresarial francés), expresó su preocupación por la inestabilidad política en Francia, calificándola de factor de bloqueo para las empresas.  Señaló que la incertidumbre lleva a la subinversión, fuga de capitales y frena la contratación.  Martin instó a la clase política a no añadir más caos a la situación actual,  a mantener las instituciones sólidas y al presidente en su cargo.  Criticó la imposición de más restricciones a las empresas, que ya contribuyen significativamente al financiamiento de los servicios públicos.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "La noticia afecta la economía francesa, un actor importante en el ámbito internacional.  La inestabilidad política en un país como Francia tiene repercusiones globales, aunque el impacto directo en otros países puede ser indirecto."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "«Le cap est clair» : en cas de dissolution après le vote de confiance, Glucksmann prévient qu’il «n’y aura pas d’accord avec LFI»",
+      "link": "https://www.lefigaro.fr/politique/le-cap-est-clair-en-cas-de-dissolution-apres-le-vote-de-confiance-glucksmann-previent-qu-il-n-y-aura-pas-d-accord-avec-lfi-20250827",
+      "fecha_obj": "2025-08-27T07:05:39+00:00",
+      "fecha_str": "27-08-2025 07:05 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Glucksmann descarta acuerdo con LFI tras posible disolución de la Asamblea Nacional francesa.",
+      "resumen": "Ante la inminente moción de confianza de Bayrou el 8 de septiembre, que probablemente fracasará, Raphaël Glucksmann de Place publique descarta un acuerdo con La France Insoumise (LFI) en caso de disolución.  A pesar de una anterior alianza en el Nuevo Frente Popular, Glucksmann prioriza una 'izquierda democrática y republicana'.  Si bien no desea la disolución, considera que un mes para intentar aprobar un presupuesto equilibrado es necesario antes de contemplar otras opciones.  El PS, aunque no la desea, se prepara para unas elecciones anticipadas, considerando la posibilidad de alianzas locales contra la extrema derecha, pero descartando un acuerdo programático con LFI a nivel nacional.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre la política interna francesa, pero la posible disolución de la Asamblea Nacional y las consecuencias políticas a nivel nacional tienen implicaciones internacionales, especialmente en el contexto europeo y las relaciones entre partidos de izquierda."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Gabriel Attal : « Je ferai tout pour aider François Bayrou à rester Premier ministre »",
+      "link": "https://www.lemonde.fr/politique/article/2025/08/27/gabriel-attal-je-ferai-tout-pour-aider-francois-bayrou-a-rester-premier-ministre_6636147_823448.html",
+      "fecha_obj": "2025-08-27T07:02:12+00:00",
+      "fecha_str": "27-08-2025 07:02 UTC",
+      "source_name": "Le Monde International"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Attal asegura apoyo a Bayrou como primer ministro, pese a discrepancias sobre medidas económicas.",
+      "resumen": "Gabriel Attal, líder del grupo parlamentario Renaissance, confirmó su apoyo a François Bayrou para que continúe como primer ministro, a pesar de sus diferencias sobre algunas políticas.  Attal votará a favor de la confianza al gobierno el 8 de septiembre, aunque se opone a la eliminación de festivos sin compensación salarial y no se compromete con la izquierda sobre la fiscalidad de los ricos.  Rechaza una nueva disolución, considerando que la anterior no clarificó la situación política. Bayrou, por su parte, ha pedido responsabilidad ante la deuda nacional, instando a evitar el caos.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La noticia trata sobre la política francesa, un tema de relevancia internacional por el papel de Francia en la Unión Europea y la geopolítica global. La crisis política interna francesa puede tener consecuencias internacionales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "There’s an obvious way to challenge Nigel Farage. But Keir Starmer won’t do it | Rafael Behr",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/27/nigel-farage-keir-starmer-brexit-truth",
+      "fecha_obj": "2025-08-27T06:00:28+00:00",
+      "fecha_str": "27-08-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Farage's plan: masiva deportación de migrantes; Starmer debe refutar su fracaso con el Brexit.",
+      "resumen": "El artículo analiza el plan de Nigel Farage para la deportación masiva de migrantes, criticando su falta de realismo y consecuencias negativas.  Farage busca explotar la frustración pública sobre la inmigración, presentando su propuesta como una solución a problemas creados en parte por el Brexit. El autor argumenta que Keir Starmer debería confrontar directamente el fracaso del Brexit impulsado por Farage, en lugar de evitar el tema, para contrarrestar su influencia y ofrecer una alternativa creíble.  Se critica la cobertura complaciente de los medios hacia Farage y se destaca la necesidad de que Starmer refute la narrativa de Farage sobre la inmigración y el Brexit.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente las propuestas de Farage y la estrategia política de Starmer, ofreciendo una perspectiva argumentada sobre un tema de actualidad política."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Europe Has Found Its Formula for Managing Trump",
+      "link": "https://www.nytimes.com/2025/08/27/opinion/europe-ukraine-trump.html",
+      "fecha_obj": "2025-08-27T05:00:05+00:00",
+      "fecha_str": "27-08-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La unidad europea frente a Trump: ¿un nuevo liderazgo o una reacción a la inacción estadounidense?",
+      "resumen": "El artículo analiza la respuesta europea a la presidencia de Trump, destacando la inusual unidad europea en la gestión de la situación, a pesar de su histórica tendencia a seguir el liderazgo estadounidense.  Si bien Trump impulsó el aumento del gasto en defensa europeo, su diplomacia ineficaz en Ucrania forzó a Europa a una mayor colaboración.  La visita conjunta de una delegación europea liderada por Zelenski a Estados Unidos ilustra esta nueva unidad, aunque aún queda por ver si esta cooperación se traducirá en un liderazgo europeo más asertivo en la escena internacional, especialmente en el conflicto ucraniano.  La ausencia de Polonia en la visita es un punto a considerar.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un análisis de opinión sobre la política exterior europea y la relación con Estados Unidos bajo la presidencia de Trump.  Su perspectiva interpretativa y argumentativa lo ubican claramente dentro de la categoría de 'Opinion Ensayo'.  La puntuación es alta debido a su análisis profundo y a la presentación de una tesis clara sobre la unidad europea en un contexto geopolítico complejo."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "After a summer of submission to Trump, Europe knows it must defend Ukraine – and itself – alone | Paul Taylor",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/27/summer-submission-trump-europe-defence-ukraine",
+      "fecha_obj": "2025-08-27T04:00:25+00:00",
+      "fecha_str": "27-08-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Europa se enfrenta sola a la agresión rusa tras un verano de sumisión a Trump, cuestionándose su capacidad para defender Ucrania.",
+      "resumen": "Tras un verano de concesiones a Trump, Europa asume la responsabilidad de defender Ucrania sin la ayuda de Estados Unidos.  La falta de apoyo estadounidense, evidenciada por un acuerdo comercial desfavorable y la reticencia a imponer sanciones a Rusia, deja a Europa en una posición vulnerable.  Si bien hubo una demostración de unidad en la Casa Blanca, las divisiones internas en Europa y la incertidumbre sobre el compromiso de Estados Unidos debilitan la capacidad de una coalición europea para garantizar la seguridad de Ucrania.  La posibilidad de una fuerza de paz europea se ve cuestionada por la falta de apoyo estadounidense y la falta de voluntad política en algunos países europeos, dejando a Ucrania como el principal responsable de su propia defensa.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión clara y argumentada sobre la situación geopolítica entre Europa, Estados Unidos, Rusia y Ucrania. Analiza las consecuencias de las decisiones políticas y expone las preocupaciones sobre la capacidad de Europa para actuar de forma independiente.  Se ajusta perfectamente a la categoría de opinión ensayo."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Bright city lights make birds around the world sing longer",
+      "link": "https://www.nature.com/articles/d41586-025-02726-0",
+      "fecha_obj": "2025-08-27T00:00:00+00:00",
+      "fecha_str": "27-08-2025 00:00 UTC",
+      "source_name": "Nature News"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La contaminación lumínica prolonga el canto de las aves a nivel mundial.",
+      "resumen": "Un estudio revela que la luz artificial de las ciudades afecta el comportamiento de las aves, haciéndolas cantar durante más tiempo.  Investigadores analizaron datos de diversas especies en diferentes regiones, descubriendo una correlación entre la intensidad de la luz artificial y la duración del canto.  Este fenómeno podría tener implicaciones significativas en la ecología y la comunicación de las aves, alterando sus patrones naturales de comportamiento y reproducción. Se necesitan más estudios para comprender a fondo las consecuencias a largo plazo de esta contaminación lumínica en las poblaciones aviares.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un descubrimiento científico sobre el impacto de la tecnología (iluminación artificial) en la naturaleza (comportamiento animal), encajando perfectamente en la categoría 'Ciencia y Tecnología'.  La investigación utiliza datos y análisis, propios del ámbito científico, para llegar a una conclusión relevante."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: the art wunderkind behind an $86m art fraud scandal",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/27/tv-tonight-art-gallery-wunderkind-made-in-chelsea-star-86m-art-fraud",
+      "fecha_obj": "2025-08-27T05:20:25+00:00",
+      "fecha_str": "27-08-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: desde fraudes millonarios en el arte hasta rescates en alta mar.",
+      "resumen": "La programación televisiva incluye un documental sobre el fraude artístico de Inigo Philbrick, un programa sobre rescates marítimos, un episodio de 'George Clarke’s Beautiful Builds', el penúltimo capítulo de 'Destination X', el drama judicial 'Mudtown', un documental sobre un caso policial macabro ('Limbs in the Loch: Catching a Killer') y las películas 'Thunderbolts' y 'The Claim'.  'The Great Art Fraud' explora el escándalo de 86 millones de dólares protagonizado por Philbrick, mientras que otros programas ofrecen una mezcla de drama, realidad y misterio.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo destaca 'The Great Art Fraud', un documental sobre un importante fraude en el mundo del arte, lo que lo hace altamente relevante para la categoría.  Si bien otros programas no son directamente de arte, la presencia de este documental justifica una alta puntuación."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Nora Iniesta expone ‘365, año calendario’ a 41 años de su primera muestra",
+      "link": "https://www.clarin.com/cultura/nora-iniesta-expone-365-ano-calendario-41-anos-primera-muestra_0_DsHRAdF6Qw.html",
+      "fecha_obj": "2025-08-26T23:45:41+00:00",
+      "fecha_str": "26-08-2025 23:45 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "41 años después, Nora Iniesta reexhibe '365, año calendario', una reflexión artística sobre el tiempo y el trabajo.",
+      "resumen": "La artista Nora Iniesta presenta en la Galería Alejandro Bustillo del Banco Nación su obra '365, año calendario', compuesta por doce piezas que representan los días del año mediante fichas de reloj.  Creada en 1984, la serie explora la abstracción a través de dibujos en cada ficha, reflejando un proceso creativo dual: el dibujo individual y la composición de los calendarios mensuales.  La muestra, que se resignifica con la mirada actual, es vista por el curador Andrés Duprat como un testimonio material de la plusvalía, contrastando el tiempo individual con el tiempo laboral.  Iniesta reflexiona sobre su propia evolución artística y la autenticidad de su trabajo a través de los años.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia se centra en una exposición de arte, ofreciendo detalles sobre la obra, la artista, el proceso creativo y la interpretación curatorial.  Su relevancia para la categoría 'Cultura Arte' es máxima, al cubrir aspectos clave como la historia del arte, la creación artística y la crítica de arte."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "A Landmark Raphael Retrospective Is Coming to The Met",
+      "link": "https://hyperallergic.com/1037141/a-landmark-raphael-retrospective-is-coming-to-the-met/",
+      "fecha_obj": "2025-08-26T22:17:29+00:00",
+      "fecha_str": "26-08-2025 22:17 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El Met presenta una retrospectiva de Rafael: 200 obras maestras que revelan la sublime poesía de un genio.",
+      "resumen": "El Museo Metropolitano de Arte de Nueva York albergará una exposición retrospectiva de Rafael, titulada \"Rafael: Sublime Poesía\", que se inaugurará el 29 de marzo y se extenderá hasta el 28 de junio.  La muestra, siete años en preparación, reunirá más de 200 obras, incluyendo pinturas, dibujos y tapices, procedentes de colecciones internacionales como el Vaticano, el Louvre y el Prado.  La curadora, Carmen C. Bambach, explorará la evolución artística de Rafael, desde sus inicios en Urbino hasta su muerte en Roma, incluyendo análisis temáticos y estudios científicos.  La exposición promete una visión integral del artista, destacando su personalidad, sus técnicas y su influencia en el Renacimiento.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La exposición se centra en la obra de uno de los artistas más importantes del Renacimiento, Rafael.  La muestra es de gran envergadura, con obras de renombre mundial, y promete un análisis profundo de su arte y su contexto histórico, lo que la hace altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
   }
 ]
