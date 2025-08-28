@@ -2478,5 +2478,149 @@
       "relevancia_justificacion": "La exposición se centra en la obra de uno de los artistas más importantes del Renacimiento, Rafael.  La muestra es de gran envergadura, con obras de renombre mundial, y promete un análisis profundo de su arte y su contexto histórico, lo que la hace altamente relevante para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Plus de 2000 enfants vivent dans la rue en France, déplorent plusieurs associations",
+      "link": "https://www.lefigaro.fr/actualite-france/plus-de-2000-enfants-vivent-dans-la-rue-en-france-deplorent-plusieurs-associations-20250828",
+      "fecha_obj": "2025-08-28T07:10:06+00:00",
+      "fecha_str": "28-08-2025 07:10 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Más de 2000 niños duermen en la calle en Francia, una cifra subestimada que exige una respuesta política urgente.",
+      "resumen": "Unicef Francia y la Federación de Actores de la Solidaridad (FAS) denuncian que más de 2000 niños, incluyendo 503 menores de 3 años, durmieron en la calle en Francia el 18 de agosto.  Esta cifra, obtenida tras llamadas al número de emergencia 115, representa un aumento del 6% respecto al año pasado y del 30% respecto a 2022, y se considera subestimada al no incluir familias que no llamaron al 115 o viven en situaciones precarias. La saturación de los sistemas de alojamiento de emergencia y la crisis de vivienda son las causas principales.  Las asociaciones exigen más inversión en vivienda social y más plazas de alojamiento, criticando la subfinanciación crónica del programa de alojamiento de emergencia y la falta de planificación del gobierno.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El problema del sinhogarismo infantil es una problemática social relevante con implicaciones internacionales, ya que afecta a un país miembro de la Unión Europea y puede servir como ejemplo de políticas sociales en otros países."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Pour Manuel Valls, «la dissolution, c’est la menace d’une quasi-disparition» du bloc central et du PS",
+      "link": "https://www.lefigaro.fr/politique/en-direct-bayrou-budget-assemblee-nationale-dissolution-vote-de-confiance-demission-20250828",
+      "fecha_obj": "2025-08-28T07:08:03+00:00",
+      "fecha_str": "28-08-2025 07:08 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "CFDT planea manifestación en septiembre en París, en paralelo a \"Bloquemos todo\", ante incertidumbre post-elecciones.",
+      "resumen": "La CFDT, principal sindicato francés, anunció una manifestación propia en París para septiembre.  Esta acción se realizará simultáneamente al movimiento \"Bloquemos todo\", el 10 de septiembre.  La decisión se debe a la incertidumbre sobre el gobierno tras las elecciones del 8 de septiembre, dificultando la identificación de un interlocutor para las demandas sindicales. Marylise Léon, líder de la CFDT, busca una movilización en el momento en que se defina el presupuesto,  priorizando la interacción con el gobierno que surja tras las elecciones.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre un importante sindicato francés y sus planes de movilización, lo que tiene implicaciones políticas y sociales a nivel nacional e internacional. La incertidumbre política post-electoral en Francia es un tema relevante en la esfera internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Les 10 Commandements : le reste de la tournée annulée pour des raisons économiques",
+      "link": "https://www.lefigaro.fr/theatre/les-10-commandements-le-reste-de-la-tournee-annulee-pour-des-raisons-economiques-20250828",
+      "fecha_obj": "2025-08-28T07:04:57+00:00",
+      "fecha_str": "28-08-2025 07:04 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Gira de la comedia musical \"Les Dix Commandements\" cancelada por problemas económicos.",
+      "resumen": "La producción de la comedia musical \"Les Dix Commandements\",  relanzada en 2024 con Pascal Obispo, canceló todas sus fechas en Francia debido a la imposibilidad de encontrar un modelo económico viable.  Las pérdidas acumuladas en las primeras presentaciones llevaron a esta decisión.  Los espectáculos previstos en varias ciudades francesas entre noviembre de 2024 y febrero de 2026, incluyendo Beauvais, Amiens, Besançon, Le Havre, Troyes y Burdeos, fueron cancelados. Los organizadores aseguraron que los espectadores que ya habían comprado entradas serán reembolsados. La gira, que tuvo un gran éxito a principios de la década de 2000, regresó el año pasado con Obispo componiendo toda la música.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien la noticia trata sobre un evento cultural de gran envergadura, su alcance se limita al ámbito francés.  El impacto internacional es mínimo, afectando principalmente a los fans franceses y a la industria del entretenimiento francesa."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Bluefin tuna are miraculously returning to UK shores – only to be tormented for ‘sport’ | George Monbiot",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/28/bluefin-tuna-fishing-contest-environment",
+      "fecha_obj": "2025-08-28T07:00:26+00:00",
+      "fecha_str": "28-08-2025 07:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El auge de la pesca deportiva del atún rojo en Reino Unido amenaza su recuperación, priorizando el 'espectáculo' sobre la conservación.",
+      "resumen": "El artículo critica la creciente práctica de la pesca deportiva del atún rojo en Reino Unido, denunciando la falta de regulación y el daño infligido a estos animales.  A pesar del retorno del atún rojo a las costas británicas, la pesca recreativa, impulsada por licencias gubernamentales sin suficientes estudios científicos, pone en riesgo su supervivencia. Se evidencia una alta tasa de mortalidad tras la captura y liberación, debido a prácticas irresponsables de los pescadores, que contravienen las pocas normas existentes.  El autor propone alternativas como el avistamiento de atunes, una industria sostenible que beneficiaría a la economía local y la preservación de la especie.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo expresa una opinión clara y argumentada sobre la problemática de la pesca deportiva del atún rojo, presentando datos, ejemplos y propuestas alternativas.  Cumple con todos los requisitos de un ensayo de opinión, incluyendo una tesis, argumentos, evidencia y una conclusión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "As Putin’s bombs fall on Ukraine, the Royal Opera House had a call to make about Anna Netrebko. It made the wrong one | Martin Kettle",
+      "link": "https://www.theguardian.com/commentisfree/2025/aug/28/anna-netrebko-royal-opera-house-ukraine-russia-putin",
+      "fecha_obj": "2025-08-28T05:00:23+00:00",
+      "fecha_str": "28-08-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La Royal Opera House se enfrenta a una controversia por contratar a Anna Netrebko mientras la guerra en Ucrania continúa.",
+      "resumen": "El artículo analiza la decisión de la Royal Opera House de contratar a la soprano rusa Anna Netrebko, a pesar de su pasado de apoyo a Putin y la guerra en Ucrania.  Se discuten los argumentos a favor y en contra de su contratación, incluyendo las declaraciones de Netrebko contra la guerra y las críticas de artistas ucranianos y políticos. El autor critica la falta de coherencia de la Royal Opera House, acusándola de priorizar las ganancias sobre sus valores. Se plantean posibles soluciones como cancelar la actuación o que Netrebko haga una declaración contundente contra la guerra.  El autor concluye que la decisión de la Royal Opera House probablemente generará protestas.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión clara y argumentada sobre un tema de actualidad, con análisis de diferentes perspectivas y una conclusión contundente.  Se ajusta a la estructura de un ensayo de opinión, analizando un tema controvertido con base en hechos y argumentos."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Supreme Court Must Limit This President. Start With the Fed.",
+      "link": "https://www.nytimes.com/2025/08/27/opinion/lisa-cook-trump-supreme-court.html",
+      "fecha_obj": "2025-08-28T01:11:26+00:00",
+      "fecha_str": "28-08-2025 01:11 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump intenta destituir a una gobernadora de la Reserva Federal, generando una crucial batalla legal sobre los límites presidenciales.",
+      "resumen": "El artículo analiza el intento del presidente Trump de destituir a Lisa Cook, miembro de la Junta de Gobernadores de la Reserva Federal.  Esto plantea la cuestión constitucional de si el presidente puede controlar las decisiones de política monetaria de la Fed.  El autor argumenta que la respuesta debería ser no, basándose en la comprensión histórica de la independencia de la Fed.  Se cita a un profesor de derecho que ha estudiado este tema.  La destitución de Cook genera un debate legal de gran importancia sobre los límites del poder presidencial y la autonomía de la Reserva Federal.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre un tema político y legal de alta relevancia, analizando las implicaciones constitucionales de la acción presidencial.  Su estructura, análisis y conclusión lo califican como un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Alfie Allen stars in action-packed thriller Atomic",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/28/tv-tonight-alfie-allen-stars-in-action-packed-thriller-atomic",
+      "fecha_obj": "2025-08-28T05:20:23+00:00",
+      "fecha_str": "28-08-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: ¡Acción, misterio y drama en Atomic, The Dog House y más!",
+      "resumen": "La programación televisiva de esta noche ofrece una variedad de opciones.  'Atomic', en Sky Atlantic, presenta un thriller de acción con Alfie Allen y Shazad Latif. Channel 4 ofrece el conmovedor regreso de 'The Dog House', mientras que 'Ben Fogle: New Lives in the Wild' muestra la vida sencilla de un agricultor en Japón.  ITV1 presenta el desafío final de 'The Fortune Hotel', y BBC Three celebra la vida de la fallecida Vivienne. Channel 4 también emite un nuevo episodio de 'First Dates', y Netflix estrena 'The Thursday Murder Club', una adaptación cinematográfica de la popular serie de novelas.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien se menciona la película 'The Thursday Murder Club' y el programa 'Dear Viv', que podría tener algún elemento cultural, la mayoría de la programación se centra en realities y thrillers, no directamente en arte o cultura."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "arteba 2025: todas las ‘celebrities’ e invitados destacados que recorrieron la muestra antes que nadie",
+      "link": "https://www.clarin.com/cultura/arteba-2025-todas-celebrities-invitados-destacados-recorrieron-muestra-nadie_0_KFnx0wbRaB.html",
+      "fecha_obj": "2025-08-28T00:13:36+00:00",
+      "fecha_str": "28-08-2025 00:13 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "arteba 2025: celebridades, artistas y autoridades se reunieron en la pre-apertura.",
+      "resumen": "La pre-apertura de arteba 2025 reunió a destacadas figuras del mundo del arte, la cultura y la política.  Entre los asistentes se encontraban funcionarios como el jefe de Gobierno porteño Jorge Macri y la ministra de Cultura Gabriela Ricardes, coleccionistas como Eduardo Costantini, artistas reconocidos como Marta Minujín y Edgardo Giménez, y personalidades del ámbito social.  El evento, que se desarrolló en Costa Salguero, ofreció un recorrido por 11.000 m² con galerías, propuestas gastronómicas y música, mostrando la apuesta de la feria a la innovación y la interconexión con otras industrias.  La feria abre al público general del jueves al domingo.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo cubre completamente un evento clave en el mundo del arte contemporáneo argentino, incluyendo la participación de figuras relevantes del sector y detalles de la muestra. Es altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Museos de compras: las primeras adquisiciones de arteba 2025",
+      "link": "https://www.clarin.com/cultura/museos-compras-primeras-adquisiciones-arteba-2025_0_qmGFgMc04r.html",
+      "fecha_obj": "2025-08-27T22:33:05+00:00",
+      "fecha_str": "27-08-2025 22:33 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Arteba 2025: Museos argentinos y extranjeros adquieren obras maestras contemporáneas.",
+      "resumen": "El artículo cubre las adquisiciones de arte realizadas por varias instituciones en Arteba 2025.  Museos como el Nacional de Bellas Artes (obra de Oscar Bony), el Moderno (piezas de Yannitto, Maggi, entre otros), MALBA (obras de Martorell, Benítez, Alvarado), y la Fundación Klemm (obra de Berakha) realizaron importantes compras.  También se destacan adquisiciones internacionales, como las del Museo de Arte de Lima (obras de Berger) y el Museo Des Moines de St. Louis (obras de Deisler y Traverso). La Colección Balanz adquirió una obra de Marta Minujín.  Las adquisiciones reflejan una amplia gama de estilos y artistas contemporáneos, fortaleciendo las colecciones de las instituciones participantes.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra completamente en las adquisiciones de arte en una feria importante,  detallando las obras, artistas y museos involucrados. Es altamente relevante para la categoría 'Cultura Arte' por su cobertura exhaustiva del mercado y las tendencias del arte contemporáneo."
+    },
+    "categoria": "cultura_arte"
   }
 ]
