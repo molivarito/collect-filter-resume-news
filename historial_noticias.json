@@ -3022,5 +3022,197 @@
       "relevancia_justificacion": "El evento es una feria de libros de arte, un tema central dentro de la categoría 'Cultura Arte'.  La información incluye detalles sobre artistas, editoriales y exhibiciones, lo que lo hace altamente relevante para esta categoría."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "À Paris, les fans d’Harry Potter ont célébré une rentrée magique avec «Retour à Poudlard»",
+      "link": "https://www.lefigaro.fr/cinema/a-paris-les-fans-d-harry-potter-ont-celebre-une-rentree-magique-avec-retour-a-poudlard-20250831",
+      "fecha_obj": "2025-08-31T06:38:29+00:00",
+      "fecha_str": "31-08-2025 06:38 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "París celebra el evento \"Regreso a Hogwarts\", un examen mágico para fans de Harry Potter.",
+      "resumen": "Más de 3500 fans de Harry Potter se reunieron en la biblioteca Sainte-Geneviève de París para participar en el evento anual \"Regreso a Hogwarts\", organizado por Warner Bros. Discovery.  La actividad, que se realiza simultáneamente en varios países, consistió en un cuestionario y una prueba de dictado sobre la saga.  Los participantes, con disfraces y entusiasmo, disfrutaron de una experiencia inmersiva con la presencia de los actores de doblaje de Draco Malfoy y Dolores Umbridge.  El evento, gratuito, fue todo un éxito y ya se planea una nueva edición en 2026 para celebrar el 25 aniversario de la primera película.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El evento tuvo lugar en París, Francia, y atrajo a participantes de diversas regiones.  Su alcance internacional y la popularidad global de Harry Potter justifican una puntuación alta, aunque el foco principal es un evento específico en un país."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "EuroBasket : «Il faut valider cette victoire contre Israël», les Bleus passent leur premier (gros) test avec succès",
+      "link": "https://www.lefigaro.fr/sports/basket/eurobasket-il-faut-valider-cette-victoire-contre-israel-les-bleus-passent-leur-premier-gros-test-avec-succes-20250831",
+      "fecha_obj": "2025-08-31T06:30:00+00:00",
+      "fecha_str": "31-08-2025 06:30 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Francia vence a Eslovenia en un emocionante partido de EuroBasket, liderados por la actuación estelar de Francisco.",
+      "resumen": "La selección francesa de baloncesto logró una importante victoria contra Eslovenia en el EuroBasket, a pesar de un comienzo titubeante.  Luka Doncic, de Eslovenia, brilló con 39 puntos, pero Francia, con una gran remontada en la segunda mitad, se impuso 103-95.  Sylvain Francisco lideró a los franceses con 32 puntos, una actuación destacada que contribuyó a la victoria. El entrenador Fauthoux destacó la importancia de la victoria y la necesidad de mantener el impulso en el próximo partido contra Israel.  A pesar de la juventud del equipo, demostraron capacidad de reacción y juego colectivo.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre un evento deportivo internacional de gran relevancia, el EuroBasket,  con la participación de equipos nacionales. La victoria de Francia es una noticia de interés para los aficionados al baloncesto y el público internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Israël dit avoir frappé des sites du Hezbollah près du château de Beaufort, dans le sud du Liban",
+      "link": "https://www.lefigaro.fr/flash-actu/israel-dit-avoir-frappe-des-sites-du-hezbollah-pres-du-chateau-de-beaufort-dans-le-sud-du-liban-20250831",
+      "fecha_obj": "2025-08-31T06:24:57+00:00",
+      "fecha_str": "31-08-2025 06:24 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Israel ataca infraestructuras militares de Hezbolá cerca del castillo de Beaufort en el sur del Líbano.",
+      "resumen": "El ejército israelí lanzó un ataque este domingo contra sitios del grupo libanés Hezbolá, cerca del castillo de Beaufort, en el sur del Líbano.  Según un comunicado de Tsahal (ejército israelí), el ataque se llevó a cabo tras la detección de \"actividad militar\" en la zona.  El comunicado afirma que se atacaron infraestructuras militares, incluyendo instalaciones subterráneas.  La acción israelí se produce en un contexto de tensiones regionales, y no se han reportado inmediatamente bajas o daños significativos.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El suceso involucra a dos países (Israel y Líbano) y un grupo armado (Hezbolá) con implicaciones geopolíticas en la región.  La acción militar tiene un impacto internacional y es noticia relevante en el ámbito de las relaciones internacionales y los conflictos en Oriente Medio."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Bernie Sanders: Kennedy Must Resign",
+      "link": "https://www.nytimes.com/2025/08/30/opinion/bernie-sanders-robert-f-kennedy-jr-resign-hhs.html",
+      "fecha_obj": "2025-08-31T06:37:59+00:00",
+      "fecha_str": "31-08-2025 06:37 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Kennedy debe renunciar por sus recortes a la salud pública que ponen en riesgo la vida de los estadounidenses.",
+      "resumen": "Bernie Sanders critica duramente al Secretario de Salud Kennedy por sus acciones que debilitan el sistema de salud estadounidense.  Sanders destaca los recortes a vacunas, investigación de pandemias y fondos estatales para la salud pública, lo que aumenta la vulnerabilidad ante futuras pandemias y enfermedades.  Además, señala los recortes al Obamacare y Medicaid que dejarán sin seguro médico a millones y perjudicarán hospitales y centros de salud.  Sanders argumenta que estas políticas, lejos de mejorar la salud, la empeoran, poniendo en riesgo la vida de los ciudadanos y contradiciendo la preparación para futuras pandemias.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo expresa claramente la opinión de Sanders sobre las políticas de Kennedy y sus consecuencias negativas para la salud pública.  Es un ensayo argumentativo que presenta una postura crítica con justificaciones y evidencia, lo que lo hace altamente relevante para la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Happiness Is a Big, Ugly Sofa",
+      "link": "https://www.nytimes.com/2025/08/31/opinion/sofa-couch-adult-purchase-home.html",
+      "fecha_obj": "2025-08-31T05:00:12+00:00",
+      "fecha_str": "31-08-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Un sofá nuevo, un nuevo comienzo: una historia de empoderamiento y la búsqueda de un hogar propio.",
+      "resumen": "El artículo narra la experiencia de una madre soltera que, tras años de vivir en espacios precarios y con la constante crítica de su expareja, finalmente compra un sofá nuevo para su apartamento. Este sofá representa mucho más que un mueble; simboliza la independencia, la creación de un hogar propio y el anhelo de un espacio donde pueda ejercer control y disfrutar de la maternidad sin juicios.  A pesar de su idealización inicial, el sofá se convierte en un espacio de vida familiar, lleno de amor, desorden y la cotidianidad de su nueva realidad. La autora reflexiona sobre la diferencia entre la expectativa y la realidad, mostrando cómo la felicidad se encuentra en la imperfección y la calidez del hogar.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión personal y reflexiva sobre la maternidad, la independencia y la búsqueda de la felicidad en un espacio propio.  La narrativa es introspectiva y utiliza el sofá como metáfora de un proceso personal y emocional, lo que lo hace adecuado para la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Trump Has Obliterated America’s 30-Year Courtship of India",
+      "link": "https://www.nytimes.com/2025/08/31/opinion/trump-us-india.html",
+      "fecha_obj": "2025-08-31T05:00:06+00:00",
+      "fecha_str": "31-08-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump's acciones dañaron la relación entre Estados Unidos e India, deshaciendo décadas de cooperación.",
+      "resumen": "El artículo argumenta que la relación entre Estados Unidos e India, cultivada durante 30 años por presidentes estadounidenses, fue gravemente dañada por Donald Trump.  Trump se atribuyó el mérito de finalizar un conflicto entre India y Pakistán, lo que irritó a India.  Además, almorzó con el jefe del ejército pakistaní, y declaró que la economía india estaba 'muerta', imponiendo aranceles punitivos a las importaciones indias.  Estas acciones contrastan con la visión de una alianza estratégica entre ambas naciones, vista por presidentes anteriores como esencial para el equilibrio global.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión sobre el impacto de las políticas de Trump en la relación entre Estados Unidos e India, ofreciendo un análisis crítico y argumentativo, propio de un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Le trésor génétique des pommes oubliées",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/agriculture/le-tresor-genetique-des-pommes-oubliees_187929?xtor=RSS-15",
+      "fecha_obj": "2025-08-31T06:00:00+00:00",
+      "fecha_str": "31-08-2025 06:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Pommiers sauvages: un trésor génétique pour sauver les pommes du changement climatique.",
+      "resumen": "Un verger conservatoire étudie le Malus sylvestris, pommier sauvage européen, pour améliorer la résistance des pommes cultivées au changement climatique.  Des chercheurs analysent la croissance, la floraison et la composition des feuilles de 400 arbres provenant de différentes régions.  Les données collectées permettent d'identifier des gènes de résistance à la sécheresse, aux maladies et aux variations de température.  Ce projet vise non seulement à améliorer les variétés cultivées, mais aussi à préserver le Malus sylvestris, menacé par l'hybridation avec les pommiers domestiques et la fragmentation de son habitat.  L'étude s'étend à d'autres espèces fruitières sauvages.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre investigación científica aplicada a la agricultura, utilizando tecnología para analizar datos genéticos y climáticos con el fin de mejorar la resistencia de las plantas al cambio climático.  Es altamente relevante para la categoría 'Ciencia y Tecnología'."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Produire de l'électricité grâce aux vagues, un rêve qui devient réalité à Los Angeles",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/produire-de-l-electricite-grace-aux-vagues-un-reve-qui-devient-realite-a-los-angeles_187990?xtor=RSS-15",
+      "fecha_obj": "2025-08-31T03:00:12+00:00",
+      "fecha_str": "31-08-2025 03:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Los Angeles prueba una revolucionaria tecnología para generar electricidad a partir del movimiento de las olas.",
+      "resumen": "Eco Wave Power, una empresa israelí, está probando en el puerto de Los Angeles un sistema innovador para generar energía eléctrica a partir del movimiento de las olas.  El sistema, compuesto por flotadores que accionan un mecanismo hidráulico, se fija a los muelles, reduciendo los costos y problemas de mantenimiento asociados con sistemas marinos. Si tiene éxito, podría generar energía para 60.000 hogares y representa una alternativa viable a otras energías renovables, especialmente en zonas costeras.  Aunque la energía undimotriz ha tenido dificultades en el pasado, este proyecto, con su diseño adaptable y ubicación estratégica, ofrece una nueva esperanza para la explotación de esta fuente de energía renovable a gran escala.  Sin embargo, la viabilidad a largo plazo depende de la disponibilidad de infraestructuras costeras adecuadas y de superar las barreras regulatorias.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo describe un avance tecnológico en la generación de energía renovable a partir de las olas, un tema altamente relevante para la ciencia y la tecnología.  La innovación en el diseño y la posible implementación a gran escala lo hacen especialmente significativo."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "En Argentine, la \"tango thérapie\" pour mieux supporter la maladie de Parkinson",
+      "link": "https://www.sciencesetavenir.fr/sante/en-argentine-la-tango-therapie-pour-mieux-supporter-la-maladie-de-parkinson_187991?xtor=RSS-16",
+      "fecha_obj": "2025-08-31T03:00:09+00:00",
+      "fecha_str": "31-08-2025 03:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "En Argentina, la terapia con tango ayuda a pacientes con Parkinson a mejorar su movilidad y estado de ánimo.",
+      "resumen": "Un hospital público de Buenos Aires utiliza el tango como terapia para pacientes con Parkinson.  Durante 15 años, cerca de 200 pacientes han participado en talleres que buscan mejorar la marcha, el equilibrio y la calidad de vida.  La terapia se centra en la capacidad del tango para trabajar la coordinación, el ritmo y la interacción social, contrarrestando síntomas motores y el aislamiento. Los resultados son alentadores, mostrando mejoras en la movilidad, el estado de ánimo y la capacidad cognitiva.  El tango se convierte en una herramienta complementaria a los tratamientos farmacológicos, ofreciendo una rehabilitación motora y un estímulo emocional.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El estudio tiene relevancia científica por investigar una terapia innovadora para una enfermedad neurodegenerativa.  Si bien no es un avance tecnológico en sí, la aplicación del tango como terapia es un hallazgo que puede tener impacto en la salud y el bienestar de los pacientes. La investigación médica sobre nuevas terapias es relevante para la categoría Ciencia y Tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: who will get Liz Hurley’s inheritance?",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/aug/31/tv-tonight-who-will-get-liz-hurleys-inheritance",
+      "fecha_obj": "2025-08-31T05:15:20+00:00",
+      "fecha_str": "31-08-2025 05:15 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: drama, juegos de herencia, crímenes reales y fútbol.",
+      "resumen": "La programación televisiva incluye el juego de herencia \"The Inheritance\", donde los participantes compiten por la herencia de Liz Hurley.  También se ofrece el último episodio de \"Parenthood\", un documental de David Attenborough sobre la crianza animal.  Otros programas incluyen \"Educating Yorkshire\", mostrando la vida en una escuela secundaria; \"Murder Case: Who Killed Kiesha?\", un análisis de un caso de asesinato; y \"I Fought the Law\", un drama sobre una madre que busca justicia por el asesinato de su hija. Finalmente, \"King & Conqueror\" continúa la historia de la Batalla de Hastings, y se ofrece una cobertura en vivo de partidos de la Premier League.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien incluye el drama \"I Fought the Law\", la mayor parte del artículo se centra en la programación televisiva, incluyendo documentales de naturaleza y reality shows, lo que tiene poca relación con la cultura y el arte en sentido estricto."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Murió Luis Fernando Verissimo, el escritor brasileño que convirtió a Borges en detective y fue un maestro del humor",
+      "link": "https://www.clarin.com/cultura/murio-luis-fernando-verissimo-escritor-brasileno-convirtio-borges-detective-maestro-humor_0_Iugl3gXG5e.html",
+      "fecha_obj": "2025-08-30T19:55:55+00:00",
+      "fecha_str": "30-08-2025 19:55 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Fallece Luis Fernando Verissimo, maestro del humor brasileño, a los 88 años.",
+      "resumen": "El reconocido escritor y humorista brasileño Luis Fernando Verissimo murió a los 88 años.  Sufrió un accidente cardiovascular años atrás y recientemente una neumonía.  Autor prolífico de más de 60 libros, incluyendo crónicas, novelas y cómics, vendió millones de ejemplares.  Verissimo, admirador de Borges, incluso lo convirtió en detective en su novela 'Borges y los orangutanes eternos'.  Su obra, que incluye títulos como 'El analista Bagé' y 'Comedias de la vida privada', fue adaptada a la televisión.  El presidente Lula lamentó su muerte, destacando su humor e ironía para criticar la dictadura.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia del fallecimiento de un importante escritor y la descripción de su obra pertenecen claramente a la categoría 'Cultura Arte'. Su impacto en la literatura brasileña y su legado justifican la máxima puntuación."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "arteba y el desafío de las galerías que llevan una década de trabajo: crecer en un mercado exigente",
+      "link": "https://www.clarin.com/cultura/arteba-desafio-galerias-llevan-decada-trabajo-crecer-mercado-exigente_0_NEgeXhW8Ij.html",
+      "fecha_obj": "2025-08-30T18:24:33+00:00",
+      "fecha_str": "30-08-2025 18:24 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Galerías argentinas consolidadas: un análisis de su crecimiento, desafíos y éxito en arteba.",
+      "resumen": "El artículo explora el crecimiento de galerías argentinas con más de una década de trayectoria, destacando su profesionalismo y honestidad en un mercado exigente.  Se centra en la experiencia de Constitución, Hache, Moria y Piedras en arteba, la feria de arte más importante del país.  Las galerías describen sus estrategias para representar a artistas con carreras maduras, lidiando con la 'meseta de la mediana carrera' y la necesidad de un aumento de precios paulatino.  A pesar de los desafíos económicos, la participación en arteba se presenta como fundamental para la visibilidad, la generación de contactos y las ventas, incluso en un contexto de crisis.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra en el mercado del arte argentino, las estrategias de galerías establecidas, su participación en ferias de arte y los desafíos económicos del sector.  Toda la información es altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
   }
 ]
