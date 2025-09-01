@@ -3214,5 +3214,197 @@
       "relevancia_justificacion": "El artículo se centra en el mercado del arte argentino, las estrategias de galerías establecidas, su participación en ferias de arte y los desafíos económicos del sector.  Toda la información es altamente relevante para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Vote de confiance : Christine Lagarde écarte le scénario d’une intervention du FMI en France",
+      "link": "https://www.lefigaro.fr/conjoncture/vote-de-confiance-christine-lagarde-ecarte-une-intervention-du-fmi-en-france-20250901",
+      "fecha_obj": "2025-09-01T07:11:19+00:00",
+      "fecha_str": "01-09-2025 07:11 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Lagarde descarta intervención del FMI en Francia pese a crisis política.",
+      "resumen": "Christine Lagarde, presidenta del BCE, expresó preocupación por el impacto de las crisis políticas en la confianza de los mercados,  especialmente ante la posible caída del gobierno francés.  Sin embargo, descartó la necesidad de una intervención del FMI en Francia, argumentando que la situación financiera del país no justifica tal medida.  Lagarde explicó que el FMI interviene cuando un país tiene un déficit en cuenta corriente grave y no puede cumplir sus obligaciones, situación que, según ella, no se presenta en Francia.  A pesar de la inestabilidad política, Lagarde confía en la capacidad de Francia para gestionar sus finanzas públicas.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia trata sobre la situación política y económica de Francia, un país relevante a nivel internacional. La opinión de la presidenta del BCE, una institución global,  sobre la posibilidad de una intervención del FMI,  tiene implicaciones internacionales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Incident informatique dans plusieurs banques : Crédit Mutuel évoque une «panne inédite»",
+      "link": "https://www.lefigaro.fr/societes/incident-informatique-dans-plusieurs-banques-credit-mutuel-evoque-une-panne-inedite-20250901",
+      "fecha_obj": "2025-09-01T07:08:21+00:00",
+      "fecha_str": "01-09-2025 07:08 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Panne informatique massive au Crédit Mutuel bloque les transactions pendant deux heures.",
+      "resumen": "Une panne informatique majeure a frappé le Crédit Mutuel et ses filiales CIC et Monabanq samedi après-midi.  Le système de vérification des transactions a cessé de fonctionner entre 17h20 et 20h15, empêchant les retraits et paiements par carte bancaire.  Le Crédit Mutuel qualifie l'incident d'inédité, expliquant que les serveurs d'autorisation étaient hors service.  Malgré la panne, certains paiements ont pu être effectués manuellement. Le Crédit Mutuel s'excuse auprès de ses clients et assure que les transactions refusées ne seront pas débitées. Des mesures ont été prises pour éviter une répétition.",
+      "relevancia_score": 6,
+      "relevancia_justificacion": "Bien qu'étant un événement national français, l'ampleur de la panne affectant un grand groupe bancaire et de nombreux clients a une certaine résonance internationale.  L'impact sur les services financiers et la confiance du public est un sujet qui dépasse les frontières."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "South Korea Doctors’ Strike Begins to Wind Down",
+      "link": "https://www.nytimes.com/2025/09/01/world/asia/south-korea-doctors-strike.html",
+      "fecha_obj": "2025-09-01T07:01:35+00:00",
+      "fecha_str": "01-09-2025 07:01 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Huelga médica en Corea del Sur concluye tras 18 meses de disputas sobre aumento de médicos y condiciones laborales.",
+      "resumen": "Una huelga de médicos de 18 meses en Corea del Sur está llegando a su fin. Más de 10,000 médicos residentes e internos comenzaron una huelga en febrero de 2023,  protestando contra el plan del presidente Yoon Suk Yeol de aumentar las admisiones a las escuelas de medicina en un 65%. Los médicos argumentaron que esto disminuiría la calidad de la atención médica sin abordar problemas como la sobrecarga de trabajo y la baja remuneración de médicos de emergencias y pediatría.  A pesar de las órdenes gubernamentales y amenazas de sanciones, la mayoría de los médicos se mantuvieron en huelga hasta ahora. El regreso al trabajo se inicia en algunos hospitales universitarios y privados.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La huelga médica afectó significativamente el sistema de salud de Corea del Sur, un país importante a nivel internacional.  La disputa involucró políticas gubernamentales y tiene implicaciones globales en temas de salud pública y condiciones laborales de los médicos."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Did Labour really think it was a good idea to let Farage hijack the summer headlines? | Frances Ryan",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/01/nigel-farage-deportations-reform-labour-keir-starmer",
+      "fecha_obj": "2025-09-01T07:00:51+00:00",
+      "fecha_str": "01-09-2025 07:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El silencio veraniego de Labour permitió a Farage dominar la agenda política, ¿un error estratégico?",
+      "resumen": "El artículo critica la inacción del Partido Laborista durante el receso parlamentario, permitiendo que Nigel Farage y su partido Reform UK, establecieran la agenda política, especialmente en temas de inmigración.  La falta de respuesta contundente de Labour, junto con la ausencia mediática de sus líderes, ha contribuido a un aumento del sentimiento anti-inmigrante y a la percepción de un gobierno débil.  La autora argumenta que esta pasividad, justificada a veces por la búsqueda de la electabilidad, ha dañado la imagen del partido y ha dejado un espacio vacío que Farage ha llenado con éxito, exacerbando la polarización política y la narrativa de una Gran Bretaña en crisis.  El artículo concluye cuestionando la estrategia y el propósito del gobierno laborista.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza y critica la estrategia política del Partido Laborista, ofreciendo una perspectiva argumentada sobre un tema de actualidad y relevancia política.  Presenta una tesis clara, argumentos sólidos, ejemplos concretos y una conclusión reflexiva, características propias de un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "It’s Labor Day. And Trump Is the Most Anti-Union President in Decades.",
+      "link": "https://www.nytimes.com/2025/09/01/opinion/trump-unions-labor.html",
+      "fecha_obj": "2025-09-01T06:20:00+00:00",
+      "fecha_str": "01-09-2025 06:20 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El artículo critica la pasividad sindical ante la presidencia anti-obrera de Trump y propone acciones para contrarrestarla.",
+      "resumen": "El artículo lamenta la falta de respuesta contundente del movimiento sindical estadounidense a las políticas anti-obreras de Donald Trump, contrastándola con la reacción a la crisis de los controladores aéreos en 1981.  Se argumenta que para sobrevivir, los sindicatos deben: 1) denunciar públicamente a líderes sindicales percibidos como pro-Trump; 2) involucrar a sus miembros en educación política continua, incluyendo temas divisivos; y 3) llenar el vacío de liderazgo económico que ha generado apoyo a Trump, ofreciendo soluciones a los problemas de la clase trabajadora.  Se concluye que los sindicatos deben usar su poder de huelga para contrarrestar la 'guerra' de Trump contra la clase trabajadora.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la respuesta del movimiento sindical a la presidencia de Trump, ofreciendo análisis, propuestas y conclusiones.  Su estructura y enfoque lo hacen adecuado para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Voting for Brexit, stopping the small boats – none of it will ever appease those who wage war on immigration | Nesrine Malik",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/01/immigration-nigel-farage-donald-trump",
+      "fecha_obj": "2025-09-01T05:00:50+00:00",
+      "fecha_str": "01-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La obsesión por controlar la inmigración es un círculo vicioso que nunca se aplaca.",
+      "resumen": "El artículo analiza la ineficacia de las medidas políticas contra la inmigración, argumentando que ninguna acción, por drástica que sea (Brexit, aumento de deportaciones, militarización de fronteras), satisface a quienes promueven una narrativa de crisis migratoria.  Se critica la manipulación política y mediática que exacerba el problema, creando un bucle de medidas cada vez más severas sin resolver el asunto subyacente.  El autor señala que el objetivo no es la cantidad de inmigrantes, sino su completa eliminación, lo cual es imposible.  Se utilizan ejemplos de Reino Unido y Estados Unidos para ilustrar la escalada de la represión migratoria, mostrando cómo las políticas afectan incluso a ciudadanos legalmente establecidos.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que explora a profundidad un tema de debate público, ofreciendo un análisis crítico y argumentos sustentados con ejemplos concretos.  Su estructura, estilo y contenido encajan perfectamente en la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "41 Best Labor Day Sales on WIRED-Tested Gear (2025)",
+      "link": "https://www.wired.com/story/best-labor-day-sales-deals-2025-1/",
+      "fecha_obj": "2025-08-31T22:55:08+00:00",
+      "fecha_str": "31-08-2025 22:55 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ofertas increíbles del Labor Day en tecnología, hogar y exteriores: ¡ahorra en productos WIRED-tested!",
+      "resumen": "El artículo detalla las mejores ofertas del Labor Day 2025 en artículos probados por WIRED, incluyendo tecnología (laptops, audífonos, televisores, etc.), artículos para el hogar (sillas de oficina, colchones, etc.) y exteriores (piscinas, fogatas, etc.).  Se destacan productos específicos con sus precios rebajados y se incluyen enlaces a reseñas completas.  La selección abarca desde equipos de alta gama hasta opciones económicas, ofreciendo una variedad para diferentes presupuestos y necesidades.  Se menciona la actualización del artículo con nuevas ofertas y se promueve la suscripción a WIRED.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo se centra en gran medida en productos tecnológicos, incluyendo laptops, auriculares, televisores y otros gadgets. Si bien también incluye artículos para el hogar y exteriores, la mayor parte del contenido está dedicado a la tecnología, justificando una alta puntuación en esta categoría."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Best Labor Day Mattress Sales (2025)",
+      "link": "https://www.wired.com/story/best-labor-day-mattress-deals-2025-1/",
+      "fecha_obj": "2025-08-31T22:06:16+00:00",
+      "fecha_str": "31-08-2025 22:06 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Increíbles ofertas del Labor Day en colchones Helix, Essentia y BedGear ¡Ahorra hasta un 27%",
+      "resumen": "El artículo presenta las mejores ofertas del Labor Day 2025 en colchones.  Se destacan ofertas de Helix (27% de descuento con código WIRED27), Essentia (25% de descuento en toda la web) y BedGear ($300 de descuento en la serie Performance).  Helix Midnight Luxe es recomendado para quienes duermen de lado. Essentia Tatami, una opción vegana, destaca por su soporte y comodidad. BedGear ofrece colchones que priorizan la frescura. El autor, un probador profesional de colchones, garantiza la veracidad de las ofertas.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo se centra en ofertas comerciales de colchones, sin relación directa con ciencia o tecnología.  No hay innovación tecnológica mencionada en los productos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Research roundup: 6 cool science stories we almost missed",
+      "link": "https://arstechnica.com/science/2025/08/research-roundup-6-cool-science-stories-we-almost-missed-2/",
+      "fecha_obj": "2025-08-31T19:13:34+00:00",
+      "fecha_str": "31-08-2025 19:13 UTC",
+      "source_name": "Ars Technica"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Nueva investigación desmiente la autenticidad de la Sábana Santa usando reconstrucción 3D y documentos antiguos.",
+      "resumen": "Un artículo resume investigaciones científicas recientes.  Destaca la reconstrucción digital 3D de la Sábana Santa, realizada por Cícero Moraes, que sugiere que la imagen no proviene de un cuerpo real sino de una representación artística.  Moraes comparó modelos de un cuerpo 3D y un bajorrelieve, concluyendo que este último se asemeja más a la imagen de la sábana.  Además, se menciona el descubrimiento de un tratado del siglo XIV de Nicole Oresme que cuestiona la autenticidad de la sábana, siendo el documento más antiguo que expresa escepticismo al respecto.  Otros avances científicos incluidos son la creación de plantas luminiscentes y una antena cambiante de forma.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre avances científicos y tecnológicos, incluyendo la aplicación de la tecnología 3D en la investigación histórica y el desarrollo de plantas bioluminescentes. La alta puntuación se debe a la combinación de ciencia, tecnología e historia."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "‘Beware of 419!’: how a playwright delved into Nigerian scams – and what it taught him about money",
+      "link": "https://www.theguardian.com/artanddesign/2025/sep/01/beware-of-419-how-a-playwright-delved-into-nigerian-scams-and-what-it-taught-him-about-money",
+      "fecha_obj": "2025-09-01T07:00:53+00:00",
+      "fecha_str": "01-09-2025 07:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El artista Inua Ellams explora la cultura del '419' en Nigeria, mostrando cómo la necesidad de supervivencia moldea la economía informal.",
+      "resumen": "El artículo describe la obra 'The 419' de Inua Ellams, una serie de retratos fotográficos y sonetos que exploran la cultura del '419' en Nigeria, un término que abarca desde pequeños fraudes hasta grandes estafas.  Ellams argumenta que el '419' es una respuesta a la falta de una red de seguridad social, una adaptación a un sistema capitalista donde la supervivencia exige la búsqueda constante de dinero.  La obra muestra cómo esta cultura permea todos los niveles de la sociedad nigeriana, desde vendedores ambulantes hasta políticos, cuestionando las percepciones occidentales sobre la corrupción y la economía informal. El proyecto utiliza el lenguaje y la estética para reflejar la complejidad de la situación.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La obra 'The 419' es una pieza artística que explora temas socioeconómicos a través de la fotografía y la poesía. Su análisis de la cultura nigeriana y su crítica a las percepciones occidentales la hacen altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: a moreish Welsh crime thriller that will have you squirming",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/01/tv-tonight-a-moreish-welsh-thriller-that-will-have-you-squirming",
+      "fecha_obj": "2025-09-01T05:20:49+00:00",
+      "fecha_str": "01-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: thrillers, documentales y un vistazo a la vida de Martin Parr.",
+      "resumen": "La programación televisiva incluye el thriller criminal galés 'The Guest', el documental 'Panorama: The £170 Million Diamond Scam' sobre un estafador de diamantes, 'Disaster at Sea: The Piper Alpha Story', un documental sobre el desastre de la plataforma petrolífera Piper Alpha, y 'I Am Martin Parr', un documental sobre el famoso fotógrafo británico.  También se presentan 'Stacey Dooley Sleeps Over', con Barrie Drewitt-Barlow, y 'Elsbeth', un drama criminal con David Alan Grier. La programación ofrece una mezcla de géneros, desde thrillers hasta documentales y retratos de artistas.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El documental sobre Martin Parr y su trabajo fotográfico es claramente relevante para la categoría 'Cultura Arte'.  Otros programas, aunque no directamente relacionados con las artes, ofrecen elementos culturales significativos."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "The best theatre to stream this month: Basil’s back as Fawlty Towers reopens for business",
+      "link": "https://www.theguardian.com/stage/2025/sep/01/the-best-theatre-to-stream-this-month-basils-back-as-fawlty-towers-reopens-for-business",
+      "fecha_obj": "2025-09-01T05:00:51+00:00",
+      "fecha_str": "01-09-2025 05:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Este mes, disfruta de clásicos como Fawlty Towers y nuevas obras maestras del teatro y la música.",
+      "resumen": "El artículo destaca diversas opciones de teatro y espectáculos disponibles en streaming o en cartelera.  Se mencionan obras como la adaptación teatral de Fawlty Towers, el musical The Curious Case of Benjamin Button, la obra Retrograde, y la producción de Handel's Messiah de Robert Wilson. También incluye musicales contemporáneos como Hot Mess y documentales como Madu, que sigue la historia de un bailarín nigeriano.  Finalmente, se anuncian eventos culturales como Bradford’s Big Bash y una versión adulta de Snow White.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra exclusivamente en eventos teatrales, musicales y documentales relacionados con las artes, por lo que es altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
   }
 ]
