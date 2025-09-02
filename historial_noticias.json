@@ -3406,5 +3406,181 @@
       "relevancia_justificacion": "El artículo se centra exclusivamente en eventos teatrales, musicales y documentales relacionados con las artes, por lo que es altamente relevante para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Mercato : avec plus de 3 milliards d’euros, l’Angleterre bat un record",
+      "link": "https://www.lefigaro.fr/sports/football/mercato-avec-plus-de-3-milliards-d-euros-l-angleterre-bat-un-record-20250902",
+      "fecha_obj": "2025-09-02T06:54:08+00:00",
+      "fecha_str": "02-09-2025 06:54 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Récord de gasto en fichajes: ¡La Premier League supera los 3 mil millones de euros!",
+      "resumen": "El mercado de fichajes europeo cerró con un récord de gasto en la Premier League, superando los 3 mil millones de euros.  Equipos como Liverpool, Arsenal, Manchester City y Chelsea lideraron las inversiones.  En España, Real Madrid y Atlético de Madrid fueron los más activos, mientras que el Barcelona tuvo una actividad más moderada debido a sus problemas financieros.  En Italia, la Serie A sorprendió con las contrataciones de Luka Modric (AC Milan) y Kevin De Bruyne (Nápoles). El Bayern de Múnich realizó fichajes de última hora para reforzar su ataque.  En general, el mercado mostró una gran actividad en las principales ligas europeas, con movimientos millonarios y cambios significativos en las plantillas de varios equipos.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo cubre noticias de fichajes en las principales ligas europeas, un tema de gran interés internacional en el mundo del fútbol."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Putin Finds a Growing Embrace on the Global Stage",
+      "link": "https://www.nytimes.com/2025/09/01/world/europe/russia-ukraine-putin-diplomacy.html",
+      "fecha_obj": "2025-09-02T06:52:35+00:00",
+      "fecha_str": "02-09-2025 06:52 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Putin, antes aislado, ahora goza de creciente apoyo internacional en la cumbre de la OSC.",
+      "resumen": "El artículo describe el cambio en la percepción internacional de Vladimir Putin.  Hace tres años, en una cumbre similar, Putin se encontró aislado, con líderes como los de China e India expresando su preocupación por la invasión de Ucrania.  Sin embargo, en la reciente cumbre de la Organización de Cooperación de Shanghai en Tianjin, China, Putin disfrutó de un recibimiento mucho más cálido.  Se le vio compartiendo momentos amistosos con líderes como Modi de India y Xi Jinping de China, y manteniendo reuniones privadas con líderes de Irán, Nepal, Tayikistán, Turquía y Vietnam.  El cambio refleja un cambio en el panorama geopolítico y una mayor aceptación de la narrativa rusa sobre la guerra en Ucrania.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre la política internacional, el posicionamiento de un líder mundial clave y las relaciones entre países.  Su impacto geopolítico es significativo, justificando una puntuación máxima."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Vote de confiance : Jordan Bardella et Marine Le Pen reçus ce matin à Matignon par François Bayrou",
+      "link": "https://www.lefigaro.fr/politique/en-direct-francois-bayrou-premier-ministre-jordan-bardella-marine-le-pen-gouvernement-vote-de-confiance-censure-20250902",
+      "fecha_obj": "2025-09-02T06:51:50+00:00",
+      "fecha_str": "02-09-2025 06:51 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Bardella y Le Pen se reunirán con Bayrou en Matignon antes de la votación de confianza.",
+      "resumen": "El vicepresidente del partido nacionalista francés, Sébastien Chenu, anunció que Marine Le Pen y Jordan Bardella se reunirán con François Bayrou en Matignon para expresar su desacuerdo con las políticas del gobierno.  A pesar del encuentro, el RN mantendrá su postura y votará en contra de la moción de confianza el 8 de septiembre. Chenu criticó a Bayrou, acusándolo de estar \"en el desmentido\", \"desresponsabilizado\" y \"desconectado de la realidad de los franceses\".  El RN busca mostrar alternativas políticas, pero su voto en contra permanece inamovible.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La noticia trata sobre un evento político de relevancia nacional en Francia, un país con gran influencia internacional. La reunión entre líderes de la oposición y un alto cargo del gobierno, así como la votación de confianza, son temas que trascienden las fronteras nacionales y tienen implicaciones internacionales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Memo to Tories looking at Farage and yearning to ‘unite the right’: that sounds like a plan to kill off our party | Justine Greening",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/02/tories-farage-unite-the-right-oblivion-reform",
+      "fecha_obj": "2025-09-02T07:00:31+00:00",
+      "fecha_str": "02-09-2025 07:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La estrategia de 'unir a la derecha' condenará al Partido Conservador, según Justine Greening.",
+      "resumen": "Justine Greening argumenta que la propuesta de los conservadores de 'unir a la derecha' con Reform UK es una receta para el desastre electoral.  Las encuestas muestran un apoyo mínimo al partido, y Greening sostiene que sumar los votos de ambos partidos no garantiza el triunfo, ya que el electorado conservador se ha dispersado.  Además, esta estrategia transmite la idea de que ambos partidos son indistinguibles, alienando a los votantes.  Greening propone una alternativa: que los conservadores que prefieren Reform UK se unan a este último, permitiendo a los conservadores restantes reconstruir el partido con una plataforma más centrista.  La autora concluye que un cambio fundamental, no una fusión, es crucial para la supervivencia del partido.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza una estrategia política, ofreciendo argumentos y una propuesta alternativa.  La estructura, el tono argumentativo y la conclusión clara lo convierten en un ensayo de opinión completo y relevante."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Blame migrants, or blame the rich? That’s the populist divide in Britain’s politics now | Gaby Hinsliff",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/02/blame-migrants-blame-the-rich-populist-divide-britains-politics",
+      "fecha_obj": "2025-09-02T05:00:28+00:00",
+      "fecha_str": "02-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El debate político británico se centra en culpar a los migrantes o a las élites ricas por los problemas económicos del país.",
+      "resumen": "El artículo analiza la polarización política en Reino Unido, donde el partido Reform UK culpa a la inmigración de los problemas nacionales, mientras que el Labour se inclina por responsabilizar a las élites ricas.  Una encuesta revela que más británicos culpan a los ricos que a los migrantes, aunque con matices generacionales.  El Labour considera una subida de impuestos a los ricos como estrategia electoral, a pesar de los riesgos.  El gobierno explora opciones impositivas, incluyendo herencias y pensiones, mostrando una mayor disposición a considerar medidas antes consideradas impensables.  La lucha política se centra en escoger el terreno más favorable para la batalla electoral.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la polarización política británica y las estrategias electorales de los partidos, analizando encuestas y políticas económicas.  Su estructura y análisis lo hacen adecuado para la categoría 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "France has a massive debt crisis. So why is it spending billions a year subsidising business? | Alexander Hurst",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/02/france-debt-crisis-business-government-collapse-austerity",
+      "fecha_obj": "2025-09-02T04:00:26+00:00",
+      "fecha_str": "02-09-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Francia, con una deuda masiva, subsidia empresas; ¿un modelo insostenible o una estrategia necesaria?",
+      "resumen": "El artículo analiza la paradoja de Francia: una deuda pública enorme (114% del PIB) y un déficit presupuestario del 5.8%, a pesar de un alto gasto público.  Se critica el gasto de €211 mil millones en subsidios empresariales para compensar un mercado laboral rígido, mientras servicios públicos como salud y educación sufren.  Se culpa la falta de una conversación honesta sobre las finanzas públicas, con propuestas superficiales de la derecha y la izquierda.  El autor propone que la solución reside en una mayor integración europea, imitando el modelo de \"flexicurity\" danés y adoptando políticas a escala europea para impulsar la competitividad y la sostenibilidad.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la situación económica francesa, ofreciendo un análisis crítico y propuestas de solución.  Se enmarca perfectamente en la categoría de 'Opinion Ensayo' por su naturaleza reflexiva, su perspectiva analítica y su propuesta de soluciones."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The 79 Best Deals From REI’s 2025 Labor Day Sale",
+      "link": "https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/",
+      "fecha_obj": "2025-09-01T14:47:48+00:00",
+      "fecha_str": "01-09-2025 14:47 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "REI's Labor Day sale: ¡Ahorros imperdibles en equipo para exteriores!",
+      "resumen": "El artículo detalla las mejores ofertas de la venta del Día del Trabajo de REI en 2025, incluyendo tiendas de campaña, mochilas, sacos de dormir, equipo de cocina y ropa para exteriores de marcas como REI, Hyperlite Mountain Gear y Mystery Ranch. Se destacan productos para diferentes actividades como senderismo, camping, ciclismo y viajes de aventura.  La reseña incluye valoraciones detalladas de cada producto, comparaciones entre modelos y recomendaciones para diferentes presupuestos y necesidades.  Se mencionan también ofertas en accesorios como linternas, bastones de trekking y filtros de agua.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien se mencionan algunos artículos con tecnología específica (cámaras de acción, mensajes satelitales), el enfoque principal del artículo es en equipamiento deportivo al aire libre, no en avances científicos o tecnológicos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "62 Best Labor Day Sales on Gear We've Tested—Just a Few Hours Left",
+      "link": "https://www.wired.com/story/best-labor-day-sales-deals-2025-2/",
+      "fecha_obj": "2025-09-01T14:45:42+00:00",
+      "fecha_str": "01-09-2025 14:45 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Últimas horas de ofertas increíbles en tecnología y hogar tras el Labor Day.",
+      "resumen": "El artículo detalla las mejores ofertas del Labor Day en productos tecnológicos y para el hogar, probados por WIRED.  Se destacan descuentos en altavoces JBL y Sonos, laptops Razer, auriculares Nothing Ear (a), televisores TCL, iPads y MacBooks de Apple, entre otros. También incluye ofertas en sillas de oficina Branch y Steelcase,  colchones Silk & Snow y Buffy, y artículos para exteriores como fogones Solo Stove y scooters Apollo.  La mayoría de las ofertas coinciden con los precios más bajos registrados, ofreciendo una oportunidad única para adquirir productos de alta calidad a precios reducidos.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien el artículo abarca productos para el hogar, una parte significativa se centra en dispositivos tecnológicos como laptops, altavoces, auriculares, televisores y smart home, justificando una puntuación alta en esta categoría."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: a former Liverpool player lifts the lid on a financial scandal",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/02/tv-tonight-a-former-liverpool-player-lifts-the-lid-on-a-financial-scandal",
+      "fecha_obj": "2025-09-02T05:20:28+00:00",
+      "fecha_str": "02-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Escándalo financiero en el fútbol, dramas familiares y costura de terror: la TV de esta noche.",
+      "resumen": "La programación televisiva incluye un documental sobre un escándalo financiero que afectó a exjugadores del Liverpool, llevando a algunos a la adicción.  También se presentan programas de restauración ('The Repair Shop'), repostería ('The Great British Bake Off'), veterinaria ('The Yorkshire Vet'), costura ('The Great British Sewing Bee'), y ciencia ficción ('Resident Alien').  Se anuncia la película 'Sisters' de Brian De Palma y un partido de cricket entre Inglaterra y Sudáfrica.  Los programas abarcan diversos géneros, desde la investigación periodística hasta la competencia y el entretenimiento.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien la programación incluye 'The Great British Sewing Bee', que podría relacionarse con el arte del diseño de vestuario, la mayor parte del contenido se centra en otros géneros como el deporte, la realidad y la ficción. La mención de la película de De Palma aporta un elemento cultural, pero no es el tema principal."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Personalidades de la cultura celebraron en el Teatro Colón el aniversario de Clarín",
+      "link": "https://www.clarin.com/cultura/personalidades-cultura-celebraron-teatro-colon-aniversario-clarin_0_QgA2CnypLz.html",
+      "fecha_obj": "2025-09-02T00:29:16+00:00",
+      "fecha_str": "02-09-2025 00:29 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El Teatro Colón celebró el 80 aniversario de Clarín con destacadas figuras de la cultura argentina.",
+      "resumen": "El Teatro Colón fue el escenario de una celebración por los 80 años de Clarín, donde se reunieron diversas personalidades del ámbito cultural argentino. Escritores, artistas, periodistas, intelectuales, editores, arquitectos y urbanistas, entre otros, asistieron al evento.  Entre los presentes se encontraban figuras como Marcelo Birmajer, Gabriela Cabezón Cámara, Maitena, Elena Roger,  y miembros de importantes instituciones culturales como Malba, Proa y el Fondo Nacional de las Artes. La velada incluyó un espectáculo especial titulado \"80 años de Clarín, El gran baile argentino\", protagonizado por Elena Roger. La reunión resaltó la larga relación entre Clarín y la comunidad cultural argentina.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo describe una celebración en un importante teatro con la asistencia de numerosas figuras relevantes del mundo del arte, la literatura, la arquitectura y la cultura en general, haciendo de este evento un suceso cultural de gran importancia."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "The Guest review – a gloriously ridiculous thriller that slips down a treat",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/01/the-guest-review-gloriously-ridiculous-thriller-slips-down-a-treat",
+      "fecha_obj": "2025-09-01T21:00:18+00:00",
+      "fecha_str": "01-09-2025 21:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Una rica empresaria se convierte en la improbable mentora de una joven limpiadora, pero su relación esconde un oscuro secreto.",
+      "resumen": "The Guest, una miniserie de cuatro episodios, sigue la historia de Ria, una joven limpiadora que encuentra una oportunidad inesperada trabajando para la rica Fran.  Aunque inicialmente parece una relación de mentora-protegida, pronto se desata una trama llena de giros, secretos, y sospechas.  La serie se caracteriza por su ritmo rápido, su premisa absurda y su elenco talentoso.  A pesar de no ser innovadora en su trama, la serie promete entretenimiento gracias a su intriga y a la gran cantidad de eventos que ocurren.  La relación entre Fran y Ria se vuelve cada vez más retorcida y peligrosa, dejando al espectador preguntándose hasta qué punto es segura la conexión entre ambas.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "La serie es una obra de ficción televisiva que cae dentro del ámbito de la cultura popular. Su análisis explora elementos narrativos y de producción, relevantes para la apreciación de la cultura audiovisual."
+    },
+    "categoria": "cultura_arte"
   }
 ]
