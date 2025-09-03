@@ -3582,5 +3582,181 @@
       "relevancia_justificacion": "La serie es una obra de ficción televisiva que cae dentro del ámbito de la cultura popular. Su análisis explora elementos narrativos y de producción, relevantes para la apreciación de la cultura audiovisual."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Jours fériés, AME, dissolution... Ce qu’il faut retenir de l’interview de François Bayrou",
+      "link": "https://www.lefigaro.fr/politique/jours-feries-ame-dissolution-ce-qu-il-faut-retenir-de-l-interview-de-francois-bayrou-20250903",
+      "fecha_obj": "2025-09-03T07:05:19+00:00",
+      "fecha_str": "03-09-2025 07:05 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Bayrou, ante la moción de confianza, defiende medidas impopulares y descarta la disolución.",
+      "resumen": "François Bayrou, primer ministro, enfrenta un voto de confianza inminente en la Asamblea Nacional.  Su propuesta de austeridad, incluyendo la eliminación de dos días festivos y el endurecimiento de la ayuda médica para inmigrantes, ha sido rechazada por la oposición.  Si bien está dispuesto a considerar alternativas para los días festivos,  se mantiene firme en sus medidas de ajuste presupuestario.  Bayrou descarta la disolución como opción, aunque reconoce que la decisión final reside en el presidente.  A pesar del escepticismo generalizado,  confía en obtener la confianza,  considerando la situación de la deuda pública como una amenaza para el país.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien la noticia se centra en la política interna francesa, las decisiones económicas y políticas de un gobierno importante tienen repercusiones internacionales, especialmente en la Unión Europea."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Législatives : en cas de dissolution, le RN largement en tête, le camp présidentiel en net recul… Découvrez le sondage du Figaro",
+      "link": "https://www.lefigaro.fr/politique/legislatives-en-cas-de-dissolution-le-rn-largement-en-tete-le-camp-presidentiel-en-net-recul-decouvrez-le-sondage-du-figaro-20250902",
+      "fecha_obj": "2025-09-03T07:03:35+00:00",
+      "fecha_str": "03-09-2025 07:03 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Sondaje: Si Francia se disuelve, la extrema derecha ganaría ampliamente según el Figaro.",
+      "resumen": "Una encuesta Ifop-Fiducial para Le Figaro explora un escenario de disolución de la Asamblea Nacional francesa.  Si se celebraran nuevas elecciones, el partido de extrema derecha, Rassemblement National (RN), saldría ampliamente victorioso, mientras que el bloque presidencial sufriría un fuerte retroceso.  Este escenario se plantea tras un voto de confianza crucial para el ministro François Bayrou, con múltiples llamados a disolver la asamblea debido al bloqueo político actual. La encuesta, sin embargo, no proyecta el número de escaños, solo las intenciones de voto.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre política francesa, un tema de relevancia internacional por la influencia de Francia en la Unión Europea y el mundo.  La posibilidad de un cambio significativo en el gobierno francés tiene implicaciones geopolíticas."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Vote de confiance : «Vous devez vous demander où est l’intérêt national», réitère François Bayrou aux parlementaires",
+      "link": "https://www.lefigaro.fr/politique/en-direct-francois-bayrou-premier-ministre-interview-assemblee-nationale-gouvernement-vote-censure-20250903",
+      "fecha_obj": "2025-09-03T07:03:02+00:00",
+      "fecha_str": "03-09-2025 07:03 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Bayrou defiende el endurecimiento del acceso a la ayuda médica estatal como una medida de sentido común.",
+      "resumen": "François Bayrou, en el contexto de un voto de confianza, ha defendido el endurecimiento del acceso a la ayuda médica estatal (AME).  Considera esta medida como \"de sentido común\", argumentando que no es justo pedir esfuerzos a los franceses si otros no contribuyen.  Esta postura se produce ante una solicitud del Rassemblement National (RN), partido de extrema derecha. Bayrou justifica su posición afirmando que cuando se exige sacrificio a los ciudadanos franceses, es necesario que todos participen en el esfuerzo, incluyendo aquellos que reciben ayuda del Estado.  Sus declaraciones resaltan un debate sobre la equidad y la sostenibilidad del sistema de salud francés.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien la política francesa tiene implicaciones internacionales, este artículo se centra en una política interna.  Su relevancia internacional es limitada, aunque podría tener repercusiones indirectas en la inmigración y la cooperación sanitaria con otros países."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Labour has succeeded only in strengthening Farage. The way is now open for Zack Polanski’s Greens | George Monbiot",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/03/green-party-zack-polanski-labour-reform",
+      "fecha_obj": "2025-09-03T05:00:16+00:00",
+      "fecha_str": "03-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El fracaso del Labour abre la puerta a los Verdes: Polanski como alternativa al auge de Farage.",
+      "resumen": "George Monbiot argumenta que el Labour, por su sumisión a los grupos de presión corporativos, ha fortalecido a Nigel Farage.  Esta inacción crea un vacío que Zack Polanski, líder de los Verdes, podría ocupar. Monbiot destaca la capacidad de Polanski para confrontar la extrema derecha con un discurso claro y políticas progresistas, como la nacionalización de servicios clave y una mayor redistribución de la riqueza.  Señala que la creciente desilusión con el Labour podría llevar a una votación estratégica hacia los Verdes, resultando en un cambio electoral significativo en 2029.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza la situación política actual del Reino Unido, ofreciendo una perspectiva crítica sobre el Labour y proponiendo una alternativa.  Su estructura argumentativa, análisis profundo y propuesta clara lo hacen un ejemplo perfecto de ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Door to Another African Democracy Is Closing",
+      "link": "https://www.nytimes.com/2025/09/03/opinion/chad-africa-democracy-masra.html",
+      "fecha_obj": "2025-09-03T05:00:05+00:00",
+      "fecha_str": "03-09-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El arresto del líder opositor chadiano Succès Masra evidencia el declive democrático en el Sahel y la pasividad internacional.",
+      "resumen": "El artículo denuncia el arresto y encarcelamiento del Dr. Succès Masra, ex primer ministro de transición de Chad, líder opositor y figura clave en la lucha por la democracia en el país.  Su detención, sin cargos claros y con aparente motivación política, simboliza el retroceso democrático en el Sahel. El autor, quien lo conocía personalmente, critica la falta de condena internacional, especialmente por parte de Estados Unidos,  considerándola cómplice de esta regresión.  El silencio internacional, según el texto, facilita el debilitamiento de la democracia en la región, convirtiendo el caso Masra en un ejemplo de una tendencia más amplia.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión clara y argumentada sobre la situación política en Chad y el Sahel, criticando la inacción internacional.  Su enfoque analítico y la inclusión de una experiencia personal lo convierten en un ensayo de opinión sólido y relevante."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Sun, sex, but no sangria? The Balearics’ booze crackdown might just save their tourist industry | Dimah Ajeeb",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/03/balearic-islands-sun-sex-alcohol-tourist-industry-europe",
+      "fecha_obj": "2025-09-03T04:00:12+00:00",
+      "fecha_str": "03-09-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Las Islas Baleares combaten el turismo de borrachera con éxito, pero el camino hacia un turismo sostenible aún es largo.",
+      "resumen": "Las Islas Baleares implementaron estrictas medidas contra el turismo de excesos, incluyendo restricciones a la venta de alcohol y multas por consumo público.  Un año después, se observa una reducción significativa de incidentes violentos en zonas como Magaluf y Sant Antoni. Sin embargo, la aplicación de las normas ha sido desigual, y algunos negocios locales se quejan de las consecuencias económicas.  El artículo destaca el desafío de equilibrar el turismo con la calidad de vida de los residentes y la necesidad de un enfoque sostenible a largo plazo, incluyendo campañas informativas y apoyo a negocios locales para ofrecer alternativas de mayor calidad.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la problemática del turismo de excesos y la respuesta de las Islas Baleares.  Analiza las consecuencias de las medidas implementadas, incluyendo tanto los aspectos positivos como los negativos, ofreciendo una perspectiva crítica y reflexiva sobre la sostenibilidad del turismo."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Target Promo Codes and Deals: Up to 50% Off",
+      "link": "https://www.wired.com/story/target-promo-code/",
+      "fecha_obj": "2025-09-03T05:05:00+00:00",
+      "fecha_str": "03-09-2025 05:05 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta un 50% en Target con cupones, tarjetas y ofertas exclusivas para estudiantes y miembros.",
+      "resumen": "Target ofrece diversas promociones para ahorrar dinero.  Al registrarse para una tarjeta Target Circle, se obtienen $50 de descuento en compras de $50 o más. La membresía Target Circle brinda descuentos del 5%, envío gratuito y ofertas exclusivas.  Los estudiantes reciben un 20% de descuento y hay ofertas especiales para quienes reciben asistencia gubernamental.  Existen cupones adicionales para registros de bebés y bodas, así como ofertas semanales y promociones en la aplicación.  El envío gratuito se aplica a compras superiores a $35 y Target ofrece una garantía de igualación de precios.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo se centra en las promociones y ofertas de Target, una tienda departamental.  Si bien menciona la tecnología como una categoría de productos, la información principal no está relacionada con avances científicos o tecnológicos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Newegg Promo Code: 10% Off in September 2025",
+      "link": "https://www.wired.com/story/newegg-promo-code/",
+      "fecha_obj": "2025-09-03T05:00:00+00:00",
+      "fecha_str": "03-09-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra en electrónica con los códigos promocionales de Newegg: ¡hasta 80% de descuento!",
+      "resumen": "El artículo describe las diversas promociones y descuentos disponibles en Newegg, un importante minorista online de electrónica.  Se destacan códigos promocionales exclusivos, como descuentos del 3% en monitores y portátiles para juegos, y un descuento del 8-10% para estudiantes con correo .edu.  También se menciona el programa de fidelización Newegg+, con envíos gratuitos y acceso a ofertas exclusivas, y eventos como Newegg Shuffle.  Se informa sobre ofertas estacionales como Black Friday y Cyber Monday, además de descuentos diarios y el programa EggPoints.  Finalmente, se promociona el Newegg PC Builder para armar computadoras personalizadas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra completamente en Newegg, un vendedor de tecnología, y detalla sus ofertas, promociones y programas de fidelización relacionados con productos tecnológicos.  Toda la información es altamente relevante para la categoría 'Ciencia y Tecnología'."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Young and in love: an intimate look at Los Angeles – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/sep/03/young-and-in-love-an-intimate-look-at-los-angeles-paul-jasmin-in-pictures",
+      "fecha_obj": "2025-09-03T06:00:15+00:00",
+      "fecha_str": "03-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Una muestra fotográfica evoca el glamour y los sueños de Los Ángeles a través de la obra de Paul Jasmin.",
+      "resumen": "La exposición \"Fade to West\" en la Fahey/Klein Gallery de Los Ángeles celebra la obra del fallecido fotógrafo Paul Jasmin y su colaboración con Todd Weaver.  Las imágenes de Jasmin, tomadas en el Valle de San Fernando en 2003 y otras, muestran una visión sensual y glamorosa de la ciudad, a la vez que arraigada en la realidad. La muestra, que estará disponible hasta el 13 de septiembre,  refleja el amor perdurable de Jasmin por Los Ángeles y su habilidad para capturar la esencia de sus soñadores.  La exposición es una retrospectiva de su talento, mostrando su capacidad para capturar la belleza y la realidad de la vida en Los Ángeles.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La exposición se centra en la obra de un fotógrafo, presentando imágenes con valor artístico y cultural, lo que la hace altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: an optimistic new dating show for Married at First Sight fans",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/03/tv-tonight-an-optimistic-new-dating-show-for-married-at-first-sight-fans",
+      "fecha_obj": "2025-09-03T05:20:14+00:00",
+      "fecha_str": "03-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: desde citas en una isla hasta misterios históricos y crímenes reales.",
+      "resumen": "La programación televisiva de esta noche ofrece una variada selección de programas.  'Stranded on Honeymoon Island' presenta un nuevo reality de citas; 'The Lost Neanderthals' explora el descubrimiento de restos neandertales en Francia; 'Nazis, U-boats and the Battle for the Atlantic' documenta la Batalla del Atlántico en la Segunda Guerra Mundial; 'Long Lost Family' aborda el escándalo de los hogares de madres e hijos; 'Mudtown' presenta un drama judicial; y 'Limbs in the Loch' relata un caso de asesinato real. La programación abarca desde el entretenimiento ligero hasta documentales históricos y dramas con temas complejos.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien 'The Lost Neanderthals' tiene cierta relevancia para la arqueología (y por extensión, la cultura), el resto de la programación se centra en realities, dramas y documentales históricos, sin una conexión directa con el arte o la cultura en general."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘A gilded temple to the new world order’: inside the former US embassy that is now a super-luxe hotel",
+      "link": "https://www.theguardian.com/artanddesign/2025/sep/03/a-gilded-temple-to-the-new-world-order-inside-the-former-us-embassy-that-is-now-a-super-luxe-hotel",
+      "fecha_obj": "2025-09-03T05:00:14+00:00",
+      "fecha_str": "03-09-2025 05:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La antigua embajada de EEUU en Londres, ahora un lujoso hotel, revela una historia de transformación y opulencia.",
+      "resumen": "El artículo describe la transformación de la antigua embajada estadounidense en Londres en el lujoso hotel Chancery Rosewood.  El edificio, diseñado por Eero Saarinen en los años 50, ha sido renovado por David Chipperfield Architects, manteniendo la fachada original pero añadiendo pisos y un impresionante sótano con spa y salón de baile.  La remodelación interior, realizada por Joseph Dirand, presenta un maximalismo opulento con materiales exóticos.  A pesar de la controversia por la demolición y reconstrucción interna, el hotel se presenta como un ejemplo de lujo extremo, con suites que alcanzan los £20,000 por noche, atrayendo a una clientela de alto poder adquisitivo.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre la arquitectura y el diseño de interiores de un edificio emblemático, incluyendo detalles históricos y artísticos, así como la controversia en torno a su remodelación.  La riqueza de detalles y la combinación de historia, arquitectura y diseño lo hacen relevante para la categoría, aunque el foco principal no es puramente artístico."
+    },
+    "categoria": "cultura_arte"
   }
 ]
