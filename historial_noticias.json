@@ -3758,5 +3758,181 @@
       "relevancia_justificacion": "El artículo trata sobre la arquitectura y el diseño de interiores de un edificio emblemático, incluyendo detalles históricos y artísticos, así como la controversia en torno a su remodelación.  La riqueza de detalles y la combinación de historia, arquitectura y diseño lo hacen relevante para la categoría, aunque el foco principal no es puramente artístico."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Guerre en Ukraine : les soutiens européens de Kiev réunis ce jeudi à Paris, un appel avec Trump prévu",
+      "link": "https://www.lefigaro.fr/international/guerre-ukraine-russie-direct-president-donald-trump-vladimir-poutine-france-kiev-20250904",
+      "fecha_obj": "2025-09-04T07:07:53+00:00",
+      "fecha_str": "04-09-2025 07:07 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Rusia rechaza cualquier intervención extranjera en Ucrania, mientras que Europa se reúne en París para apoyar a Kiev.",
+      "resumen": "Rusia ha declarado que no negociará ninguna forma de intervención extranjera en Ucrania, calificándola de inaceptable y perjudicial para la seguridad.  Esta declaración se produce antes de una reunión en París de aliados europeos de Ucrania para coordinar el apoyo a Kiev.  La negativa rusa a discutir cualquier intervención, incluso la posibilidad de despliegue de tropas por parte de algunos países europeos, subraya la firme oposición de Moscú a cualquier implicación externa en el conflicto.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre un conflicto internacional mayor, la guerra en Ucrania, involucrando a Rusia y varios países europeos.  La reunión en París y la declaración rusa son eventos de alta relevancia internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "La SPA affirme avoir recueilli 14% d’animaux de plus cet été que l’an dernier",
+      "link": "https://www.lefigaro.fr/animaux/la-spa-affirme-avoir-recueilli-14-d-animaux-de-plus-cet-ete-que-l-an-dernier-20250904",
+      "fecha_obj": "2025-09-04T07:04:38+00:00",
+      "fecha_str": "04-09-2025 07:04 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La SPA reporta un aumento del 14% en animales rescatados este verano, debido a la crisis económica y climática.",
+      "resumen": "La Sociedad Protectora de Animales (SPA) de Francia ha anunciado un incremento del 14% en el número de animales recogidos durante el verano de 2023 en comparación con el año anterior, alcanzando un total de 7.628 animales en sus refugios.  Este aumento se atribuye a diversos factores, incluyendo la difícil situación económica que dificulta las adopciones, el incremento de casos de maltrato animal, la llegada masiva de camadas de gatitos enfermos y las consecuencias de las olas de calor e incendios.  La SPA destaca las dificultades adicionales que estas circunstancias han generado para sus equipos y la capacidad de acogida de sus instalaciones, incluyendo brotes de tifus en algunos refugios.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien la noticia trata un tema de bienestar animal, su alcance se limita al ámbito nacional francés.  La crisis económica y climática son temas globales, pero la respuesta de la SPA es una acción local.  Por lo tanto, la relevancia internacional es limitada."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Menton : au grand musée Cocteau, fermé depuis sept ans, les donateurs veulent récupérer les 1800 œuvres",
+      "link": "https://www.lefigaro.fr/nice/menton-au-grand-musee-cocteau-ferme-depuis-sept-ans-les-donateurs-veulent-recuperer-les-1800-oeuvres-20250904",
+      "fecha_obj": "2025-09-04T07:01:00+00:00",
+      "fecha_str": "04-09-2025 07:01 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La fundación Wunderman demanda a Menton la devolución de 1800 obras de Cocteau tras siete años de cierre del museo.",
+      "resumen": "La fundación Wunderman, donataria de una extensa colección de obras de Jean Cocteau, exige a la ciudad de Menton la devolución de las piezas debido al cierre del museo Cocteau-Wunderman tras una inundación en 2018.  El museo, que debía albergar la colección de forma permanente, permanece cerrado por reparaciones que se estiman en 9 millones de euros y una reapertura dentro de cinco años.  La alcaldía alega haber hecho todo lo posible, reubicando algunas obras y argumentando que se mantendrá el espíritu de la donación. La fundación, sin embargo, considera que no se han cumplido las condiciones del acuerdo y amenaza con acciones legales para recuperar las obras.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien el tema es local, la disputa involucra una colección de arte de importancia internacional y un conflicto legal entre una fundación y una ciudad, lo que le da relevancia internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "While Starmer struggles with a broken system in Westminster, real power keeps leaking elsewhere | Rafael Behr",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/04/keir-starmer-nigel-farage-labour-reform-politics",
+      "fecha_obj": "2025-09-04T05:00:44+00:00",
+      "fecha_str": "04-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El poder político se escapa de Westminster; Farage, desde la periferia, eclipsa a Starmer.",
+      "resumen": "El artículo analiza la ineficacia del gobierno británico, personificada en la dificultad de Keir Starmer para ejercer el poder desde Westminster.  A pesar de la centralización del estado, los ministros carecen de influencia real, luchando contra una burocracia ineficiente y la presión mediática.  En contraste, Nigel Farage, desde fuera del sistema, ejerce una influencia significativa, explotando las redes sociales y la polarización política.  El autor cuestiona si el modelo político de Westminster es adecuado para la era digital, donde la influencia se genera en espacios informales y globales, dejando a Starmer luchando contra un sistema roto.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente el sistema político británico, ofreciendo una perspectiva sobre la distribución del poder y la ineficacia gubernamental.  Su estructura argumentativa, análisis político y conclusión justifican la alta puntuación."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The War in Ukraine Has a Shocking New Weapon",
+      "link": "https://www.nytimes.com/2025/09/04/opinion/russia-ukraine-sabotage-teens.html",
+      "fecha_obj": "2025-09-04T05:00:04+00:00",
+      "fecha_str": "04-09-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Adolescentes rusos, usados como armas en la guerra de Ucrania: un nuevo e impactante frente de batalla.",
+      "resumen": "El artículo describe el caso de tres adolescentes rusos que fueron reclutados para sabotear un avión de guerra, creyendo que solo ayudarían a la planta a obtener un seguro.  Sin embargo, las autoridades rusas determinaron que se trató de un ataque encubierto orquestado por Ucrania.  Este incidente ilustra una nueva forma de guerra híbrida, donde ambos bandos utilizan a jóvenes en ataques secretos, a menudo sin que estos sean conscientes de su verdadera función.  Se destaca la preocupante tendencia de la utilización de menores como armas en este conflicto, con consecuencias devastadoras para sus vidas.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo presenta un caso concreto que sirve como base para una opinión sobre la guerra híbrida y la utilización de menores en conflictos armados.  Permite reflexionar sobre las implicaciones éticas y morales de esta práctica, abriendo un espacio para un ensayo de opinión sobre la naturaleza cambiante de la guerra y la vulnerabilidad de los civiles, especialmente los jóvenes."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "No Abba, no meatballs? Sweden’s new cultural canon is a listicle that will soon be forgotten | Gabriel V Rindborg",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/04/sweden-cultural-canon-abba-ikea-meatballs",
+      "fecha_obj": "2025-09-04T04:00:41+00:00",
+      "fecha_str": "04-09-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El nuevo canon cultural sueco: ¿un intento fallido de definir la identidad nacional o una victoria ideológica?",
+      "resumen": "El artículo analiza el controvertido canon cultural sueco, una lista de 100 obras, ideas y marcas que buscan definir la identidad nacional. Criticado por su origen político (la extrema derecha), la falta de claridad en sus objetivos y la exclusión de íconos como ABBA, el canon refleja la lucha ideológica actual en torno a la cultura y la nación.  A pesar de las críticas y su probable destino al olvido, el canon ha logrado su objetivo ideológico: imponer una narrativa sobre la identidad sueca y el rol del estado en la definición de la cultura. El autor argumenta que este canon, similar a otros intentos fallidos, sirve para enmarcar el debate sobre la cultura nacional y la identidad, una victoria para la derecha que redefine el campo de batalla.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un evento cultural y político relevante, ofreciendo una perspectiva argumentada sobre su significado e implicaciones ideológicas más allá de su valor intrínseco."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Paramount Plus Coupon Codes and Deals: Up to 50% Off",
+      "link": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "fecha_obj": "2025-09-04T05:00:00+00:00",
+      "fecha_str": "04-09-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta un 50% en Paramount+ con cupones y descuentos para estudiantes y militares; ¡disfruta de series y eventos deportivos!",
+      "resumen": "El artículo promueve Paramount+, destacando su contenido variado: series como South Park y Yellowstone, películas como Top Gun: Maverick y Mean Girls, y eventos deportivos como la NFL. Ofrece un periodo de prueba gratuito de una semana y descuentos del 50% para estudiantes y militares.  Se mencionan dos planes: Essential (con anuncios) y Premium (sin anuncios).  Además, detalla una programación de estrenos para septiembre, incluyendo series originales y especiales.  El enfoque principal es incentivar la suscripción a través de ofertas y la promoción de su contenido.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo se centra en un servicio de streaming de entretenimiento, no en ciencia o tecnología.  Aunque la plataforma utiliza tecnología para funcionar, el contenido y la promoción no están relacionados con avances científicos o tecnológicos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "LegalZoom Promo Codes and Deals: 20% Off Services",
+      "link": "https://www.wired.com/story/legalzoom-promo-code/",
+      "fecha_obj": "2025-09-04T05:00:00+00:00",
+      "fecha_str": "04-09-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta un 20% en servicios legales de LegalZoom con códigos promocionales y ofertas especiales.",
+      "resumen": "El artículo describe la experiencia del autor usando LegalZoom para crear una LLC, destacando su facilidad de uso y el costo (entre $35 y $500, dependiendo del estado).  Se mencionan ofertas especiales, como descuentos del 10% y 20% en planes patrimoniales hasta el 10 de septiembre.  Además, se detallan otras maneras de ahorrar, incluyendo promociones estacionales, ofertas de Black Friday y Cyber Monday, planes anuales y planes de pago a plazos. El artículo enfatiza la utilidad de los recursos gratuitos de LegalZoom y la importancia de investigar las necesidades específicas antes de contratar servicios adicionales.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo trata sobre un servicio legal online, no sobre ciencia o tecnología. Si bien LegalZoom utiliza tecnología para ofrecer sus servicios, el enfoque principal no es tecnológico; es sobre procesos legales y planificación financiera."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Conspiracies, costume changes, and three-hour deep dives into Twilight: inside the wild west of YouTube video essays",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/04/youtube-video-essays-leftist-cooks-conspiracy-folding-ideas-angry-video-game-nerd",
+      "fecha_obj": "2025-09-04T07:00:46+00:00",
+      "fecha_str": "04-09-2025 07:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Los videoensayos de YouTube: un nuevo salvaje oeste de la creatividad online que combina análisis cultural, entretenimiento y activismo.",
+      "resumen": "El artículo explora el auge de los videoensayos en YouTube, un fenómeno cultural que combina análisis cultural profundo con la personalidad del creador.  Desde reseñas de videojuegos hasta análisis feministas de Twilight, estos videos, a menudo extensos y elaborados, atraen millones de espectadores.  A diferencia de la programación de streaming actual, que prioriza contenidos cortos y fáciles de digerir, los videoensayos ofrecen contenido reflexivo y matizado, llenando un vacío en la producción de documentales y contenido educativo.  Su éxito se debe, en parte, a la representación de voces marginadas y a la creación de una comunidad solidaria entre creadores y audiencia, aunque también enfrentan desafíos como la dependencia de la publicidad y las presiones de la audiencia.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo analiza un fenómeno cultural significativo que se manifiesta a través de la creación de videos,  explorando temas de arte, cine, cultura popular y análisis crítico.  La relevancia es alta por su enfoque en la producción de contenido creativo y su impacto cultural."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Buckeye by Patrick Ryan review – behind the American dream",
+      "link": "https://www.theguardian.com/books/2025/sep/04/buckeye-by-patrick-ryan-review-behind-the-american-dream",
+      "fecha_obj": "2025-09-04T06:00:44+00:00",
+      "fecha_str": "04-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Tras la fachada del sueño americano, 'Buckeye' revela la cruda realidad de vidas entrelazadas en la Ohio rural.",
+      "resumen": "La novela 'Buckeye', de Patrick Ryan, sigue las vidas de dos parejas en Bonhomie, Ohio, desde la década de 1920.  Se centra en Cal Jenkins, un hombre con una discapacidad que evita la guerra, y sus relaciones. La historia entrelaza la vida cotidiana con los traumas de la guerra y la complejidad de las relaciones, mostrando la fragilidad del sueño americano.  Ryan captura con precisión los detalles de la vida suburbana, contrastando la nostalgia con una profunda melancolía. La crítica destaca la habilidad de Ryan para crear personajes complejos y una narrativa que explora las heridas ocultas tras la aparente armonía.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La reseña analiza una novela, explorando su narrativa, personajes y estilo.  La obra literaria es un tema central dentro de la categoría 'Cultura Arte', por lo que la relevancia es alta."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Catch a break: surf adventures in the California sun – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/sep/04/california-sun-surf-in-pictures-todd-weaver-fade-to-west",
+      "fecha_obj": "2025-09-04T06:00:44+00:00",
+      "fecha_str": "04-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Aventuras de surf en California: imágenes que capturan la belleza del sol y el mar.",
+      "resumen": "El artículo presenta una fotografía de surf en Malibu, tomada en 2020 en First Point. El fotógrafo, utilizando una cámara Nikonos sumergible, describe el proceso creativo detrás de la imagen.  Se destaca la técnica de sumergir la cámara parcialmente para capturar los colores del cielo crepuscular reflejados en el agua. La imagen resultante es descrita como dramática. La anécdota del fotógrafo, combinada con la descripción de la técnica fotográfica, ofrece una visión íntima del proceso creativo y la búsqueda de una composición visual impactante. El artículo se centra en la experiencia personal del fotógrafo y en la técnica utilizada para obtener una fotografía específica, más que en un análisis amplio del surf o la cultura del surf.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien la fotografía es un elemento artístico, el artículo se centra más en la experiencia personal del fotógrafo y la técnica fotográfica que en un análisis o apreciación artística de la imagen o del surf como expresión cultural.  La relevancia para la categoría 'Cultura Arte' es limitada."
+    },
+    "categoria": "cultura_arte"
   }
 ]
