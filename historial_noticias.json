@@ -3934,5 +3934,181 @@
       "relevancia_justificacion": "Si bien la fotografía es un elemento artístico, el artículo se centra más en la experiencia personal del fotógrafo y la técnica fotográfica que en un análisis o apreciación artística de la imagen o del surf como expresión cultural.  La relevancia para la categoría 'Cultura Arte' es limitada."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Lisbon Funicular Crash: What to Know About the Cause and Victims",
+      "link": "https://www.nytimes.com/2025/09/04/world/europe/lisbon-funicular-crash-gloria.html",
+      "fecha_obj": "2025-09-05T07:05:34+00:00",
+      "fecha_str": "05-09-2025 07:05 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Accidente en funicular de Lisboa: 16 muertos y 21 heridos de varias nacionalidades.",
+      "resumen": "Un accidente en un funicular de Lisboa causó 16 muertes y 21 heridos.  Entre las víctimas mortales se encontraba el conductor y un ciudadano estadounidense.  La mayoría de los heridos son extranjeros, incluyendo ciudadanos canadienses, franceses, alemanes, marroquíes, españoles y suizos.  Cada vagón del funicular tiene capacidad para 42 pasajeros, aunque se desconoce cuántos iban a bordo en el momento del accidente. Las autoridades investigan las causas del suceso ocurrido en un sistema de funiculares del siglo XIX que funciona con un sistema de contrapeso.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El accidente involucra víctimas de múltiples nacionalidades, incluyendo a un ciudadano estadounidense, y ocurrió en una ciudad europea, lo que le da relevancia internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Guerre en Ukraine: n’importe quelle force occidentale sera une «cible légitime» pour l’armée russe, prévient Poutine",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-n-importe-quelle-force-occidentale-sera-une-cible-legitime-pour-l-armee-russe-previent-poutine-20250905",
+      "fecha_obj": "2025-09-05T07:05:16+00:00",
+      "fecha_str": "05-09-2025 07:05 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Putin advierte: cualquier fuerza occidental en Ucrania será un objetivo legítimo para Rusia.",
+      "resumen": "Vladimir Putin emitió una severa advertencia, declarando que cualquier intervención militar extranjera en Ucrania será considerada un objetivo legítimo por las fuerzas rusas.  Reiteró su disposición a dialogar directamente con Kiev, ofreciendo Moscú como sede.  El Kremlin rechazó las garantías militares occidentales a Ucrania, acusando a Europa de obstaculizar la resolución del conflicto y de usar a Ucrania contra Rusia.  Putin mencionó obstáculos legales ucranianos para un acuerdo de paz, aunque aseguró que Rusia respetaría cualquier compromiso.  Estas declaraciones suceden tras un ataque con drones ucranianos a instalaciones petroleras rusas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia trata sobre una amenaza directa de Rusia a países occidentales en el contexto de la guerra en Ucrania, un conflicto de máxima relevancia internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Sous surveillance, l’enseignement catholique veut affirmer sa liberté",
+      "link": "https://www.lefigaro.fr/actualite-france/sous-surveillance-l-enseignement-catholique-veut-affirmer-son-modele-20250905",
+      "fecha_obj": "2025-09-05T06:59:03+00:00",
+      "fecha_str": "05-09-2025 06:59 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Aumenta el escrutinio sobre la enseñanza católica francesa tras el escándalo Bétharram, ¿una oportunidad para reafirmar su identidad?",
+      "resumen": "El sistema educativo francés intensifica los controles en las instituciones católicas privadas tras el escándalo Bétharram y la implementación de un nuevo programa de educación sexual.  Estos controles, inicialmente inexistentes,  representan un desafío para la enseñanza católica, que busca reafirmar su proyecto educativo ante el creciente interés por sus instituciones.  La implementación del programa de educación afectivo-sexual y un plan para combatir la violencia, incluyendo auditorías en los internados, son parte de la respuesta.  El nuevo secretario general insta a la comunidad educativa a profundizar su proyecto en lugar de replegarse ante las críticas.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata un tema de educación en Francia, pero el escándalo y la respuesta institucional tienen implicaciones más amplias, mostrando tensiones entre la religión, la educación y el Estado, con potencial impacto internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Authoritative to authoritarian: rightwing radicalisation is blurring the Conservatives’ political red lines | Andy Beckett",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/05/rightwing-radicalisation-conservatives-immigration-multiculturalism-press-freedom-britain",
+      "fecha_obj": "2025-09-05T06:00:18+00:00",
+      "fecha_str": "05-09-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La derecha británica abandona la moderación, abrazando un populismo autoritario que redefine la política nacional.",
+      "resumen": "El artículo analiza la radicalización de la derecha británica, argumentando que ha abandonado las restricciones tradicionales.  Factores como la pérdida de credibilidad del libre mercado, la frustración post-Brexit y la influencia de figuras como Boris Johnson y Nigel Farage han contribuido a este cambio.  Se observa un discurso incendiario sobre temas como inmigración y orden público, con alianzas implícitas con la extrema derecha.  El autor advierte sobre el peligro de este giro autoritario, que ya está impactando el espectro político, forzando a otros partidos a adoptar posturas más extremas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza profundamente un tema político relevante, ofreciendo argumentos, ejemplos históricos y perspectivas diversas.  Su estructura, análisis y conclusión lo hacen una pieza ideal para la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Brexit didn’t solve Britain’s woes, but no matter: leaving the ECHR definitely will. Sounds simple, doesn’t it? | Polly Toynbee",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/05/brexit-britain-european-convention-on-human-rights-reform",
+      "fecha_obj": "2025-09-05T05:00:14+00:00",
+      "fecha_str": "05-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Abandonar el ECHR sería un Brexit peor: más daño económico y político para Reino Unido.",
+      "resumen": "El artículo critica la propuesta de abandonar el Convenio Europeo de Derechos Humanos (ECHR) como solución a la inmigración ilegal.  Polly Toynbee argumenta que esta decisión, impulsada por Nigel Farage y los conservadores, sería un error similar al Brexit, causando un daño económico significativo al perjudicar los acuerdos comerciales con la UE y aumentando la inflación.  Además, no resolvería el problema de la inmigración, ya que el ECHR no es el principal obstáculo para las deportaciones.  La autora propone una colaboración europea para reformar el sistema de asilo, en lugar de la salida unilateral del ECHR.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente una propuesta política, ofreciendo argumentos y evidencia para apoyar su postura.  Presenta una perspectiva clara y argumentada, con referencias a expertos y datos económicos, lo que lo hace altamente relevante para la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Why I Am Not a Liberal",
+      "link": "https://www.nytimes.com/2025/09/05/opinion/liberal-conservative-left-right-politics.html",
+      "fecha_obj": "2025-09-05T05:00:05+00:00",
+      "fecha_str": "05-09-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El dinero no lo es todo: un estudio revela la importancia del capital humano en el desarrollo infantil.",
+      "resumen": "Estudios recientes contradicen la idea de que dar dinero a familias pobres mejora significativamente la vida de sus hijos.  Investigaciones, como la de Susan Mayer en \"What Money Can’t Buy\", demuestran que aunque el dinero cubre necesidades básicas, el capital humano de los padres (habilidades, diligencia, etc.) es un factor determinante en el desarrollo infantil.  Incluso duplicar los ingresos familiares tiene un impacto limitado en resultados como la deserción escolar o embarazos adolescentes.  El bienestar infantil depende más de las cualidades de los padres que de la cantidad de dinero que poseen.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la ineficacia de las transferencias de efectivo como única solución a la pobreza, basándose en evidencia científica.  Su estructura y contenido encajan perfectamente en la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Lenovo's ThinkBook VertiFlex Concept Laptop Has a Swiveling Screen",
+      "link": "https://www.wired.com/story/lenovo-thinkbook-vertiflex-concept-laptop-can-switch-from-landscape-to-portrait/",
+      "fecha_obj": "2025-09-05T06:00:00+00:00",
+      "fecha_str": "05-09-2025 06:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Lenovo presenta ThinkBook VertiFlex: laptop con pantalla giratoria para modo vertical.",
+      "resumen": "Lenovo presentó en IFA 2025 su prototipo ThinkBook VertiFlex, una laptop con una pantalla de 14 pulgadas que gira manualmente de horizontal a vertical.  La pantalla se desliza suavemente hacia arriba gracias a un mecanismo interno,  manteniendo un perfil delgado de 17.9 mm y un peso aproximado de 3 libras.  El panel trasero acolchado permite apoyar el teléfono.  Esta innovación se adapta a aplicaciones que aprovechan mejor el espacio vertical como correo electrónico, Slack o PDFs, aunque cambiar la orientación durante el flujo de trabajo aún no se ha probado.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo describe una innovación tecnológica en el diseño de laptops,  un avance en la interacción humano-computadora con implicaciones para la productividad.  Su alta relevancia se debe a la novedad del concepto y su potencial impacto en el mercado de las computadoras portátiles."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Our Favorite Smart Lock for Your Front Door Is Just $164 Right Now",
+      "link": "https://www.wired.com/story/our-favorite-smart-lock-is-dollar80-off/",
+      "fecha_obj": "2025-09-04T21:27:22+00:00",
+      "fecha_str": "04-09-2025 21:27 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Yale Approach, cerradura inteligente con descuento, ¡automatización y comodidad para tu puerta!",
+      "resumen": "El artículo reseña la cerradura inteligente Yale Approach, actualmente con un 32% de descuento en Amazon, bajando su precio a $164.  Se destaca su compatibilidad con cerraduras existentes, ideal para inquilinos.  Incluye funciones de desbloqueo automático al acercarse a casa, bloqueo automático programable, teclado táctil con códigos de acceso temporales y lector de huellas dactilares.  A pesar de algunos inconvenientes menores, la reseña la califica como la mejor opción por su funcionalidad y la implementación del auto-desbloqueo, especialmente considerando el precio rebajado.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre un dispositivo tecnológico inteligente para el hogar, un tema relevante dentro de la categoría de Ciencia y Tecnología.  Describe sus características, funcionalidades y precio, ofreciendo información útil para los consumidores interesados en este tipo de productos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Domhnall Gleeson tries to save a failing newspaper in new mockumentary",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/05/tv-tonight-domhnall-gleeson-tries-to-save-a-failing-newspaper-in-new-mockumentary",
+      "fecha_obj": "2025-09-05T05:20:15+00:00",
+      "fecha_str": "05-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Nueva programación televisiva: desde mockumentaries periodísticos hasta thrillers de Spike Lee.",
+      "resumen": "La programación televisiva de la semana incluye una variedad de opciones. 'The Paper', una mockumentary sobre un periódico en crisis, protagonizada por Domhnall Gleeson.  'Here We Go' sigue las desventuras de la familia Jessop en un bautizo. 'The Great British Bake Off: An Extra Slice' ofrece un vistazo tras bambalinas.  'Mitchell and Webb Are Not Helping' regresa con nuevos sketches.  'Peacemaker' continúa su aventura en una realidad alternativa. En cine, se destacan 'The Brutalist', un drama post-guerra, y 'Highest 2 Lowest', una adaptación de Spike Lee de un thriller de Ed McBain. También se anuncia el partido Chelsea vs Man City de la Women's Super League.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo cubre varios programas de televisión y películas, incluyendo 'The Brutalist' y 'Highest 2 Lowest', que tienen relevancia cultural por sus temas y directores.  Sin embargo, la inclusión de otros programas de entretenimiento general disminuye la puntuación."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Intervision Song Contest: why Russia is reviving its ‘cultural counterweight’ to Eurovision",
+      "link": "https://www.theguardian.com/music/2025/sep/05/intervision-song-contest-why-russia-is-reviving-its-cultural-counterweight-to-eurovision",
+      "fecha_obj": "2025-09-05T04:00:17+00:00",
+      "fecha_str": "05-09-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Intervisión, el rival geopolítico de Eurovisión, resurge como contrapeso cultural ruso.",
+      "resumen": "Rusia revive el concurso Intervisión, un evento musical que busca contrarrestar la influencia cultural de Eurovisión.  Inicialmente concebido para unir este y oeste, ahora se presenta como una alternativa a los valores liberales que representa Eurovisión, excluyendo a países como Ucrania.  La participación de países neutrales o afines a Rusia, y la inclusión de artistas estadounidenses, contrasta con la limitada audiencia y la falta de alcance global.  El éxito de Intervisión es incierto, enfrentando desafíos logísticos y una posible falta de interés, especialmente entre la juventud rusa.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo analiza profundamente un evento musical con implicaciones geopolíticas y culturales, explorando sus raíces históricas, motivaciones políticas y perspectivas de futuro.  Su relevancia para la categoría 'Cultura Arte' es alta por su enfoque en la música como herramienta de diplomacia y expresión cultural."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘Our songs last three minutes but they feel like an hour’: the return of Spinal Tap – an exclusive that goes up to 11!",
+      "link": "https://www.theguardian.com/film/2025/sep/05/spinal-tap-exclusive-interview-return",
+      "fecha_obj": "2025-09-05T04:00:15+00:00",
+      "fecha_str": "05-09-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Spinal Tap regresa: ¡la banda mítica vuelve a los escenarios y su historia se cuenta en \"Spinal Tap II\"!",
+      "resumen": "Tras el éxito de la película \"This Is Spinal Tap\", la banda se reúne para un concierto final, documentado por Marty DiBergi.  El artículo explora la historia de la banda, sus altibajos, la incomprensión de su música y la dificultad de acceder a su catálogo. Se destaca la ironía de su mayor popularidad tras ser retratados como ineptos, y se analizan canciones emblemáticas como \"America\" y \"Bitch School\".  La entrevista con los miembros de la banda revela sus personalidades excéntricas y su visión irónica del mundo del rock. La reunión, impulsada legalmente, sirve para revisitar su legado musical y su lugar en la historia del rock británico.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre una banda de rock icónica, su historia, su música y su impacto cultural.  Aborda temas relevantes para la categoría 'Cultura Arte', como la creación musical, la industria del cine, y el análisis de la cultura popular y el rock."
+    },
+    "categoria": "cultura_arte"
   }
 ]
