@@ -4110,5 +4110,181 @@
       "relevancia_justificacion": "El artículo trata sobre una banda de rock icónica, su historia, su música y su impacto cultural.  Aborda temas relevantes para la categoría 'Cultura Arte', como la creación musical, la industria del cine, y el análisis de la cultura popular y el rock."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Nicotine : la France interdit les sachets, billes et gommes dès mars 2026",
+      "link": "https://www.lemonde.fr/societe/article/2025/09/06/nicotine-la-france-interdit-les-sachets-billes-et-gommes-des-mars-2026_6639176_3224.html",
+      "fecha_obj": "2025-09-06T07:01:37+00:00",
+      "fecha_str": "06-09-2025 07:01 UTC",
+      "source_name": "Le Monde International"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Francia prohíbe los productos de nicotina en forma de pouches, bolitas y gomas a partir de marzo de 2026.",
+      "resumen": "Un nuevo decreto en Francia, publicado el 6 de septiembre de 2024 en el Journal officiel, prohíbe la venta de productos de nicotina en formatos como pouches, bolitas y gomas a partir de marzo de 2026.  Esta medida, anunciada en otoño de 2024, busca combatir el aumento de intoxicaciones por nicotina entre adolescentes.  Estos productos, atractivos para los jóvenes por su presentación, serán completamente prohibidos en el país con el objetivo de proteger la salud pública, especialmente la de los menores.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La noticia tiene relevancia internacional por ser una decisión de política sanitaria de un país europeo que impacta en la salud pública y podría influir en otras legislaciones.  La prohibición de estos productos específicos afecta un mercado global y tiene implicaciones internacionales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "En direct, guerre en Ukraine | Volodymyr Zelensky refuse l’invitation de Vladimir Poutine à Moscou : « Je ne peux pas aller dans la capitale de ce terroriste »",
+      "link": "https://www.lemonde.fr/international/live/2025/09/06/en-direct-guerre-en-ukraine-volodymyr-zelensky-refuse-l-invitation-de-vladimir-poutine-a-moscou-je-ne-peux-pas-aller-dans-la-capitale-de-ce-terroriste_6637567_3210.html",
+      "fecha_obj": "2025-09-06T06:38:09+00:00",
+      "fecha_str": "06-09-2025 06:38 UTC",
+      "source_name": "Le Monde International"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Zelensky rechaza invitación de Putin a Moscú: \"No puedo ir a la capital de este terrorista\"",
+      "resumen": "El artículo cubre la negativa de Volodymyr Zelensky a la invitación de Vladimir Putin para visitar Moscú. Zelensky declaró que no puede ir a la capital de quien considera un terrorista.  El texto enlaza a más artículos, análisis y reportajes sobre la guerra en Ucrania, e incluye una lista de los periodistas involucrados en la cobertura en vivo del evento.  El enfoque principal es la firme negativa de Zelensky a dialogar en territorio ruso, destacando la tensión y la falta de confianza entre ambos líderes en el contexto de la guerra.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La negativa de Zelensky a la invitación de Putin es una noticia de máxima relevancia internacional, directamente relacionada con el conflicto bélico en Ucrania, un tema de gran impacto global."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Gaza : l’armée israélienne appelle les habitants de la ville à partir vers une «zone humanitaire» plus au sud",
+      "link": "https://www.lefigaro.fr/international/gaza-l-armee-israelienne-appelle-les-habitants-de-la-ville-a-partir-vers-une-zone-humanitaire-plus-au-sud-20250906",
+      "fecha_obj": "2025-09-06T06:34:27+00:00",
+      "fecha_str": "06-09-2025 06:34 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Israel declara zona humanitaria en Gaza para facilitar asalto terrestre; un millón de personas deben evacuar.",
+      "resumen": "El ejército israelí anunció la creación de una zona humanitaria en Al-Mawasi, Khan Younis, para facilitar una ofensiva terrestre en Gaza ciudad.  Esta zona incluirá hospitales de campaña, agua, y provisiones.  El portavoz del ejército, Avihai Adraee, instó a la población de Gaza ciudad (alrededor de un millón de personas según la ONU) a evacuar hacia Al-Mawasi. La ONU advierte de un desastre inminente si la ofensiva se expande.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El conflicto en Gaza es un evento de gran importancia internacional, involucrando a dos actores clave en la geopolítica mundial y con consecuencias humanitarias de gran alcance.  La noticia reporta una acción militar inminente con implicaciones globales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "‘No pets, no guests, no music’ – and now ‘no wfh’: why house-share ads are getting ever stricter | Kimi Chaddah",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/06/house-share-landlord-pets-guests-music-wfh",
+      "fecha_obj": "2025-09-06T07:00:46+00:00",
+      "fecha_str": "06-09-2025 07:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Anuncios de compañerismo cada vez más estrictos reflejan la crisis de la vivienda.",
+      "resumen": "El artículo analiza el aumento de reglas restrictivas en anuncios de compañerismo, como la prohibición de trabajar desde casa.  Esto se atribuye al alto costo de la vivienda y la incertidumbre económica, llevando a los inquilinos a controlar los gastos compartidos.  La autora argumenta que estas restricciones, que van desde límites en el uso de la cocina hasta la prohibición de invitados, son un síntoma de un problema sistémico, no solo de la falta de consideración entre compañeros.  Se propone luchar por una vivienda más asequible en lugar de culpar a los compañeros de piso.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre un tema de actualidad: la crisis de la vivienda y su impacto en las relaciones entre compañeros de piso.  Analiza las causas y consecuencias, ofreciendo una perspectiva crítica y proponiendo soluciones, lo que lo convierte en un ensayo de opinión completo."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Blindsided by Trump, Modi is learning hard lessons about India's place in the new world order | Mukul Kesavan",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/06/modi-trump-india-new-world-order",
+      "fecha_obj": "2025-09-06T05:00:43+00:00",
+      "fecha_str": "06-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El triunfo de Trump enseña a Modi duras lecciones sobre el lugar de India en el nuevo orden mundial.",
+      "resumen": "El artículo analiza el deterioro de las relaciones entre India y Estados Unidos tras la reelección de Trump. Las elevadas tarifas impuestas por Trump a India, en represalia por la compra de petróleo ruso, exponen la fragilidad de la relación bilateral.  A pesar del acercamiento de India a Occidente, el autor argumenta que la política exterior india debe priorizar la autonomía estratégica, reconociendo que India no es ni lo suficientemente rica ni occidental para ser un aliado igualitario de Estados Unidos.  La postura de Trump prefigura un futuro donde el proteccionismo y el nacionalismo occidental limitarán las opciones de países como India, obligándolos a navegar un mundo hostil.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta un análisis profundo y argumentado sobre las relaciones internacionales, ofreciendo una opinión clara y sustentada sobre el lugar de India en el nuevo orden mundial.  Es un ensayo de opinión que explora las implicaciones geopolíticas de las decisiones de Trump y su impacto en la política exterior india."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "This Is Why America Is Losing to China",
+      "link": "https://www.nytimes.com/2025/09/04/opinion/china-global-superpower-dan-wang.html",
+      "fecha_obj": "2025-09-06T00:39:21+00:00",
+      "fecha_str": "06-09-2025 00:39 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "China's aparente estabilidad: ¿éxito o escape de la disidencia?",
+      "resumen": "El artículo explora la percepción de la situación en China tras el fin de la política 'cero Covid'.  Se observa un aparente optimismo en Shanghai, donde la población busca olvidar las dificultades pasadas.  Sin embargo, se destaca la propaganda negativa sobre Estados Unidos y Occidente, que contribuye a esta percepción.  Se argumenta que la posibilidad de emigrar para muchos chinos insatisfechos actúa como válvula de escape, estabilizando el régimen al eliminar potenciales líderes de la resistencia.  La experiencia personal del autor, cuya familia emigró a Canadá buscando mejores oportunidades económicas, ilustra esta dinámica.  La emigración de chinos creativos que buscan una vida mejor en el extranjero sigue siendo significativa.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la situación política y social en China, ofreciendo una perspectiva analítica sobre la estabilidad del régimen y la disidencia.  Su enfoque interpretativo y la inclusión de experiencias personales lo hacen adecuado para la categoría 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Top New Gadgets We Saw at IFA Berlin 2025",
+      "link": "https://www.wired.com/story/all-the-top-new-gadgets-we-saw-at-ifa-berlin-2025/",
+      "fecha_obj": "2025-09-06T06:00:00+00:00",
+      "fecha_str": "06-09-2025 06:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "IFA 2025 presenta innovaciones tecnológicas: tablets Samsung, boombox retro y proyector TCL.",
+      "resumen": "El artículo resume los nuevos gadgets presentados en la feria IFA 2025 en Berlín.  Samsung lanzó las tablets Galaxy Tab S11 y S11 Ultra, rivalizando con el iPad Pro en delgadez, además del teléfono Galaxy S25 FE.  La empresa francesa We Are Rewind presentó su boombox GB-001, un reproductor de casetes con altavoces de alta calidad y conectividad Bluetooth. TCL lanzó al mercado su proyector portátil Playcube, inicialmente presentado como prototipo en CES.  Estos lanzamientos marcan el inicio de la temporada de compras navideñas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra en nuevos dispositivos electrónicos de consumo, avances tecnológicos en diseño y funcionalidad de tablets, altavoces y proyectores,  lo que lo hace altamente relevante para la categoría 'Ciencia y Tecnología'."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "GOP may finally succeed in unrelenting quest to kill two NASA climate satellites",
+      "link": "https://arstechnica.com/space/2025/09/gop-may-finally-succeed-in-unrelenting-quest-to-kill-two-nasa-climate-satellites/",
+      "fecha_obj": "2025-09-06T00:01:43+00:00",
+      "fecha_str": "06-09-2025 00:01 UTC",
+      "source_name": "Ars Technica"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "NASA enfrenta la posible cancelación de sus satélites de monitoreo de emisiones de CO2, tras recortes presupuestarios.",
+      "resumen": "La administración Trump propuso eliminar el financiamiento de 41 misiones científicas de la NASA, incluyendo dos satélites que monitorean las emisiones de dióxido de carbono.  Estos satélites, con un costo de más de $750 millones, podrían ser cancelados para ahorrar aproximadamente $16 millones anuales.  Aunque el Congreso podría rechazar los recortes, la administración podría usar tácticas para evitar el gasto aprobado.  Científicos de la NASA critican la decisión, comparándola con desechar una inversión significativa por un ahorro mínimo. El futuro de estas misiones permanece incierto.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre la financiación y el futuro de misiones científicas espaciales de la NASA relacionadas con el cambio climático, un tema central en ciencia y tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "The Guide #207: How Britain embraced The Simpsons, America’s true first family",
+      "link": "https://www.theguardian.com/culture/2025/sep/05/ay-caramba-how-britain-embraced-the-simpsons-a-quintessentially-american-tv-show",
+      "fecha_obj": "2025-09-06T06:00:46+00:00",
+      "fecha_str": "06-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "De rechazada a ícono: la improbable historia de amor entre Gran Bretaña y Los Simpson.",
+      "resumen": "Los Simpson, inicialmente recibidos con recelo en Gran Bretaña por su reputación en EE. UU., se convirtieron en un fenómeno cultural.  Su presencia se extiende a la televisión, el arte, la política (con apariciones de Tony Blair y menciones en el Parlamento), e incluso la Iglesia Anglicana.  A pesar de la reticencia inicial, la serie permeó la cultura británica hasta el punto de superar, según el artículo, su popularidad en Estados Unidos, ejemplificado por el éxito de \"Do the Bartman\".  Sin embargo, una excepción notable fue la Reina Isabel II, quien aparentemente no compartía el entusiasmo general.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo analiza la influencia cultural de Los Simpson en Gran Bretaña, explorando su impacto en la televisión, el arte, la política y la religión.  Su análisis abarca diferentes aspectos de la cultura británica, mostrando la penetración de un producto cultural estadounidense en la sociedad británica."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "My cultural awakening: Jackie Chan films inspired me to become a kung fu instructor",
+      "link": "https://www.theguardian.com/culture/2025/sep/06/my-cultural-awakening-jackie-chan-jet-li-rush-hour-crouching-tiger-romeo-must-die",
+      "fecha_obj": "2025-09-06T06:00:45+00:00",
+      "fecha_str": "06-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Películas de Jackie Chan inspiraron a una mujer a convertirse en instructora de kung fu, encontrando comunidad y superación personal.",
+      "resumen": "Tras una infancia difícil marcada por el divorcio de sus padres y el acoso escolar, la autora encontró consuelo en las películas de artes marciales de Jackie Chan y Jet Li.  La fascinación por el kung fu, inicialmente a través de la imitación de escenas de películas como 'Rush Hour' y 'Romeo Must Die', la llevó a entrenar Choy Li Fut a los 15 años.  Después de un paréntesis, retomó su pasión por las artes marciales a los 34 años, certificándose como instructora de Wudang kung fu tras un intenso entrenamiento en China.  Actualmente, enseña kung fu, encontrando en esta práctica no solo una forma de superación personal, sino también una comunidad a la que pertenece.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo explora la influencia del cine de artes marciales en la vida de la autora, conectando la cultura cinematográfica con la práctica de una disciplina artística marcial, el kung fu.  La historia personal se entrelaza con elementos culturales asiáticos, mostrando la importancia de las artes marciales en la cultura y la búsqueda de identidad personal."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "The Girlfriend: Warning! This sexy oedipal thriller may be too shocking for vanilla viewers",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/06/the-girlfriend-warning-this-sexy-oedipal-thriller-may-be-too-shocking-for-vanilla-viewers",
+      "fecha_obj": "2025-09-06T06:00:43+00:00",
+      "fecha_str": "06-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Intriga, tensión sexual y secretos familiares en 'The Girlfriend', un thriller que te dejará sin aliento.",
+      "resumen": "'The Girlfriend' es una serie de Prime Video que explora una relación compleja entre una madre posesiva, su hijo y su nueva novia. La tensión entre las mujeres se intensifica a medida que se revelan secretos y mentiras, creando un juego psicológico de poder. La serie utiliza la perspectiva de cada mujer para cuestionar la realidad y la moralidad de sus acciones.  Con una trama retorcida y personajes ambiguos,  'The Girlfriend' se adentra en temas de estatus, clase social y el impacto del dolor familiar.  Aunque el contenido tiene un fuerte componente sexual y toques de incesto, la serie destaca por su ingenio y la exploración de dinámicas de poder entre mujeres.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "La serie es una adaptación de una novela, y explora temas de relaciones humanas complejas.  Si bien no se centra directamente en las artes visuales, su análisis de las dinámicas de poder y la narrativa sofisticada la relacionan con la cultura y la forma en que se cuenta una historia."
+    },
+    "categoria": "cultura_arte"
   }
 ]
