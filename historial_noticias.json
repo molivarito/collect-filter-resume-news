@@ -4286,5 +4286,197 @@
       "relevancia_justificacion": "La serie es una adaptación de una novela, y explora temas de relaciones humanas complejas.  Si bien no se centra directamente en las artes visuales, su análisis de las dinámicas de poder y la narrativa sofisticada la relacionan con la cultura y la forma en que se cuenta una historia."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Japon : plusieurs médias du pays annoncent la démission prochaine du premier ministre",
+      "link": "https://www.lefigaro.fr/international/japon-plusieurs-medias-du-pays-annoncent-la-demission-prochaine-du-premier-ministre-20250907",
+      "fecha_obj": "2025-09-07T07:08:07+00:00",
+      "fecha_str": "07-09-2025 07:08 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El primer ministro japonés, Shigeru Ishiba, dimitirá tras malos resultados electorales.",
+      "resumen": "Medios japoneses reportan la inminente renuncia del primer ministro Shigeru Ishiba.  Su decisión llega tras dos derrotas electorales consecutivas que han debilitado su posición dentro del Partido Liberal Demócrata (PLD).  La renuncia se produce menos de un año después de asumir el cargo.  Ishiba intentaría evitar divisiones internas en el partido.  Se espera una conferencia de prensa para anunciar oficialmente su dimisión y se prevé una elección para su sucesor.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia afecta directamente al gobierno de Japón, un país con gran relevancia internacional. La renuncia de un primer ministro siempre es una noticia de impacto global."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Le top 5 des Alcaraz – Sinner avant la finale de l’US Open",
+      "link": "https://www.lefigaro.fr/sports/tennis/us-open/le-top-5-des-alcaraz-sinner-avant-la-finale-de-l-us-open-20250907",
+      "fecha_obj": "2025-09-07T07:02:09+00:00",
+      "fecha_str": "07-09-2025 07:02 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Alcaraz y Sinner: cinco enfrentamientos épicos, un nuevo clásico del tenis.",
+      "resumen": "El artículo repasa los cinco mejores partidos entre Carlos Alcaraz y Jannik Sinner, dos jóvenes tenistas que se han enfrentado en varias finales importantes.  Se destacan las victorias de Alcaraz en Roland Garros 2025 (una final de más de 5 horas), el US Open 2022 y en Pekín 2024,  y la victoria de Sinner en Miami 2023.  También se menciona su primer encuentro en el Rolex Paris Masters 2021.  El artículo enfatiza la intensidad y el alto nivel de juego en todos sus enfrentamientos, consolidándolos como una rivalidad clave en el tenis moderno.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La rivalidad entre Alcaraz y Sinner es un tema de interés global en el mundo del deporte, trascendiendo fronteras y atrayendo la atención de aficionados internacionales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Grand Prix d’Italie : Ferrari espère retrouver la victoire devant les tifosi de Monza",
+      "link": "https://www.lemonde.fr/sport/article/2025/09/07/grand-prix-d-italie-ferrari-espere-retrouver-la-victoire-devant-les-tifosi-de-monza_6639372_3242.html",
+      "fecha_obj": "2025-09-07T07:00:11+00:00",
+      "fecha_str": "07-09-2025 07:00 UTC",
+      "source_name": "Le Monde International"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ferrari busca la victoria en Monza ante sus tifosi, pero Leclerc y Hamilton enfrentan una dura batalla.",
+      "resumen": "El Gran Premio de Italia en Monza centra la atención en Ferrari, que busca una victoria ante sus apasionados aficionados.  A pesar del dominio de McLaren (Piastri y Norris) y Verstappen, la escudería italiana espera un triunfo tras la decepcionante temporada de Leclerc y Hamilton.  Hamilton, a pesar de su pesimismo y recientes errores, se muestra motivado por el apoyo de los tifosi y la historia de Ferrari en Monza. Leclerc, por su parte, reconoce la dificultad de competir contra los líderes, esperando que las circunstancias de carrera les favorezcan. La carrera también celebra el 50 aniversario del título de Niki Lauda con autos conmemorativos.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre un evento deportivo internacional de gran relevancia, la Fórmula 1, y la expectativa generada en torno a un equipo emblemático como Ferrari.  Su impacto trasciende lo deportivo, incluyendo aspectos históricos y culturales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Stop Funding Trump’s Takeover",
+      "link": "https://www.nytimes.com/2025/09/07/opinion/trump-senate-democrats-shutdown.html",
+      "fecha_obj": "2025-09-07T06:18:40+00:00",
+      "fecha_str": "07-09-2025 06:18 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump utiliza el gobierno para enriquecerse, perseguir enemigos y consolidar su poder, corrompiéndolo como la mafia.",
+      "resumen": "El artículo argumenta que Donald Trump está corrompiendo el gobierno estadounidense para beneficio personal y político.  Se detalla cómo utiliza su poder para despedir funcionarios que le desobedecen, perseguir a sus críticos (como Adam Schiff y Chris Christie), favorecer a sus aliados y enriquecerse a través de negocios internacionales y criptomonedas.  El autor asemeja las acciones de Trump a las de la mafia, donde el objetivo principal es la expansión del poder y la riqueza, a expensas de la buena gobernanza. Se destaca el aumento exponencial de la fortuna de Trump, lo que refuerza la idea de un conflicto de intereses y corrupción.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión contundente y argumentada sobre la corrupción de Trump y su impacto en el gobierno.  Se basa en ejemplos concretos y utiliza una analogía efectiva para expresar su punto de vista, cumpliendo con los requisitos de un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "One by one, leaders learn that grovelling to Trump leads to disaster. When will it dawn on Starmer? | Simon Tisdall",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/07/donald-trump-keir-starmer-world-leaders-state-visit-uk",
+      "fecha_obj": "2025-09-07T05:00:11+00:00",
+      "fecha_str": "07-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El artículo critica la sumisión de líderes mundiales a Trump, instando a Starmer a resistir su próxima visita.",
+      "resumen": "El artículo argumenta que la adulación a Donald Trump resulta contraproducente, citando ejemplos de líderes mundiales como Modi, Macron y Von der Leyen que sufrieron consecuencias negativas tras intentar congraciarse con él.  Se critica la decisión del Reino Unido de recibir a Trump en visita de Estado, considerando que esto solo beneficiará al expresidente estadounidense y perjudicará la imagen del país.  El autor insta a Keir Starmer a resistirse a Trump, destacando que la firmeza, no la sumisión, es la mejor estrategia para lidiar con él, utilizando ejemplos de líderes como Lula da Silva, Xi Jinping y Putin que han enfrentado con éxito a Trump.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente las relaciones internacionales y la política exterior, ofreciendo una perspectiva argumentada sobre la conveniencia de la sumisión a figuras políticas como Trump.  Su estructura, estilo y contenido encajan perfectamente con la categoría 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Future Is Flag Football",
+      "link": "https://www.nytimes.com/2025/09/07/opinion/nfl-flag-football.html",
+      "fecha_obj": "2025-09-07T05:00:07+00:00",
+      "fecha_str": "07-09-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El fútbol bandera: una alternativa segura y popular al fútbol americano tradicional.",
+      "resumen": "A pesar de su popularidad y ganancias multimillonarias, la NFL enfrenta una crisis por las conmociones cerebrales.  La naturaleza violenta del fútbol americano genera preocupación sobre sus riesgos inherentes, creando demanda por alternativas más seguras. El fútbol bandera surge como una opción atractiva, ofreciendo una experiencia similar pero con un riesgo significativamente menor de lesiones cerebrales.  Incluso la NFL promueve el fútbol bandera, no como reemplazo, sino como una adición más accesible y segura, atrayendo a un público más amplio, incluyendo mujeres.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo presenta una opinión sobre el futuro del fútbol americano, argumentando a favor del fútbol bandera como una alternativa más segura y popular.  Si bien no es un ensayo formal, expone una postura clara y fundamentada, lo que justifica una puntuación de 7."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "6 Best Phones You Can’t Buy in the US (2025), Tested and Reviewed",
+      "link": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/",
+      "fecha_obj": "2025-09-07T06:00:00+00:00",
+      "fecha_str": "07-09-2025 06:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Los mejores móviles internacionales que no puedes comprar en EE. UU. en 2025: análisis y reseñas.",
+      "resumen": "El artículo analiza diez teléfonos móviles internacionales excelentes pero no disponibles en EE. UU., destacando sus características (procesador, cámara, batería, pantalla) y precios.  Se incluyen modelos plegables como el Oppo Find N5 y Xiaomi Mix Flip, y otros de gama alta como el Xiaomi 15 y el Honor Magic 7 RSR.  También se evalúan opciones más económicas de marcas como Poco, Realme y OnePlus.  Se mencionan tanto los aspectos positivos como las limitaciones de cada teléfono, incluyendo problemas de software y disponibilidad.  Finalmente, se listan algunos modelos a evitar, debido a un rendimiento inferior o menor valor.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo se centra en la evaluación de teléfonos inteligentes, un tema clave en la ciencia y la tecnología.  Analiza especificaciones técnicas, rendimiento y precios, ofreciendo una perspectiva relevante para los consumidores interesados en tecnología móvil."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "REPORTAGE. Ce village où l'on oublie sa maladie",
+      "link": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/ce-village-ou-l-on-oublie-sa-maladie_187936?xtor=RSS-16",
+      "fecha_obj": "2025-09-07T04:00:00+00:00",
+      "fecha_str": "07-09-2025 04:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Un pueblo francés revoluciona el cuidado de pacientes con Alzheimer, ofreciendo una vida normalizada y resultados esperanzadores.",
+      "resumen": "El artículo describe el 'Village landais Alzheimer', un modelo innovador en Francia que ofrece a pacientes con Alzheimer un entorno de vida normalizado.  A diferencia de los Ehpad tradicionales, este 'pueblo' prioriza la autonomía de los residentes, permitiendo que realicen tareas cotidianas y mantengan un ritmo de vida propio.  El enfoque se centra en evitar la ansiedad y promover la integración social, incluso con la comunidad local.  Un estudio de cinco años realizado por investigadores del Inserm y la Universidad de Bordeaux muestra resultados prometedores, indicando una menor aceleración del deterioro cognitivo en comparación con los Ehpad convencionales.  Aunque el modelo es más costoso, se espera que los ahorros en hospitalizaciones y medicamentos compensen la inversión. El futuro del proyecto depende de la aprobación oficial como establecimiento médico-social.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata un tema de ciencia (neurociencia, estudios sobre el Alzheimer) y tecnología (aplicación de un modelo innovador en la atención médica). La investigación y los resultados obtenidos tienen relevancia científica y tecnológica."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "L'Australie veut multiplier les zones refuges pour sauver les koalas",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/l-australie-veut-multiplier-les-zones-refuges-pour-sauver-les-koalas_188073?xtor=RSS-15",
+      "fecha_obj": "2025-09-07T00:03:57+00:00",
+      "fecha_str": "07-09-2025 00:03 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Australia crea un enorme parque nacional para salvar a los koalas de la extinción.",
+      "resumen": "Nueva Gales del Sur, Australia, prohibirá la explotación forestal en 176.000 hectáreas para crear el Great Koala National Park.  Esta medida busca proteger a los koalas, en peligro de extinción, y otras especies amenazadas. El parque, que será 20 veces mayor que la versión inicialmente propuesta, servirá de refugio para más de 12.000 koalas y otras especies.  La iniciativa, con un presupuesto cercano a los 80 millones de euros, busca revertir el declive poblacional de los koalas causado por incendios, deforestación y enfermedades.  Aunque se perderán empleos en las seis scierías afectadas, el gobierno promete apoyo a los trabajadores.  El WWF celebra la medida como un paso crucial para la conservación de los koalas y la creación de un refugio climático.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre la conservación de una especie y la creación de un parque nacional, temas que tienen implicaciones científicas y tecnológicas en cuanto a la gestión de recursos naturales y el uso de la tecnología para el monitoreo y la protección de la biodiversidad."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Freddie Flintoff is back and bigger than ever",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/07/tv-tonight-freddie-flintoff-is-back-and-bigger-than-ever",
+      "fecha_obj": "2025-09-07T05:15:11+00:00",
+      "fecha_str": "07-09-2025 05:15 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: Freddie Flintoff regresa, dramas reales, y mucho más.",
+      "resumen": "La programación televisiva de esta noche ofrece una variedad de opciones. Freddie Flintoff regresa con una nueva serie donde intenta promover el cricket.  Se muestran también 'Educating Yorkshire', que regresa una década después; 'I Fought the Law', un drama basado en una historia real; 'The Inheritance', un reality show; y 'Death of a Showjumper', un documental.  Además, se anuncia 'King & Conqueror', una serie histórica, y la película 'One of Them Days'. La programación deportiva incluye la Gran Carrera del Norte y partidos de cricket y fútbol.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien incluye la película 'One of Them Days', el artículo se centra principalmente en programas de telerrealidad, documentales y eventos deportivos, con poca relevancia para la cultura o las artes."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Bienal de San Pablo 2025: por primera vez en 74 años no hay artistas argentinos",
+      "link": "https://www.clarin.com/cultura/bienal-san-pablo-2025-primera-vez-74-anos-artistas-argentinos_0_ZLyyNLlbKA.html",
+      "fecha_obj": "2025-09-06T21:38:57+00:00",
+      "fecha_str": "06-09-2025 21:38 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Bienal de San Pablo 2025: Ausencia argentina genera controversia tras 74 años de participación ininterrumpida.",
+      "resumen": "La Bienal de San Pablo 2025, celebrada en el Pabellón Ciccillo Matarazzo, presenta una edición histórica al no incluir artistas argentinos por primera vez en 74 años.  Con más de 120 artistas de cinco continentes, la curaduría, inspirada en patrones migratorios de aves, prioriza un enfoque en África y las diásporas, generando debate por la omisión de Argentina, un país con larga tradición en la Bienal.  La ausencia argentina contrasta con la inclusión de artistas de diversas partes del mundo, reflejando una visión global que, sin embargo, excluye una escena artística latinoamericana fundamental.  La Bienal, inspirada en la Bienal de Venecia, busca ser un centro neurálgico del arte moderno y contemporáneo, aunque esta edición genera una paradoja al ampliar su alcance global mientras deja de lado a un participante clave.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre un evento clave en el mundo del arte, la Bienal de San Pablo, analizando su programación, las controversias generadas y su significado cultural.  La ausencia de Argentina, un hecho sin precedentes, es de gran relevancia para el ámbito cultural y artístico latinoamericano."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Fuze review – twisty London-set heist thriller should have stolen some personality",
+      "link": "https://www.theguardian.com/film/2025/sep/06/fuze-review-london-heist-thriller",
+      "fecha_obj": "2025-09-06T21:38:00+00:00",
+      "fecha_str": "06-09-2025 21:38 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Thriller de atracos con un ritmo lento y un guion que decepciona a pesar de un reparto atractivo.",
+      "resumen": "La reseña critica la película \"Fuze\" de David Mackenzie, una cinta de atracos ambientada en Londres que, aunque intenta emular el estilo de los thrillers británicos de principios de los 2000, carece de energía y personalidad.  A pesar de un reparto atractivo (Aaron Taylor-Johnson, Gugu Mbatha-Raw, Theo James y Sam Worthington) y una premisa interesante, la película se ve perjudicada por una dirección plana, una banda sonora poco inspirada y un guion con giros predecibles y un final confuso. La reseña destaca la falta de estilo visual y la ausencia de suspense, comparándola desfavorablemente con el trabajo de Guy Ritchie.  Aunque la duración es concisa (91 minutos), la película no logra mantener el interés del espectador.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La película es una obra cinematográfica que se encuadra dentro de la categoría de thriller, un género con relevancia cultural y artística. La reseña analiza aspectos creativos como la dirección, la banda sonora y el guion, elementos clave en la producción cinematográfica."
+    },
+    "categoria": "cultura_arte"
   }
 ]
