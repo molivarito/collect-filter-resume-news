@@ -4478,5 +4478,149 @@
       "relevancia_justificacion": "La película es una obra cinematográfica que se encuadra dentro de la categoría de thriller, un género con relevancia cultural y artística. La reseña analiza aspectos creativos como la dirección, la banda sonora y el guion, elementos clave en la producción cinematográfica."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "«Je ne suis pas responsable de la détresse des victimes», soutient le Dr Péchier avant son procès qui débute ce lundi",
+      "link": "https://www.lefigaro.fr/faits-divers/je-ne-suis-pas-responsable-de-la-detresse-des-victimes-soutient-le-dr-pechier-avant-son-proces-qui-debute-ce-lundi-20250908",
+      "fecha_obj": "2025-09-08T07:03:52+00:00",
+      "fecha_str": "08-09-2025 07:03 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Médico francés niega responsabilidad en 30 envenenamientos, juicio comienza el lunes.",
+      "resumen": "El ex anestesista francés Frédéric Péchier será juzgado en Besançon por 30 presuntos envenenamientos de pacientes, 12 de ellos mortales.  A pesar de la inminente audiencia que durará tres meses y medio, Péchier mantiene su inocencia y afirma tener argumentos sólidos para defenderse.  Si bien reconoce la angustia de las familias de las víctimas,  asegura no sentirse responsable de su sufrimiento.  El juicio promete ser largo y complejo, con  el acusado enfrentando acusaciones graves y las familias buscando justicia.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El caso tiene relevancia internacional por ser un juicio de gran magnitud con acusaciones graves contra un profesional de la salud, generando impacto mediático más allá de las fronteras francesas.  Si bien no es un evento global de primera línea, su naturaleza y consecuencias justifican una puntuación considerable."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "New Zealand Police Kill Man Who Disappeared With His Children",
+      "link": "https://www.nytimes.com/2025/09/08/world/australia/new-zealand-fugitive-father-police.html",
+      "fecha_obj": "2025-09-08T07:00:58+00:00",
+      "fecha_str": "08-09-2025 07:00 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La policía de Nueva Zelanda abatió a un hombre que había desaparecido con sus hijos durante cuatro años.",
+      "resumen": "La policía de Nueva Zelanda mató a Tom Phillips, de 38 años, quien había estado prófugo durante casi cuatro años después de desaparecer con sus tres hijos (de 9, 10 y 12 años) en diciembre de 2021.  Phillips no tenía la custodia legal de los niños.  El lunes, la policía interceptó a Phillips y a uno de sus hijos tras un reporte de robo en una tienda rural.  Durante el enfrentamiento, Phillips disparó a un oficial en la cabeza, lo que provocó que la policía respondiera con fuego mortal. Los tres niños fueron encontrados sanos y salvos.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El incidente involucra a las autoridades de Nueva Zelanda, un país extranjero, y tiene consecuencias internacionales por la naturaleza del evento y la cobertura mediática que generará."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Simulateur : François Bayrou peut-il recueillir la confiance de l’Assemblée nationale ?",
+      "link": "https://www.lefigaro.fr/elections/legislatives/resultats-legislatives-tentez-de-composer-une-majorite-absolue-avec-notre-simulateur-de-coalitions-20240708",
+      "fecha_obj": "2025-09-08T06:55:55+00:00",
+      "fecha_str": "08-09-2025 06:55 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Bayrou juega al póker: ¿conseguirá la confianza de la Asamblea Nacional?",
+      "resumen": "El primer ministro francés, François Bayrou, busca la confianza de la Asamblea Nacional para aprobar su plan de austeridad.  El resultado del voto es incierto, con el Rassemblement National y La France Insoumise ya anunciando su voto en contra.  La abstención podría ser decisiva, ya que la falta de confianza obligaría a Bayrou a dimitir. El artículo presenta un simulador para explorar diferentes escenarios posibles tras la votación.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La política francesa tiene impacto internacional, especialmente en la UE.  La votación de confianza afecta la estabilidad del gobierno y la implementación de políticas económicas que pueden tener repercusiones globales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "A New War Is Emerging in Colombia",
+      "link": "https://www.nytimes.com/2025/09/08/opinion/colombia-violence-drugs-petro.html",
+      "fecha_obj": "2025-09-08T07:03:13+00:00",
+      "fecha_str": "08-09-2025 07:03 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El fracaso en la consolidación de la paz en Colombia tras el acuerdo de 2016 revela la complejidad de construir una paz sostenible.",
+      "resumen": "El artículo analiza el resurgimiento del conflicto armado en Colombia, argumentando que no es un fracaso del acuerdo de paz de 2016, sino una consecuencia de la dificultad para consolidar los avances.  La falta de presencia estatal en zonas dejadas por las FARC permitió el surgimiento de nuevos grupos criminales que controlan el narcotráfico y otras actividades ilegales.  El gobierno de Petro, con su política de \"paz total\", busca negociar con estos grupos, pero enfrenta dificultades debido a la evolución del conflicto y a la complejidad de la situación.  El artículo destaca la necesidad de diálogo, medidas para reducir la desigualdad y una estrategia de seguridad efectiva para contrarrestar la violencia.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un análisis profundo y argumentado sobre un tema de actualidad política y social, ofreciendo una perspectiva crítica sobre las políticas de paz en Colombia.  Su estructura y contenido se ajustan perfectamente al formato de un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "How the hairdryer treatment from a science teacher over a flunked exam changed my life | Michael Akadiri",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/08/exams-science-gcse-work-ethic-career",
+      "fecha_obj": "2025-09-08T07:00:42+00:00",
+      "fecha_str": "08-09-2025 07:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Una reprimenda de una profesora cambió la vida de un estudiante, impulsándolo al éxito académico.",
+      "resumen": "Michael Akadiri relata cómo la crítica de su profesora de ciencias, Miss T, tras un examen fallido, le impactó profundamente.  Inicialmente molesto, Akadiri comprendió la importancia de su mensaje: el éxito requiere trabajo constante.  La presión de Miss T, combinada con las altas expectativas de sus padres nigerianos, lo llevó a esforzarse, obteniendo excelentes resultados en sus exámenes GCSE.  Este enfoque meticuloso, impulsado por la frase \"Fix up\", lo acompañó a través de sus estudios posteriores y su carrera como comediante, demostrando el impacto duradero de una crítica constructiva.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo expresa una opinión personal sobre el impacto de una experiencia formativa.  Es un ensayo que reflexiona sobre el aprendizaje y el crecimiento personal a partir de una situación específica.  La estructura narrativa y la conclusión reflexiva lo hacen adecuado para la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Reshuffle it how you like, Starmer’s ‘grownup’ Labour has the Tory whiff of spiteful incompetence | Nesrine Malik",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/08/keir-starmer-reshuffle-labour-tory-reform",
+      "fecha_obj": "2025-09-08T05:00:43+00:00",
+      "fecha_str": "08-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El gobierno laborista de Starmer, pese a su mayoría, refleja disfuncionalidad e ineficacia, repitiendo errores conservadores.",
+      "resumen": "Nesrine Malik critica duramente al gobierno laborista de Keir Starmer, acusándolo de ineficacia, falta de dirección y adopción de políticas de derechas como austeridad y control migratorio.  Señala la contradicción entre el discurso progresista y las acciones conservadoras del partido, atribuyendo la situación a la inseguridad política de Starmer y su necesidad de agradar a sectores conservadores.  Malik argumenta que este enfoque pragmático, carente de convicción ideológica, ha resultado en un gobierno inauténtico y alejado de sus bases, desperdiciando una gran oportunidad política.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente el desempeño del gobierno laborista británico, ofreciendo una perspectiva argumentada y sustentada en ejemplos concretos.  Su estructura, tono y enfoque lo ubican perfectamente dentro de la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Mark Ruffalo stars in new drama by Mare of Easttown creator",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/08/tv-tonight-mark-ruffalo-stars-as-fbi-agent-in-fantastic-new-drama",
+      "fecha_obj": "2025-09-08T05:20:40+00:00",
+      "fecha_str": "08-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Nueva serie criminal, documentales impactantes y thriller psicológico: ¡la programación de esta noche te sorprenderá!",
+      "resumen": "La programación televisiva de la noche ofrece una variada selección de contenidos.  Destaca el estreno de una serie criminal con Mark Ruffalo, producida por la creadora de 'Mare of Easttown'. También se presentan documentales como 'Thailand: The Dark Side of Paradise', que explora la cara oculta del turismo en Tailandia, y 'Disaster at Sea: The Piper Alpha Story', que concluye su relato sobre el desastre petrolero.  En cuanto a la ficción, se emiten nuevos episodios de 'The Guest', un thriller psicológico, y 'Elsbeth', un drama judicial.  Finalmente, se incluye una reseña de la película de terror 'American Refugee'.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien se menciona una película y se abordan temas sociales en algunos documentales, la programación se centra principalmente en la televisión, género de entretenimiento, no en cultura o arte en sentido estricto."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘It will be frightening but you have to do it’: Andrew Lincoln and Alicia Vikander’s nerve-shredding stage return",
+      "link": "https://www.theguardian.com/stage/2025/sep/08/andrew-lincoln-alicia-vikander-nerve-shredding-stage-return-ibsen",
+      "fecha_obj": "2025-09-08T05:00:40+00:00",
+      "fecha_str": "08-09-2025 05:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Andrew Lincoln y Alicia Vikander regresan al teatro con una adaptación moderna de Ibsen, llena de tensión e improvisación.",
+      "resumen": "El artículo describe el proceso de ensayo de una nueva producción de 'La Dama del Mar' de Ibsen, dirigida por Simon Stone.  Stone utiliza un método poco convencional, escribiendo diálogos basándose en conversaciones con los actores, incluso el día anterior al ensayo.  Andrew Lincoln y Alicia Vikander, protagonistas de la obra, comparten sus experiencias. Lincoln, tras un largo descanso del teatro, destaca la intensidad y la falta de artificios del método de Stone. Vikander, en su debut teatral profesional, expresa su entusiasmo y los nervios propios de la experiencia. El enfoque de Stone, que prioriza a las heroínas femeninas y se inspira en sus propias vivencias, se refleja en la obra, creando una atmósfera intensa y emocionante.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre una producción teatral, incluyendo detalles sobre el proceso creativo, los actores involucrados y la obra en sí.  Es altamente relevante para la categoría 'Cultura Arte' por su enfoque en el teatro, una forma de expresión artística."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Death of a Showjumper review – the investigators in this bleak true-crime drama restore your faith in humanity",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/07/death-of-a-showjumper-review-investigators-bleak-true-crime-drama-restore-faith-in-humanity",
+      "fecha_obj": "2025-09-07T21:00:30+00:00",
+      "fecha_str": "07-09-2025 21:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Un asesinato, una encubrimiento, y la lucha por la justicia en el mundo ecuestre de Irlanda del Norte.",
+      "resumen": "Death of a Showjumper es un documental que narra el asesinato de Katie Simpson, una joven amazona.  La periodista Tanya Fowles y el detective James Brannigan investigan la muerte, inicialmente catalogada como suicidio, descubriendo un patrón de abuso doméstico por parte de Jonathan Cresswell, pareja de la hermana de la víctima.  A pesar de la resistencia policial y la complicidad de la comunidad, logran llevar a Cresswell a juicio. El documental expone la violencia de género, la falta de apoyo a las víctimas y la dificultad para obtener justicia en casos de abuso doméstico, destacando la valentía de Fowles y Brannigan.  Aunque el caso deja cabos sueltos, el documental logra visibilizar un problema sistémico.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien el documental se centra en un crimen, su análisis de la cultura de silencio alrededor de la violencia doméstica y la manera en que impacta la vida de las personas lo relaciona con la cultura y la sociedad.  La temática se explora a través de la lente del mundo ecuestre, añadiendo un elemento cultural específico."
+    },
+    "categoria": "cultura_arte"
   }
 ]
