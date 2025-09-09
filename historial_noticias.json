@@ -4622,5 +4622,197 @@
       "relevancia_justificacion": "Si bien el documental se centra en un crimen, su análisis de la cultura de silencio alrededor de la violencia doméstica y la manera en que impacta la vida de las personas lo relaciona con la cultura y la sociedad.  La temática se explora a través de la lente del mundo ecuestre, añadiendo un elemento cultural específico."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "«Mieux vaut vendre la terre et gagner un million d’euros» : en Grèce, l’île d’Egine perdra-t-elle son «or vert» ?",
+      "link": "https://www.lefigaro.fr/voyages/guides/mieux-vaut-vendre-la-terre-et-gagner-un-million-d-euros-en-grece-l-ile-d-egine-perdra-t-elle-son-or-vert-20250909",
+      "fecha_obj": "2025-09-09T07:07:49+00:00",
+      "fecha_str": "09-09-2025 07:07 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La isla griega de Egina, famosa por sus pistachos, enfrenta la pérdida de su \"oro verde\" por el cambio climático y el auge del turismo.",
+      "resumen": "La producción de pistachos en la isla griega de Egina, tradicionalmente abundante, está disminuyendo debido a varios factores. El cambio climático, con inviernos más cálidos, afecta la cosecha.  La falta de interés de las nuevas generaciones en la agricultura familiar, y la conversión de tierras de cultivo en lucrativas residencias turísticas, agrava el problema.  A pesar de su sabor único, la producción local palidece ante la de otros países.  Los productores se enfrentan a un dilema: continuar con la tradición o vender sus tierras ante la creciente presión del turismo y la dificultad de competir en un mercado globalizado.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata un tema de actualidad internacional: el impacto del cambio climático y el turismo en la agricultura tradicional de una región específica.  La problemática de la isla de Egina es representativa de desafíos que enfrentan otras zonas rurales en el mundo ante la globalización y el cambio climático."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Chute du gouvernement : François Bayrou va remettre sa démission à Emmanuel Macron, Braun-Pivet ne ferme pas la porte à Matignon",
+      "link": "https://www.lefigaro.fr/politique/bayrou-vote-de-confiance-en-direct-demission-gouvernement-premier-ministre-macron-assemblee-nationale-20250909",
+      "fecha_obj": "2025-09-09T07:07:02+00:00",
+      "fecha_str": "09-09-2025 07:07 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Caída del gobierno francés: Bayrou renuncia, incertidumbre en los mercados y riesgo de rebaja en la calificación crediticia.",
+      "resumen": "La Asamblea Nacional francesa ha derrocado al primer ministro François Bayrou, generando incertidumbre en los mercados financieros.  La Bolsa de París anticipa una apertura a la baja debido a la situación crítica de las finanzas públicas francesas: déficit del 5.4% del PIB y una deuda creciente.  La dificultad para formar un nuevo gobierno y la falta de visibilidad presupuestaria preocupan a los inversores.  Además, existe el riesgo de que la agencia Fitch Ratings rebaje la calificación crediticia de Francia, considerando su alta deuda, bajo crecimiento e inestabilidad política.  Moody's y S&P realizarán sus propias evaluaciones en octubre y noviembre.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La caída de un gobierno y la consiguiente crisis política y económica en Francia son eventos de gran relevancia internacional, afectando a los mercados financieros globales y a la estabilidad política europea."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Des «pots de départ» réunissent des milliers de manifestants pour fêter la chute du gouvernement Bayrou et préparer le 10 septembre",
+      "link": "https://www.lefigaro.fr/politique/des-pots-de-depart-reunissent-des-milliers-de-manifestants-pour-feter-la-chute-du-gouvernement-bayrou-et-preparer-le-10-septembre-20250909",
+      "fecha_obj": "2025-09-09T07:05:14+00:00",
+      "fecha_str": "09-09-2025 07:05 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Caída del gobierno Bayrou desata celebraciones y protestas en Francia, preparando movilizaciones para el 10 de septiembre.",
+      "resumen": "Miles de personas en Francia celebraron la dimisión del gobierno de François Bayrou con manifestaciones en más de 200 ciudades.  Las protestas, convocadas por el movimiento \"Bloquemos todo\", fueron mayoritariamente festivas, aunque se registraron incidentes menores en algunas ciudades como Rennes, Toulouse y Grenoble. Los manifestantes expresaron su descontento con el gobierno y prepararon acciones para el 10 de septiembre.  La caída del gobierno se considera una victoria para los manifestantes, quienes esperan que el nuevo gobierno aborde las preocupaciones económicas y sociales del país.  Las protestas abarcaron diversas ciudades, incluyendo París, Lyon, Rennes, Brest y Bordeaux, con una participación significativa de jóvenes y estudiantes.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El evento es de relevancia internacional por la magnitud de las protestas en Francia, un país con influencia global, y por la implicación política de la caída de un gobierno y la preparación de futuras movilizaciones."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "I’ve seen reshuffles from the inside, and I know why Starmer won’t sack Rachel Reeves – even though he should | Simon Hart",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/09/reshuffle-keir-starmer-rachel-reeves-weakest-link",
+      "fecha_obj": "2025-09-09T07:00:08+00:00",
+      "fecha_str": "09-09-2025 07:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Starmer resiste a destituir a su cuestionada canciller, Reeves, a pesar de las presiones.",
+      "resumen": "El artículo analiza el reciente cambio de gabinete del líder laborista Keir Starmer, argumentando que la decisión de mantener a Rachel Reeves como canciller, a pesar de su desempeño cuestionable, es un error estratégico.  A pesar de las presiones tras la caída de Angela Rayner, Starmer se aferra a Reeves por razones económicas y políticas, temiendo el impacto en los mercados de su despido. El autor, con experiencia como jefe de látigo, destaca la complejidad y los riesgos inherentes a los cambios de gabinete, incluso cuando se planean cuidadosamente.  Concluye que, aunque un cambio en la cancillería sería beneficioso, Starmer no se arriesgará a desestabilizar su gobierno.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza profundamente las motivaciones políticas y estratégicas detrás de una decisión gubernamental, ofreciendo una perspectiva experta y crítica sobre la situación."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "From Washington to Westminster, the populist right needs to erase history to succeed. It’s up to us to resist | Kojo Koram",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/09/washington-westminster-populist-right-smithsonian-nigel-farage",
+      "fecha_obj": "2025-09-09T06:00:07+00:00",
+      "fecha_str": "09-09-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La derecha populista reescribe la historia para desmantelar la democracia; debemos resistir.",
+      "resumen": "El artículo analiza cómo la derecha populista en EEUU y Reino Unido manipula la narrativa histórica para justificar políticas que erosionan los derechos de grupos vulnerables.  En EEUU, la administración Trump atacó exhibiciones museísticas que mostraban experiencias de minorías, mientras que en Reino Unido, Reform UK busca una visión patriótica de la historia británica que ignora el imperialismo y la esclavitud.  Esto sirve como justificación para políticas anti-inmigrantes y el desmantelamiento de derechos laborales y sociales, representando un intento de 'repelir el siglo XX' y revertir los avances democráticos y de derechos civiles. El autor insta a la resistencia mediante la construcción de solidaridades entre comunidades afectadas por estas narrativas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza un tema político relevante, ofreciendo una perspectiva crítica y argumentando a favor de una postura específica.  Su estructura, argumentación y estilo se ajustan perfectamente a la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "France’s Government Has Fallen. It Really Didn’t Have To.",
+      "link": "https://www.nytimes.com/2025/09/09/opinion/france-bayrou-macron-government.html",
+      "fecha_obj": "2025-09-09T05:00:06+00:00",
+      "fecha_str": "09-09-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Gobierno francés cae tras apuesta arriesgada por austeridad, ignorando una posible solución impositiva.",
+      "resumen": "El primer ministro francés, François Bayrou, provocó una crisis política al convocar una moción de confianza para aprobar un presupuesto de austeridad de 40.000 millones de euros, afectando principalmente a las clases trabajadora y media.  La oposición, tanto de izquierda como de extrema derecha, rechazó el presupuesto, derrocando a Bayrou.  Esta crisis era evitable, ya que existía una propuesta de impuesto a los ultra ricos aprobada en la cámara baja, pero el gobierno la descartó.  La decisión de Bayrou parece ser una estrategia para culpar a la oposición por el estancamiento político y fiscal del país, que enfrenta un déficit presupuestario superior al 5% del PIB. Macron, quien aparentemente apoyó la estrategia de Bayrou, también comparte la responsabilidad de la crisis.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión sobre las decisiones políticas del gobierno francés, analiza las causas de la crisis y ofrece una perspectiva crítica sobre las alternativas disponibles.  Su estructura argumentativa y análisis de las consecuencias lo hacen adecuado para la categoría de opinión-ensayo."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Quand les eaux souillées d’un fleuve empoisonnent l’air que nous respirons",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/pollution/une-pollution-meconnue-quand-les-eaux-souillees-d-un-fleuve-empoisonnent-l-air-que-nous-respirons_188089?xtor=RSS-15",
+      "fecha_obj": "2025-09-09T06:00:00+00:00",
+      "fecha_str": "09-09-2025 06:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El río Tijuana: aguas contaminadas envenenan el aire, causando una crisis sanitaria transfronteriza.",
+      "resumen": "Un estudio publicado en Science revela cómo la contaminación del río Tijuana, por aguas residuales y desechos industriales, contamina el aire a través de la aerosolización, afectando la salud de las comunidades cercanas.  El sulfuro de hidrógeno, con niveles 150 veces superiores a lo permitido, es un indicador clave.  La investigación destaca la falta de infraestructuras adecuadas y la necesidad de una colaboración binacional para resolver esta crisis sanitaria, que va más allá del contacto directo con el agua contaminada. Se proponen soluciones a corto plazo como filtros de aire y monitoreo continuo, mientras se aboga por una renovación de las infraestructuras a largo plazo.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un estudio científico con hallazgos relevantes sobre la contaminación ambiental y sus efectos en la salud, utilizando datos y metodologías científicas.  La investigación tiene implicaciones en ciencia ambiental, salud pública y tecnología de tratamiento de aguas."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "50% Off LG Promo Codes & Coupons",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "fecha_obj": "2025-09-09T06:00:00+00:00",
+      "fecha_str": "09-09-2025 06:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta un 67% en televisores, electrodomésticos y laptops LG; ofertas por tiempo limitado.",
+      "resumen": "El artículo detalla las diversas promociones y descuentos de LG, incluyendo hasta un 67% de rebaja en televisores y electrodomésticos durante su evento de Ahorros del Día del Trabajo.  Se ofrecen descuentos adicionales para miembros de MyLG Rewards, estudiantes, maestros y personal de primeros auxilios.  Hay ofertas especiales en televisores OLED, laptops, monitores y paquetes de electrodomésticos. Se destacan ofertas en modelos específicos como las series C4 y G4 de televisores OLED, así como en refrigeradores, lavadoras y secadoras.  También se mencionan promociones adicionales para Black Friday y Cyber Monday, y se promocionan los nuevos modelos evo G5 OLED.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo se centra en productos tecnológicos de LG (TVs, laptops, monitores) y sus promociones, lo que lo hace altamente relevante para la categoría 'Ciencia y Tecnología'. La información sobre descuentos y ofertas también es de interés para el consumidor."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Dyson Promo Codes: 20% Off | September 2025",
+      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "fecha_obj": "2025-09-09T05:30:00+00:00",
+      "fecha_str": "09-09-2025 05:30 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta un 30% en aspiradoras, secadores y herramientas Dyson con ofertas y códigos promocionales.",
+      "resumen": "El artículo detalla diversas ofertas y promociones de productos Dyson, incluyendo descuentos de hasta $250 en aspiradoras inalámbricas como la V15 Detect y la V8, con regalos adicionales.  Se ofrecen códigos promocionales para un 20% de descuento en productos seleccionados y descuentos adicionales para miembros del programa Dyson Owners Rewards. También se destacan ofertas en la sección de outlet con productos reacondicionados hasta un 30% más baratos, y se reseñan algunos de los productos más populares como la Airwrap y la Corrale, con sus características y puntuaciones. El artículo dirige al lector a la página web de Dyson para aprovechar las ofertas.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre una marca de tecnología conocida por sus innovaciones en electrodomésticos, ofreciendo información relevante sobre sus productos, precios y promociones.  La información sobre las características técnicas de algunos productos también contribuye a la relevancia en la categoría."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "School, self-image and rebellion: what it feels like for a girl – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/sep/09/school-self-image-and-rebellion-nancy-honey-in-pictures",
+      "fecha_obj": "2025-09-09T06:00:07+00:00",
+      "fecha_str": "09-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Rebeldía adolescente femenina: fotos que capturan la autoimagen y el desafío a las normas.",
+      "resumen": "El artículo, ilustrado con fotografías, explora la experiencia de las niñas de 11 años, Emma y Pernel, en la escuela en 1992.  Se centra en un periodo formativo donde comienza la rebeldía, desafiando la crianza familiar y las normas sociales.  Las imágenes reflejan esta etapa de experimentación y el inicio de una nueva fase en la vida de estas jóvenes. El texto sugiere que la rebeldía es un proceso de autodescubrimiento y cuestionamiento de las expectativas impuestas.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Las fotografías documentan un aspecto cultural específico, la experiencia femenina adolescente, con un valor artístico intrínseco.  Si bien no es arte en sí, la selección y presentación de las imágenes, junto con el texto reflexivo, le dan un valor cultural y artístico notable."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Stacey Solomon and Joe Swash are unbelievably sweet  as this reality show returns",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/09/tv-tonight-stacey-solomon-and-joe-swash-unbelievably-sweet-reality-show-returns",
+      "fecha_obj": "2025-09-09T05:20:05+00:00",
+      "fecha_str": "09-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: desde Bake Off hasta un extraterrestre en una comedia, ¡hay algo para todos!",
+      "resumen": "La programación televisiva de esta noche ofrece una variedad de opciones.  Para los amantes de la telerrealidad, Stacey & Joe regresan con más romance.  Bake Off presenta el desafío de la semana de las galletas.  The Yorkshire Vet mostrará casos inusuales, incluyendo un cordero de cinco patas. The Great British Sewing Bee llega a su semifinal con desafíos inspirados en los años 20.  Casualty 24/7 mostrará casos de emergencia en un hospital.  Resident Alien continúa su trama en un pueblo remoto, y para los cinéfilos, Channel 4 proyecta 'The Old Man & the Gun'.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien la programación incluye The Great British Sewing Bee, que podría tener un ligero vínculo con la moda, el artículo se centra principalmente en la programación de televisión general, sin un enfoque profundo en la cultura o el arte."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Only Murders in the Building review – does this show just need to die now?",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/09/only-murders-in-the-building-review-season-5-disney-plus",
+      "fecha_obj": "2025-09-09T04:00:05+00:00",
+      "fecha_str": "09-09-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Only Murders in the Building: ¿ha perdido su magia o puede recuperarla?",
+      "resumen": "La reseña analiza la quinta temporada de Only Murders in the Building, comparándola con la longeva serie 3rd Rock from the Sun. Si bien destaca el talento del elenco (Steve Martin, Martin Short, Selena Gomez) y la fórmula ganadora inicial, critica la inclusión de cameos extensos (Meryl Streep, Renée Zellweger), la dispersión de la trama fuera del edificio Arconia y la pérdida del ritmo y la agilidad característicos de las temporadas anteriores. A pesar de las críticas, la reseña mantiene la esperanza de una corrección de rumbo en futuras temporadas.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La serie es un producto cultural relevante, analizada desde la perspectiva de la crítica televisiva.  Aborda temas de la industria del entretenimiento,  el humor y la creación televisiva, aspectos que caen dentro de la categoría 'Cultura y Arte'."
+    },
+    "categoria": "cultura_arte"
   }
 ]
