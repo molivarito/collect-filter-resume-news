@@ -4814,5 +4814,165 @@
       "relevancia_justificacion": "La serie es un producto cultural relevante, analizada desde la perspectiva de la crítica televisiva.  Aborda temas de la industria del entretenimiento,  el humor y la creación televisiva, aspectos que caen dentro de la categoría 'Cultura y Arte'."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - «Objets hostiles» abattus en Pologne : Zelensky s’alarme d’un «précédent extrêmement dangereux pour l’Europe»",
+      "link": "https://www.lefigaro.fr/international/en-direct-attaque-russe-contre-l-ukraine-la-pologne-denonce-des-violations-repetees-de-son-espace-aerien-20250910",
+      "fecha_obj": "2025-09-10T07:05:41+00:00",
+      "fecha_str": "10-09-2025 07:05 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Polonia derriba \"objetos hostiles\" tras ataque ruso a Ucrania, generando alarma en la OTAN.",
+      "resumen": "Polonia reportó haber derribado \"objetos hostiles\" que violaron su espacio aéreo durante un ataque ruso a Ucrania.  El Ministro de Defensa polaco, Wladyslaw Kosiniak-Kamysz, confirmó el incidente, indicando que se trató de un \"acto de agresión\" y que se mantuvo en contacto con el mando de la OTAN.  El ejército polaco desplegó aviones y, junto con aliados, monitorearon más de diez objetos, neutralizando aquellos que representaban una amenaza.  El Primer Ministro, Donald Tusk, informó al Secretario General de la OTAN.  El incidente ha generado preocupación por la escalada del conflicto y la seguridad de los países miembros de la OTAN.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El incidente involucra a un país miembro de la OTAN, Polonia, y un ataque de Rusia, lo que representa una escalada significativa del conflicto en Ucrania con implicaciones geopolíticas de gran alcance.  La respuesta de la OTAN y la posible escalada del conflicto son de gran relevancia internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Simulateur : quelle majorité possible pour le futur gouvernement de Sébastien Lecornu ?",
+      "link": "https://www.lefigaro.fr/elections/legislatives/resultats-legislatives-tentez-de-composer-une-majorite-absolue-avec-notre-simulateur-de-coalitions-20240708",
+      "fecha_obj": "2025-09-10T07:04:08+00:00",
+      "fecha_str": "10-09-2025 07:04 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Fracaso de Bayrou en Matignon: sus intentos de unidad política terminan en derrota.",
+      "resumen": "El artículo describe el fallido intento de François Bayrou, primer ministro francés, de construir una mayoría política estable.  Tras ocho meses en el cargo, su proyecto de reunir fuerzas moderadas y alertar sobre la deuda pública fracasó con el voto de confianza.  El texto destaca las dificultades de Bayrou para lograr consensos y la eventual derrota de sus ambiciones políticas. Se centra en la incapacidad de Bayrou para formar una coalición efectiva, más que en detalles específicos de las políticas o el contexto general de la política francesa.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien se centra en la política francesa interna, el fracaso de un gobierno y la inestabilidad política tienen implicaciones internacionales, especialmente en la Unión Europea.  El impacto puede ser indirecto, pero la situación política francesa siempre tiene relevancia en el contexto global."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Mouvement du 10 septembre : manifestations sauvages, périphériques bloqués... Des scènes de violences repérées dans les cortèges",
+      "link": "https://www.lefigaro.fr/social/direct-bloquons-tout-10-septembre-mouvement-greves-manifestations-perturbations-transports-ecole-20250910",
+      "fecha_obj": "2025-09-10T07:01:26+00:00",
+      "fecha_str": "10-09-2025 07:01 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Protestas violentas en Rennes, Francia: bloqueos, incendios y enfrentamientos con la policía.",
+      "resumen": "Manifestantes bloquearon la rocade de Rennes, Francia, durante una protesta el 10 de septiembre.  Se reportaron actos violentos, incluyendo el incendio de un autobús de la compañía STAR.  Los manifestantes arrojaron piedras a los agentes de policía y bloquearon el tráfico, causando inconvenientes a los ciudadanos que intentaban ir a trabajar.  Un testigo describió la situación como tensa y peligrosa, expresando preocupación por la escalada de la violencia.  La policía intervino para controlar la situación, aunque aún no se ha dado a conocer el alcance total de los daños y arrestos.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien el evento es localizado (Rennes, Francia), la naturaleza violenta de las protestas y los bloqueos podrían tener implicaciones más amplias, dependiendo de su contexto y si se replican en otras ciudades.  Su impacto en el transporte y la vida cotidiana justifica una relevancia internacional moderada."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "What is the endgame in this toxic immigration debate: is it friends and neighbours thrown out of the country? | Jonthan Liew",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/10/immigration-debate-country-remigration-right",
+      "fecha_obj": "2025-09-10T05:00:01+00:00",
+      "fecha_str": "10-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El auge de la narrativa anti-inmigrante en Reino Unido amenaza con la deportación masiva de residentes.",
+      "resumen": "El artículo analiza la creciente retórica anti-inmigrante en Reino Unido, rastreando su evolución desde preocupaciones legítimas hasta propuestas de deportación masiva.  Señala cómo figuras políticas de derecha utilizan un lenguaje ambiguo para normalizar la idea de la 'remigración',  mientras que grupos extremistas abiertamente promueven la expulsión de millones de personas. El autor advierte sobre el peligro de normalizar estas ideas, mostrando cómo lo que antes parecía impensable, ahora se considera una posibilidad real, con consecuencias devastadoras para los residentes no blancos.  Se cuestiona la falta de oposición contundente a estas narrativas y se insta a confrontar abiertamente la posibilidad de deportaciones masivas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un tema político relevante: el discurso anti-inmigración y sus implicaciones. Presenta argumentos, evidencia y una perspectiva clara, encajando perfectamente en la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Message to Democrats in Congress: It’s Time to Act",
+      "link": "https://www.nytimes.com/2025/09/09/opinion/democrats-congress-trump.html",
+      "fecha_obj": "2025-09-10T04:03:05+00:00",
+      "fecha_str": "10-09-2025 04:03 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Demócratas deben usar la amenaza de cierre gubernamental para exigir el respeto al estado de derecho.",
+      "resumen": "La carta al editor elogia el artículo de Ezra Klein sobre la necesidad de que los demócratas en el Congreso actúen con firmeza frente a las acciones del expresidente Trump.  Se sugiere aprovechar la posibilidad de un cierre gubernamental para establecer demandas concretas, centradas en detener la erosión del estado de derecho.  Estas demandas podrían incluir la prohibición del despliegue de la Guardia Nacional en ciudades estadounidenses.  El autor argumenta que, independientemente del éxito, esta estrategia proporcionaría a los demócratas una plataforma sólida para las próximas elecciones, dado la escasez de logros recientes.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El texto es una opinión expresada a través de una carta al editor, analizando la situación política actual y proponiendo una estrategia para los demócratas.  Se ajusta perfectamente a la categoría de 'Opinión Ensayo' por su naturaleza argumentativa y su propuesta de solución a un problema político."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Help! I’ve Become a Helicopter Parent to My Dog.",
+      "link": "https://www.nytimes.com/2025/09/07/opinion/dogs-helicopter-parenting.html",
+      "fecha_obj": "2025-09-09T21:07:57+00:00",
+      "fecha_str": "09-09-2025 21:07 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Helicopter parenting, but for dogs: una confesión de una dueña canina sobrecargada.",
+      "resumen": "La autora relata cómo se convirtió en una \"helicopter parent\" para su perra Sally, sobreprotegiéndola y sobreestimulándola con actividades y productos costosos, a diferencia de su anterior perro que tuvo una crianza más sencilla.  Influenciada por amigos y consejos no solicitados, cayó en la trampa de la sobre-planificación canina, incluyendo comida gourmet, guardería y actividades extracurriculares.  Reflexiona sobre la hipocresía de juzgar a otros padres mientras ella misma se excede en el cuidado de su mascota, reconociendo que el objetivo es criar a la mascota que tienes, no la mascota idealizada.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que reflexiona sobre la crianza canina, usando la experiencia personal de la autora para criticar la tendencia a la sobre-protección y el consumismo en el cuidado de mascotas.  Su tono reflexivo y autocrítico lo hace ideal para esta categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Watch WIRED’s ‘Uncanny Valley’ Live",
+      "link": "https://www.wired.com/story/uncanny-valley-live-show-san-francisco/",
+      "fecha_obj": "2025-09-10T03:30:00+00:00",
+      "fecha_str": "10-09-2025 03:30 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "WIRED presenta el primer show en vivo de su podcast 'Uncanny Valley', explorando el auge y el futuro de la tecnología en San Francisco.",
+      "resumen": "El podcast 'Uncanny Valley' de WIRED, enfocado en tecnología, tendrá su primer show en vivo el 9 de septiembre.  El evento contará con una conversación entre la editora en jefe de WIRED, Katie Drummond, y Jack Conte, CEO de Patreon, sobre la adaptación de la tecnología por parte de los creativos.  Posteriormente, un panel discutirá la evolución de San Francisco como centro tecnológico y su capacidad para mantener su liderazgo con tecnologías emergentes como la IA. El evento se transmitirá en vivo y se podrán encontrar episodios anteriores del podcast.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre un podcast de tecnología,  discute temas como la IA, el impacto de la tecnología en la economía creativa y el desarrollo tecnológico en San Francisco.  Su relevancia para la categoría 'Ciencia y Tecnología' es máxima."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Donald Trump accuses Australian author Scott Stuart’s children’s book of ‘radical gender ideology’",
+      "link": "https://www.theguardian.com/culture/2025/sep/10/donald-trump-targets-australian-author-scott-stuart-childrens-book-my-shadow-is-pink",
+      "fecha_obj": "2025-09-10T06:18:00+00:00",
+      "fecha_str": "10-09-2025 06:18 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump ataca libro infantil australiano por promover 'ideología de género radical', generando controversia.",
+      "resumen": "El presidente Trump criticó el libro infantil australiano \"My Shadow Is Pink\", acusándolo de promover una ideología de género radical.  Un estudiante, quien dijo haber sido obligado a leerlo, relató su experiencia negativa. El autor, Scott Stuart, respondió que Trump usa el libro para su agenda política y que el estudiante es utilizado como peón.  Stuart defiende su obra como un mensaje de aceptación e inclusión, mientras que su agente celebra la controversia.  El libro ya ha sido prohibido en Malasia y ha causado la despido de una maestra en Georgia por leerlo a sus alumnos.  La controversia destaca el debate sobre la inclusión LGBTQ+ en la educación.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre un libro infantil y la reacción que ha generado, lo que lo relaciona con la literatura infantil y la cultura. La controversia en torno al libro y su contenido lo relaciona con debates culturales actuales."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "How to Save the Internet by Nick Clegg review – spinning Silicon Valley",
+      "link": "https://www.theguardian.com/technology/2025/sep/10/how-to-save-the-internet-by-nick-clegg-review-spinning-silicon-valley",
+      "fecha_obj": "2025-09-10T06:01:03+00:00",
+      "fecha_str": "10-09-2025 06:01 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Nick Clegg defiende a Meta, pero ¿puede salvar internet de sí misma?",
+      "resumen": "En su libro \"How to Save the Internet\", Nick Clegg, ex vicepresidente de Meta, argumenta que la regulación excesiva amenaza a internet.  Si bien reconoce los daños causados por las redes sociales a la salud mental y la democracia, minimiza la responsabilidad de Meta, presentando una defensa corporativa que contrasta con documentos internos que revelan preocupaciones internas sobre estos problemas.  Su propuesta de \"transparencia radical\" y colaboración internacional se considera insuficiente por el autor del artículo, quien argumenta que la cultura corporativa de Meta y la influencia política dificultan la implementación de estas soluciones. El autor concluye que la propuesta de Clegg es buena en teoría, pero inadecuada para la industria tecnológica actual.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien el libro trata temas de impacto cultural, su enfoque principal es político y económico, relacionado con la regulación de la industria tecnológica.  La relevancia para 'Cultura Arte' es baja, ya que no analiza directamente obras artísticas o movimientos culturales."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Deaf review – a young mother’s struggles to be heard",
+      "link": "https://www.theguardian.com/film/2025/sep/10/deaf-review-a-young-mothers-struggles-to-be-heard",
+      "fecha_obj": "2025-09-10T06:00:05+00:00",
+      "fecha_str": "10-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Una joven madre sorda lucha por ser escuchada en una sociedad que no la entiende.",
+      "resumen": "La película \"Deaf\" retrata la tensión entre identidades verticales y horizontales en una familia donde la madre, Angela, es sorda y su esposo, Hector, oyente.  El nacimiento de su hija Ona exacerba las dificultades de comunicación y las microagresiones que Angela experimenta.  La falta de consideración de Hector al no usar lenguaje de señas con Ona crea una brecha entre la pareja. La película utiliza ingeniosamente la ausencia de sonido para mostrar la experiencia auditiva de Angela, generando empatía en el espectador.  \"Deaf\" explora con sensibilidad las dificultades de la maternidad, la comunicación y la identidad sorda.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La película \"Deaf\" es una obra cinematográfica que explora temas relevantes de identidad, comunicación y maternidad desde la perspectiva de la cultura sorda. Su análisis se centra en la experiencia cinematográfica y su impacto, lo que la hace altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
   }
 ]
