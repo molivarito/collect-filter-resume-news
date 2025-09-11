@@ -4974,5 +4974,197 @@
       "relevancia_justificacion": "La película \"Deaf\" es una obra cinematográfica que explora temas relevantes de identidad, comunicación y maternidad desde la perspectiva de la cultura sorda. Su análisis se centra en la experiencia cinematográfica y su impacto, lo que la hace altamente relevante para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Le premier ministre Sébastien Lecornu réunit les chefs des partis du socle commun, Gérard Larcher veut «un contrat de gouvernement»",
+      "link": "https://www.lefigaro.fr/politique/premier-ministre-sebastien-lecornu-en-direct-blocages-greve-10-septembre-manifestation-20250911",
+      "fecha_obj": "2025-09-11T07:10:02+00:00",
+      "fecha_str": "11-09-2025 07:10 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Villepin critica nombramiento de Lecornu como primer ministro francés, abogando por figura de izquierda.",
+      "resumen": "Dominique de Villepin, expresidente del gobierno francés, criticó la designación de Sébastien Lecornu como primer ministro por Emmanuel Macron.  Villepin argumenta que Macron debió haber considerado primero a alguien del bloque de izquierda para formar gobierno,  afirmando que el presidente está bloqueado en su política y no comprende el funcionamiento democrático.  A pesar de reconocer el trabajo de Lecornu, Villepin le advierte que no debe ser simplemente un acólito del presidente.  La declaración de Villepin resalta la tensión política en Francia y el debate sobre la estrategia política de Macron tras las recientes elecciones.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre la política francesa de alto nivel, incluyendo la designación del primer ministro, un tema de gran relevancia internacional. Las declaraciones de una figura política prominente como Villepin tienen implicaciones internacionales y reflejan la dinámica política en Francia."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Dirigé par un chef israélien, le Philharmonique de Munich interdit de festival en Belgique",
+      "link": "https://www.lefigaro.fr/musique/dirige-par-un-chef-israelien-le-philharmonique-de-munich-interdit-de-festival-en-belgique-20250911",
+      "fecha_obj": "2025-09-11T07:08:20+00:00",
+      "fecha_str": "11-09-2025 07:08 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Festival belga cancela concierto de la Filarmónica de Munich por la postura de su director israelí sobre Gaza.",
+      "resumen": "La participación del Orquesta Filarmónica de Munich, dirigido por Lahav Shani, en el Festival de Flandre de Gand fue cancelada. Los organizadores argumentan que la posición de Shani sobre la guerra en Gaza no es lo suficientemente clara, a pesar de sus declaraciones previas a favor de la paz.  Esta decisión ha generado controversia, con el gobierno alemán calificándola como un \"boicot cultural\" y una \"vergüenza para Europa\". Los organizadores justifican su decisión basándose en un llamado del ministro de Cultura belga y autoridades locales para evitar colaboraciones con entidades que no se distancien explícitamente del conflicto.  El evento estaba programado para el 18 de septiembre.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia involucra un conflicto internacional (la guerra en Gaza), una decisión de un festival internacional y la reacción de un gobierno europeo.  Tiene repercusiones políticas y culturales a nivel internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Lyon : un homme en fauteuil roulant tué à l’arme blanche",
+      "link": "https://www.lefigaro.fr/lyon/lyon-un-homme-en-fauteuil-roulant-tue-a-l-arme-blanche-20250911",
+      "fecha_obj": "2025-09-11T07:07:13+00:00",
+      "fecha_str": "11-09-2025 07:07 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Brutal asesinato de un hombre en silla de ruedas en Lyon; la policía investiga.",
+      "resumen": "Un hombre de 50 años en silla de ruedas fue asesinado el miércoles por la noche en Lyon, Francia. La víctima recibió una puñalada en el cuello con un arma blanca en el 9º arrondissement de la ciudad.  Los servicios de emergencia llegaron alrededor de las 22:30, encontrando a la víctima en paro cardiorrespiratorio.  A pesar de los esfuerzos de reanimación, no pudieron salvarle la vida. La policía está investigando el crimen para determinar las circunstancias exactas del suceso y detener al o los responsables.  Se espera más información en las próximas horas.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien es un suceso local, un asesinato violento tiene implicaciones que pueden trascender lo local.  El hecho de que haya ocurrido en una ciudad importante como Lyon le da relevancia internacional, aunque la información disponible es limitada."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Warning! The rightwing junktanks behind the Tories’ worst disasters still have the keys to No 10 | George Monbiot",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/11/tories-rightwing-junktanks-no-10-government-civil-servants",
+      "fecha_obj": "2025-09-11T05:00:24+00:00",
+      "fecha_str": "11-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Influencia neoliberal persiste en el gobierno británico, a pesar del cambio de partido.",
+      "resumen": "George Monbiot critica la continua influencia de think tanks neoliberales como los de Tufton Street en el gobierno de Keir Starmer, a pesar de la derrota electoral del partido conservador.  Monbiot destaca la participación de estos grupos en la formación de políticas económicas y la preocupante falta de representación de otros sectores.  Señala la continuidad ideológica entre los gobiernos conservador y laborista, evidenciando la persistencia de intereses corporativos y la opacidad en la toma de decisiones.  El autor cuestiona la legitimidad democrática de un gobierno aparentemente influenciado por grupos de presión y lobbyistas, en detrimento del interés público.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente la política británica, ofreciendo una perspectiva argumentada sobre la influencia de grupos de presión y la continuidad ideológica entre gobiernos de diferentes partidos.  Su estructura, estilo y contenido se ajustan perfectamente a la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "I’d Be Thailand’s Leader Now if the System Wasn’t Rigged",
+      "link": "https://www.nytimes.com/2025/09/11/opinion/thailand-election-pita-limjaroenrat.html",
+      "fecha_obj": "2025-09-11T05:00:05+00:00",
+      "fecha_str": "11-09-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Derrotado por la maquinaria política tailandesa, un líder electo denuncia un sistema amañado.",
+      "resumen": "El líder del partido Move Forward en Tailandia denuncia la manipulación del sistema político que le impidió asumir el cargo de primer ministro tras ganar las elecciones.  Acusando a las élites políticas de conspirar para bloquear su gobierno, describe cómo se usaron demandas fraudulentas y la Corte Constitucional para disolver su partido y vetarlo de la política durante 10 años.  El artículo destaca cómo, a pesar de la victoria electoral de Move Forward, un conservador de un partido con menor apoyo popular asumió el cargo, ilustrando el uso de mecanismos legales para debilitar la oposición y socavar la democracia.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión clara y argumentada sobre la situación política en Tailandia, analizando el uso de la ley para fines antidemocráticos.  Se ajusta perfectamente a la categoría de 'Opinión Ensayo' por su perspectiva subjetiva y análisis crítico de un evento político."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Trump or no Trump, Europe’s relationship with the US will never recover | Nathalie Tocci",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/11/donald-trump-europe-transatlantic-alliance-never-recover",
+      "fecha_obj": "2025-09-11T04:00:22+00:00",
+      "fecha_str": "11-09-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La relación transatlántica entre EEUU y Europa está rota, y la era post-Trump no la arreglará.",
+      "resumen": "Nathalie Tocci argumenta que la deteriorada relación entre EEUU y Europa es estructural, no solo consecuencia de Trump.  Incluso con Biden, la autora ve difícil una vuelta a la cooperación del pasado.  Se plantean dos escenarios futuros: una relación puramente transaccional, donde Europa busca su autonomía estratégica, o un mundo de imperios donde Europa queda atrapada entre EEUU, Rusia y China. Tocci critica la actitud complaciente de Europa ante Trump,  abogando por un cambio de mentalidad para evitar un futuro desfavorable.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza profundamente un tema de relevancia geopolítica, ofreciendo argumentos, escenarios futuros y una clara postura crítica.  Su estructura, análisis y conclusión lo hacen un claro ejemplo de ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "30% Off Tempur-Pedic Promo Codes | September 2025",
+      "link": "https://www.wired.com/story/tempur-pedic-promo-code/",
+      "fecha_obj": "2025-09-11T05:30:00+00:00",
+      "fecha_str": "11-09-2025 05:30 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta un 50% en colchones y artículos Tempur-Pedic: ¡Ofertas por tiempo limitado!",
+      "resumen": "Tempur-Pedic ofrece varias promociones.  Al registrarse en su correo electrónico, se obtiene un 30% de descuento en almohadas y sábanas.  Hay descuentos adicionales por la compra de conjuntos de colchón y base, con ahorros de $300 o más.  Se ofrecen también descuentos en juegos de sábanas (hasta 50%), almohadas (25% o bundles a partir de $69) y paquetes de almohadas con un ahorro de $39. Las ofertas se centran en la comodidad y el alivio de la presión, destacando la calidad de los materiales Tempur-Pedic.",
+      "relevancia_score": 1,
+      "relevancia_justificacion": "El artículo se centra en una promoción de productos para el descanso de una marca comercial. No tiene relación con avances científicos o tecnológicos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TopResume Free Review, Discounts & Packages for September 2025",
+      "link": "https://www.wired.com/story/topresume-discount-code/",
+      "fecha_obj": "2025-09-11T05:00:00+00:00",
+      "fecha_str": "11-09-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "TopResume: revisión gratuita de currículum y servicios premium con garantía de entrevista.",
+      "resumen": "TopResume ofrece una revisión gratuita de currículum que analiza la compatibilidad con sistemas de seguimiento de candidatos (ATS) basados en IA.  Esta revisión, aunque no reescribe el currículum, proporciona valiosa información sobre optimización.  Para una mejora completa, TopResume ofrece paquetes de pago con diferentes niveles de servicio, incluyendo redacción de currículum y carta de presentación, acceso a la plataforma de servicios profesionales y garantía de entrevista en 60 días. Los precios comienzan en $180.  La plataforma incluye entrenamiento para entrevistas y ayuda para la difusión del currículum.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre el uso de la IA en el reclutamiento y una herramienta que ayuda a optimizar los currículums para superar los filtros de IA.  Si bien no es un desarrollo tecnológico en sí, la relevancia radica en la aplicación de la IA en el ámbito laboral y la necesidad de herramientas que contrarresten sus efectos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "1Password Coupon: Score a Free Trial in September",
+      "link": "https://www.wired.com/story/1password-coupon/",
+      "fecha_obj": "2025-09-11T05:00:00+00:00",
+      "fecha_str": "11-09-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Prueba gratis 1Password 14 días: ¡seguridad y gestión de contraseñas premium!",
+      "resumen": "1Password es un gestor de contraseñas con apps para múltiples sistemas operativos y navegadores. Ofrece funciones avanzadas como el Modo Viaje para proteger datos sensibles en fronteras internacionales, actúa como app de autenticación y se integra con otras apps para autocompletar contraseñas.  Sus planes varían en precio según la suscripción (individual, familiar, equipos o negocios), con descuentos por pago anual.  Una prueba gratuita de 14 días sin tarjeta de crédito está disponible para probar todas las funciones premium.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre un gestor de contraseñas, un software que se relaciona directamente con la tecnología y la seguridad informática, temas centrales en la categoría 'Ciencia y Tecnología'.  Su descripción detallada de funciones y planes lo hace relevante para usuarios interesados en estas áreas."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Nudes, neighbours and napoles: a Mexican moves to New York – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/sep/11/nudes-neighbours-and-nopales-a-mexican-moves-to-new-york-in-pictures",
+      "fecha_obj": "2025-09-11T06:00:24+00:00",
+      "fecha_str": "11-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Fotógrafa mexicana en NY: desnudos, colaboración y autorretratos íntimos.",
+      "resumen": "El artículo presenta una serie de fotografías de una artista mexicana que reside en Nueva York.  Las imágenes, principalmente autorretratos, exploran la intimidad y la colaboración con su esposo, Dylan, quien la ayuda a tomar las fotos.  El proceso creativo se describe como una conversación entre ambos, decidiendo conjuntamente la composición, la postura y el encuadre. La artista destaca la sorpresa y el descubrimiento personal que encuentra al revisar las fotografías, resaltando la importancia de la colaboración en su práctica artística y en su relación. Las imágenes parecen desafiar convenciones y explorar la representación del cuerpo femenino.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "Altamente relevante por mostrar el proceso creativo de una artista, su estilo fotográfico y la reflexión sobre la representación del cuerpo y la colaboración artística.  El tema de los autorretratos y la exploración de la intimidad encajan perfectamente en la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: stop press! Journalists bicker in a terrific 1980s-set drama",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/11/tv-tonight-stop-press-journalists-bicker-in-a-terrific-1980s-set-drama",
+      "fecha_obj": "2025-09-11T05:20:23+00:00",
+      "fecha_str": "11-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche, disfruta de dramas de los 80, rescates dramáticos y comediantes compitiendo en Taskmaster.",
+      "resumen": "La programación televisiva de esta noche ofrece una variada selección de programas.  'The Newsreader' regresa con la historia de un equipo periodístico australiano en 1989. 'Saving Lives at Sea' muestra emocionantes rescates de la RNLI. 'The Dog House' continúa con su entrañable búsqueda de hogares para perros. 'I Fought the Law' relata la lucha de Ann Ming por cambiar la ley tras el asesinato de su hija. 'Taskmaster' presenta una nueva temporada con comediantes compitiendo en divertidos desafíos. Finalmente, 'Atomic' ofrece un thriller de acción con mercenarios en Marrakech.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien 'The Newsreader' podría tener algún elemento cultural al mostrar un contexto histórico, la mayoría de los programas se centran en el entretenimiento y la realidad, no en el arte o la cultura en un sentido profundo."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Denuncian censura en una muestra de fileteado porteño en el Palacio Libertad",
+      "link": "https://www.clarin.com/cultura/denuncian-censura-muestra-fileteado-porteno-palacio-libertad_0_LJAJkBx1tm.html",
+      "fecha_obj": "2025-09-11T01:08:10+00:00",
+      "fecha_str": "11-09-2025 01:08 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Censura en muestra de fileteado porteño: obras con contenido político sobre educación pública y el conflicto de Gaza fueron vetadas.",
+      "resumen": "La Asociación de Fileteadores denunció la censura de su exposición en el Palacio Libertad, debido a que obras con contenido político sobre educación pública y el conflicto de Gaza fueron consideradas como \"heridas a la susceptibilidad del gobierno nacional\".  A pesar de que la Secretaría de Cultura de la Nación negó haber censurado la muestra, la Asociación decidió trasladar la exposición a otro espacio.  La decisión se enmarca en la política de la Secretaría de eliminar contenido político de sus eventos, evidenciada en otros casos como la Feria del Libro Infantil. La discrepancia se centró en pocas obras, generando controversia y desazón entre los involucrados.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre la censura de una muestra de arte, un tema central en la categoría 'Cultura Arte'.  La controversia involucra a artistas, instituciones culturales y políticas gubernamentales, lo que le da una gran relevancia en el ámbito cultural y artístico."
+    },
+    "categoria": "cultura_arte"
   }
 ]
