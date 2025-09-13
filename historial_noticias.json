@@ -5326,5 +5326,197 @@
       "relevancia_justificacion": "La mayor parte del artículo se centra en temas artísticos, incluyendo la obra de artistas contemporáneos, el análisis de la representación religiosa en el arte y la exploración de la música lofi como fenómeno cultural.  Sin embargo, la inclusión de temas políticos disminuye ligeramente la puntuación."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "«Bloquons-Tout» : vers une nouvelle journée de mobilisation ce samedi ?",
+      "link": "https://www.lefigaro.fr/actualite-france/bloquons-tout-vers-un-nouveau-samedi-de-mobilisation-20250913",
+      "fecha_obj": "2025-09-13T07:02:11+00:00",
+      "fecha_str": "13-09-2025 07:02 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Nuevos movimientos \"Bloquons-Tout\" previstos para este sábado en Francia, a pesar de la principal movilización sindical el jueves.",
+      "resumen": "A pesar de que muchos prefieren esperar a la movilización sindical del jueves, se han anunciado varios eventos \"Bloquons-Tout\" para este sábado en Francia.  Estos eventos, descritos como \"asambleas populares\" o \"agoras ciudadanas\", se concentrarán en varias ciudades, incluyendo la región de Bretaña.  Si bien algunos bloqueos menores han ocurrido, como el intento de bloqueo de un campus universitario en Lyon, el llamado a no usar tarjetas bancarias no ha tenido un impacto significativo.  Las protestas buscan extenderse en el tiempo, con una participación considerable en días previos, según datos del Ministerio del Interior.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo describe un movimiento de protesta a nivel nacional en Francia, con implicaciones sociales y políticas relevantes a nivel internacional.  Su alcance y potencial impacto justifican una alta puntuación en la categoría 'Internacional'."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Premier déplacement de Lecornu au lendemain de la dégradation de la note souveraine de la France",
+      "link": "https://www.lefigaro.fr/politique/en-direct-dette-sebastien-lecornu-degradation-de-la-note-souveraine-de-la-france-fitch-eric-lombard-20250913",
+      "fecha_obj": "2025-09-13T06:55:02+00:00",
+      "fecha_str": "13-09-2025 06:55 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Fitch degrada la nota soberana de Francia, generando incertidumbre económica.",
+      "resumen": "La agencia Fitch ha rebajado la calificación de la deuda francesa de AA- a A+, una decisión que responde a la falta de un plan presupuestario creíble con apoyo parlamentario.  Las agencias de calificación, como Fitch, Moody's y S&P, evalúan la capacidad de los estados para pagar sus deudas, traduciendo el riesgo en una nota que va de AAA a D.  Estas calificaciones son cruciales para los inversores, que las usan para tomar decisiones de inversión. La degradación de la nota francesa refleja las preocupaciones sobre la situación económica y política del país.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia afecta directamente a la economía francesa, un actor clave en la escena internacional, y genera incertidumbre en los mercados globales.  La decisión de una agencia de calificación crediticia internacional impacta en la percepción del riesgo país y tiene consecuencias a nivel mundial."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "«Une victime mais pas un héros» : Nathalie Loiseau s’oppose à la tenue d’une minute de silence au Parlement européen en mémoire de Charlie Kirk",
+      "link": "https://www.lefigaro.fr/flash-actu/une-victime-mais-pas-un-heros-nathalie-loiseau-s-oppose-a-la-tenue-d-une-minute-de-silence-au-parlement-europeen-en-memoire-de-charlie-kirk-20250912",
+      "fecha_obj": "2025-09-13T06:44:11+00:00",
+      "fecha_str": "13-09-2025 06:44 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Eurodiputada rechaza minuto de silencio por Charlie Kirk, calificándolo de \"supremacista\" y \"prorusso\".",
+      "resumen": "La eurodiputada francesa Nathalie Loiseau se opuso a la propuesta de guardar un minuto de silencio en el Parlamento Europeo en memoria de Charlie Kirk, activista conservador estadounidense asesinado. Loiseau considera que Kirk, a quien describe como supremacista, masculinista, prorusso y conspiranoico, no merece un homenaje institucional.  A pesar de lamentar su muerte, argumenta que su ideología no justifica un reconocimiento en el Parlamento.  Su postura ha generado reacciones, incluyendo amenazas de muerte, que ella misma ha denunciado. El asesinato de Kirk, ocurrido durante una reunión pública, sigue bajo investigación.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El suceso involucra la muerte de una figura políticamente relevante en Estados Unidos, generando debate en el Parlamento Europeo.  La controversia refleja tensiones ideológicas internacionales y la polarización política actual."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Shocked by Epstein’s birthday book? That culture was everywhere before feminism | Rebecca Solnit",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/13/epstein-birthday-book-feminism-culture",
+      "fecha_obj": "2025-09-13T06:00:59+00:00",
+      "fecha_str": "13-09-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La cultura que normalizaba la explotación sexual de menores era ubicua antes del feminismo.",
+      "resumen": "Rebecca Solnit describe la normalización de la explotación sexual de menores en las décadas de 1970 y 1980, ejemplificando con películas, músicos y fotografías que mostraban a niñas menores de edad en situaciones sexualmente sugestivas o explícitas.  Señala la permisividad de la sociedad y la falta de preocupación adulta, contrastándola con la perspectiva actual gracias al feminismo, que ha logrado denunciar y desnormalizar estas prácticas.  El artículo utiliza el álbum de cumpleaños de Jeffrey Epstein como un ejemplo tardío de esa cultura permisiva, destacando la diferencia entre el pasado y el presente gracias a la lucha feminista por el consentimiento y los derechos de las mujeres.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza un tema social relevante, ofreciendo una perspectiva histórica y crítica sobre la normalización de la explotación sexual infantil.  Utiliza ejemplos concretos y argumentos sólidos para defender su tesis, lo que lo hace una pieza de opinión bien estructurada y pertinente para la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Autocrats and tech bros want to live for ever. Here’s how bleak that future could be | Hanna Thomas Uose",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/13/autocrat-tech-live-for-ever-vladimir-putin-xi-jinping",
+      "fecha_obj": "2025-09-13T06:00:57+00:00",
+      "fecha_str": "13-09-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La búsqueda de la inmortalidad por parte de autócratas y magnates tecnológicos plantea un futuro desigual y distópico.",
+      "resumen": "El artículo analiza las implicaciones de la investigación en longevidad, especialmente considerando el acceso desigual a tecnologías que extienden la vida.  La autora, inspirándose en su novela, explora un futuro donde la élite accede a la inmortalidad, creando una sociedad profundamente dividida entre una clase privilegiada inmortal y una clase trabajadora con vidas más cortas.  Se discuten las consecuencias sociales, económicas y políticas, incluyendo la alteración del mercado laboral, las relaciones personales y la estructura familiar. Se critica la concentración de poder en manos de líderes autoritarios que buscan extender sus vidas mientras sus regímenes causan sufrimiento. El texto concluye con la esperanza de que las nuevas generaciones superen a los líderes actuales.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre las consecuencias sociales y éticas de la búsqueda de la inmortalidad, ofreciendo una perspectiva crítica y reflexiva sobre un tema relevante y actual.  Su estructura narrativa y estilo de ensayo lo hacen ideal para la categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "You haven’t felt the power of heavy metal until you’ve seen a room of grown men cry | Mike Watson",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/13/heavy-metal-finland-power-people",
+      "fecha_obj": "2025-09-13T05:00:58+00:00",
+      "fecha_str": "13-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El heavy metal: más que música, una comunidad que encuentra consuelo en la adversidad.",
+      "resumen": "El artículo explora la perdurable popularidad del heavy metal, particularmente en Finlandia, donde su impacto trasciende lo musical, ofreciendo una vía para la expresión emocional colectiva.  Se destaca la capacidad del género para crear comunidad entre los marginados, ofreciendo un sentido de pertenencia.  Ejemplos como la emotiva reacción ante la actuación de Dennis Stratton y la música de bandas como Graphic Nature y Sgt. Slime ilustran su poder catártico y su mensaje de honestidad frente a las dificultades de la vida.  La longevidad del metal se atribuye a su capacidad de confrontar la oscuridad con humor, resonando con la experiencia humana a lo largo de las generaciones.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la popularidad y el significado cultural del heavy metal, apoyada en anécdotas personales y ejemplos concretos.  Su estructura y estilo se ajustan a la categoría de 'Opinión Ensayo', aunque la inclusión de ejemplos podría fortalecer la argumentación."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Maladie d'Alzheimer : un test sanguin facilite le diagnostic",
+      "link": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/un-test-sanguin-facilite-le-diagnostic_187933?xtor=RSS-16",
+      "fecha_obj": "2025-09-13T04:00:00+00:00",
+      "fecha_str": "13-09-2025 04:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Un nuevo test sanguíneo revoluciona el diagnóstico de Alzheimer, ofreciendo una alternativa menos invasiva a la punción lumbar.",
+      "resumen": "Un nuevo test sanguíneo, autorizado por la FDA, detecta los biomarcadores de Alzheimer (proteínas beta-amiloide y tau) en sangre, facilitando el diagnóstico.  Aunque no reemplaza completamente otros exámenes y presenta una sensibilidad y especificidad del 90%,  significativamente reduce la necesidad de punciones lumbares.  Su uso principal es en pacientes con síntomas y mayores de 65 años, como ayuda al diagnóstico, no para detección masiva.  La llegada de este test, junto con nuevos tratamientos, marca un avance significativo en la lucha contra la enfermedad, acelerando la atención y facilitando la investigación.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo describe un avance científico-tecnológico en el campo de la medicina, específicamente en el diagnóstico de una enfermedad neurodegenerativa. La creación de un test sanguíneo representa una innovación tecnológica con implicaciones médicas significativas."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Pour Sébastien Lecornu, un premier déplacement consacré à la santé",
+      "link": "https://www.sciencesetavenir.fr/sante/pour-sebastien-lecornu-un-premier-deplacement-consacre-a-la-sante_188173?xtor=RSS-16",
+      "fecha_obj": "2025-09-13T01:50:07+00:00",
+      "fecha_str": "13-09-2025 01:50 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Lecornu, nuevo primer ministro, prioriza la salud y busca consensos para gobernar sin mayoría.",
+      "resumen": "Sébastien Lecornu, nuevo primer ministro francés, realiza su primera visita a Mâcon para abordar la salud y el acceso a la atención médica.  Su nombramiento coincide con protestas sociales.  Lecornu busca consensos con partidos políticos y sindicatos, especialmente sobre el presupuesto, para gobernar sin mayoría absoluta, explorando opciones como una contribución de los más altos ingresos.  Prioriza la búsqueda de acuerdos, dejando de lado medidas controvertidas de sus predecesores como la reforma de las pensiones y la eliminación de festivos.  Su método se basa en el diálogo y la consulta antes de una declaración de política general.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo se centra en la política y la situación socioeconómica de Francia. No hay elementos relevantes relacionados con ciencia o tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Scientists: It’s do or die time for America’s primacy exploring the Solar System",
+      "link": "https://arstechnica.com/space/2025/09/scientists-its-do-or-die-time-for-americas-primacy-exploring-the-solar-system/",
+      "fecha_obj": "2025-09-12T23:48:17+00:00",
+      "fecha_str": "12-09-2025 23:48 UTC",
+      "source_name": "Ars Technica"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Inminente cierre de 19 misiones espaciales de la NASA por recortes presupuestarios.",
+      "resumen": "La NASA enfrenta la posible cancelación de 19 misiones espaciales activas debido a los recortes presupuestarios propuestos para el año fiscal 2026.  El presupuesto actual expira a finales de septiembre, y aunque el Congreso podría aprobar una resolución continua, la solicitud de presupuesto de la Casa Blanca implica una reducción del 25% en el presupuesto total de la NASA y casi un 50% en la dirección de misiones científicas.  Esto afectaría a misiones cruciales como los observatorios de carbono y Chandra, y satélites en Marte, comprometiendo décadas de investigación científica invaluable.  A pesar de que el Congreso ha rechazado previamente recortes similares, la incertidumbre persiste, generando preocupación entre la comunidad científica.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata directamente sobre recortes presupuestarios a misiones espaciales de la NASA, un tema altamente relevante para las categorías de ciencia y tecnología.  La información afecta a la exploración espacial, el cambio climático y la investigación científica, todos temas centrales en estos campos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "‘It isn’t just a teen romance’: why millennial women love The Summer I Turned Pretty",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/13/isnt-just-teen-romance-why-millennial-women-love-the-summer-i-turned-pretty",
+      "fecha_obj": "2025-09-13T06:00:57+00:00",
+      "fecha_str": "13-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Millennials reviven la nostalgia adolescente con 'The Summer I Turned Pretty', un fenómeno global que trasciende la edad.",
+      "resumen": "La serie 'The Summer I Turned Pretty' ha cautivado a una audiencia masiva de mujeres millennials, superando su expectativa inicial como programa para adolescentes.  Su éxito radica en la nostalgia que evoca a las historias románticas de su juventud, los personajes masculinos emocionalmente disponibles, y la banda sonora con canciones de Taylor Swift y otras artistas.  La serie explora temas universales como el primer amor, el desamor y la pérdida, ofreciendo una experiencia de 'repetición' emocional segura para las mujeres adultas.  El fenómeno se ha extendido a las redes sociales, con debates acalorados sobre los personajes masculinos y recreaciones de la serie.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo analiza un fenómeno cultural de masas relacionado con una serie de televisión, su impacto en la audiencia y su conexión con la nostalgia y la cultura popular, aspectos relevantes para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Pomp and Circumstance galore as the Proms conclude in bombastic style",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/13/tv-tonight-pomp-and-circumstance-galore-as-the-proms-conclude-in-bombastic-style",
+      "fecha_obj": "2025-09-13T05:20:55+00:00",
+      "fecha_str": "13-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La programación televisiva ofrece desde la última noche de los Proms hasta emocionantes eventos deportivos.",
+      "resumen": "La guía de televisión incluye la última noche de los Proms en BBC Two, con Elim Chan dirigiendo piezas clásicas.  ITV1 presenta 'Win Win' y 'You Bet!', mientras que Channel 4 ofrece 'Britain’s Railway Empire in Colour'. U&Drama continúa con 'El Conde de Montecristo', e ITV1 emite 'One Night'. Film4 presenta 'Hue and Cry', una comedia de Ealing. La programación deportiva incluye los Campeonatos Mundiales de Atletismo, la final del T20 Blast Cricket, partidos de la Premier League y la Copa Mundial Femenina de Rugby.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "La programación incluye la última noche de los Proms, un evento cultural de gran relevancia, aunque el resto de la programación es más generalista, incluyendo deportes y otros programas de entretenimiento."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Passports, Prints, and Protest at the NY Art Book Fair",
+      "link": "https://hyperallergic.com/1041399/passports-prints-and-protest-at-the-2025-ny-art-book-fair/",
+      "fecha_obj": "2025-09-12T21:56:47+00:00",
+      "fecha_str": "12-09-2025 21:56 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La NY Art Book Fair celebra la creación colectiva y la resistencia a través de publicaciones artísticas que desafían fronteras.",
+      "resumen": "El artículo describe la NY Art Book Fair, donde se exhibieron obras de editoriales independientes de todo el mundo.  Una instalación interactiva, el Consulado 4N, satirizaba el proceso de solicitud de visas. Se destacaron editoriales como simple project NY (con perspectiva diaspórica), can can press (con enfoque en la colaboración global), Mizna (dedicada a artistas árabes y del suroeste asiático y del norte de África), y Relámpago (con obras anticoloniales). El evento también presentó el libro \"Belén, María Belén\", que documenta la experiencia de una activista trans argentina refugiada en EEUU. La feria resaltó la importancia de la creación colectiva y la resistencia a través de la publicación independiente.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra completamente en la NY Art Book Fair, un evento cultural clave en el mundo del arte y la edición independiente. Describe las obras expuestas, los artistas involucrados y el contexto político y social de las mismas, haciendo una evaluación completa del evento desde la perspectiva del arte y la cultura."
+    },
+    "categoria": "cultura_arte"
   }
 ]
