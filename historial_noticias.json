@@ -5518,5 +5518,197 @@
       "relevancia_justificacion": "El artículo se centra completamente en la NY Art Book Fair, un evento cultural clave en el mundo del arte y la edición independiente. Describe las obras expuestas, los artistas involucrados y el contexto político y social de las mismas, haciendo una evaluación completa del evento desde la perspectiva del arte y la cultura."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Boxe : Terence Crawford terrasse Canelo Alvarez et devient le premier champion incontesté dans trois catégories",
+      "link": "https://www.lefigaro.fr/sports/boxe/boxe-terence-crawford-terrasse-canelo-alvarez-et-devient-le-premier-champion-inconteste-dans-trois-categories-20250914",
+      "fecha_obj": "2025-09-14T07:07:16+00:00",
+      "fecha_str": "14-09-2025 07:07 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Crawford derrota a Canelo y se convierte en campeón indiscutible en tres categorías.",
+      "resumen": "Terence Crawford venció por decisión unánime a Canelo Álvarez en Las Vegas, convirtiéndose en el primer campeón indiscutible en tres categorías de peso desde la década de 1980.  Crawford, quien subió dos categorías para el combate, dominó con su velocidad y precisión, mientras que Álvarez sufrió su tercera derrota profesional.  En otra pelea, el francés Christian Mbilli empató con Lester Martinez, perdiendo la oportunidad de convertirse en el retador principal de Crawford. El combate Crawford-Álvarez, financiado por un promotor saudí y transmitido por Netflix, fue un evento de alto perfil que consolidó a Crawford como una leyenda del boxeo.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El combate Crawford vs. Álvarez fue un evento deportivo internacional de gran magnitud, con repercusión mundial en medios deportivos y de entretenimiento. La participación de boxeadores de diferentes nacionalidades y la transmisión a través de Netflix lo convierten en un suceso relevante a nivel internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Budget : Sébastien Lecornu renonce à la suppression de deux jours fériés voulue par François Bayrou",
+      "link": "https://www.lefigaro.fr/conjoncture/budget-sebastien-lecornu-renonce-a-la-suppression-de-deux-jours-feries-voulue-par-francois-bayrou-20250913",
+      "fecha_obj": "2025-09-14T07:05:47+00:00",
+      "fecha_str": "14-09-2025 07:05 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Lecornu abandona la polémica eliminación de festivos; busca diálogo con la izquierda para aprobar el presupuesto.",
+      "resumen": "El nuevo primer ministro francés, Sébastien Lecornu, ha renunciado a la propuesta de eliminar dos días festivos para ahorrar en el presupuesto 2026, tras la oposición pública.  Busca ahora el apoyo de la izquierda, priorizando el diálogo con el PS, los ecologistas y el PCF, mientras descarta un acuerdo con la extrema derecha.  Se muestra abierto a discutir medidas de justicia fiscal, pero con cautela ante posibles aumentos de impuestos a empresas.  Lecornu también planea una reforma descentralizadora y evita comprometerse con el uso del artículo 49.3 para aprobar el presupuesto.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "La noticia afecta la política interna francesa, pero las decisiones presupuestarias y las negociaciones políticas a nivel nacional tienen implicaciones internacionales, especialmente en la Unión Europea y en las relaciones económicas globales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Népal: la nouvelle première ministre promet de suivre les revendications des manifestants exigeant la «fin de la corruption»",
+      "link": "https://www.lefigaro.fr/flash-actu/nepal-la-nouvelle-premiere-ministre-promet-de-suivre-les-revendications-des-manifestants-exigeant-la-fin-de-la-corruption-20250914",
+      "fecha_obj": "2025-09-14T07:03:41+00:00",
+      "fecha_str": "14-09-2025 07:03 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Nueva premier nepalí promete combatir la corrupción tras protestas mortales.",
+      "resumen": "Sushila Karki, nueva primera ministra de Nepal, asumió el cargo tras las protestas que llevaron a la renuncia de su predecesor.  Karki, ex presidenta de la Corte Suprema, prometió atender las demandas de los manifestantes, centradas en acabar con la corrupción, mejorar la gobernanza y lograr la igualdad económica.  Reconoció la importancia de conectar con la Generación Z y sus reclamos.  Su gobierno interino tendrá una duración máxima de seis meses, hasta las elecciones previstas para marzo de 2026.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El nombramiento de una nueva primera ministra tras protestas y la promesa de combatir la corrupción son sucesos relevantes a nivel internacional.  Afecta la estabilidad política de Nepal y refleja problemáticas globales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "They Came for the Oil. They Took Everything.",
+      "link": "https://www.nytimes.com/2025/09/14/opinion/mexico-oil-pollution-fracking.html",
+      "fecha_obj": "2025-09-14T07:04:31+00:00",
+      "fecha_str": "14-09-2025 07:04 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La extracción petrolera en Veracruz: un infierno que tiñe el cielo de rojo, destruyendo más que la naturaleza.",
+      "resumen": "El artículo describe la experiencia de un nativo de Escolín, Veracruz, una comunidad indígena cercana a Poza Rica, una ciudad petrolera.  El autor evoca sus recuerdos infantiles de un manantial cercano, donde la naturaleza abundaba, contrastando con la realidad actual marcada por la extracción petrolera. La actividad petrolera, iniciada hace más de un siglo, ha transformado el paisaje y el cielo nocturno, teñido de rojo por las llamaradas de gas.  El autor reflexiona sobre el impacto de esta industria en su comunidad y el posible impacto en sus antepasados, cuestionando si la extracción petrolera representa un 'infierno' que emerge de la tierra.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El texto presenta una perspectiva personal y reflexiva sobre el impacto ambiental y social de la industria petrolera, lo que lo hace adecuado para un ensayo de opinión.  La anécdota personal sirve como punto de partida para una crítica implícita a la actividad extractiva y sus consecuencias.  La puntuación no es 10 porque el artículo no desarrolla argumentos explícitos, sino que se basa en la evocación y la implicación."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Tyler Robinson and Our Poisonous Internet",
+      "link": "https://www.nytimes.com/2025/09/14/opinion/charlie-kirk-shooting-internet.html",
+      "fecha_obj": "2025-09-14T06:12:52+00:00",
+      "fecha_str": "14-09-2025 06:12 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El asesinato de Charlie Kirk a manos de Tyler Robinson revela la toxicidad del internet y la complejidad de la radicalización online.",
+      "resumen": "El gobernador de Utah, Spencer Cox, anunció la detención de Tyler Robinson, de 22 años, por el asesinato de Charlie Kirk.  Las frases grabadas en las balas, desde referencias crípticas hasta mensajes aparentemente contradictorios, sugieren una motivación compleja. Robinson, descrito como \"lleno de odio\" por un familiar, era un usuario activo de internet.  El artículo destaca la dificultad de encasillar a Robinson en una ideología específica, apuntando a una posible mezcla de creencias y a la naturaleza irónica y política del acto.  La pieza cuestiona el impacto de las comunidades políticas online en la radicalización y la violencia.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo ofrece una excelente base para un ensayo de opinión que explore la influencia de internet en la radicalización política, la complejidad de la motivación en actos violentos y la dificultad de categorizar ideologías en línea.  Su análisis invita a la reflexión y al debate."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Art lovers rejoice: the National Gallery can finally show us when painting really gets exciting | Rhiannon Lucy Cosslett",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/14/art-national-gallery-1900-cut-off-date",
+      "fecha_obj": "2025-09-14T06:00:26+00:00",
+      "fecha_str": "14-09-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La National Gallery amplía su colección al siglo XX, incluyendo artistas mujeres y de color, generando debate con la Tate.",
+      "resumen": "La National Gallery en Londres elimina su fecha límite de 1900 para su colección de pintura, abriendo la puerta a obras del siglo XX.  Esta decisión, que permitirá mostrar la evolución de la pintura, incluyendo el surgimiento del arte abstracto y la contribución de artistas mujeres, genera debate con la Tate, otra institución importante. El artículo celebra la inclusión de artistas como Paula Modersohn-Becker y la posibilidad de mostrar una perspectiva más diversa e inclusiva de la historia del arte, corrigiendo el desequilibrio actual en la representación de mujeres y artistas de color.  A pesar del potencial conflicto con la Tate, la autora considera que la colaboración entre ambas instituciones es posible y necesaria para una representación completa de la historia del arte.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la decisión de la National Gallery, analizando sus implicaciones y el debate generado.  Su estructura, estilo y profundidad lo ubican claramente dentro de la categoría de ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Dyson Promo Codes: 20% Off in September 2025",
+      "link": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+      "fecha_obj": "2025-09-14T05:00:00+00:00",
+      "fecha_str": "14-09-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta un 30% en aspiradoras, secadores y herramientas Dyson con códigos promocionales y ofertas especiales.",
+      "resumen": "El artículo detalla diversas ofertas y promociones de productos Dyson, incluyendo descuentos de hasta $260 en aspiradoras inalámbricas como la V15 Detect y la V8 Absolute, con regalos adicionales.  Se ofrecen códigos promocionales para un 20% de descuento en productos seleccionados al registrarse en el programa Dyson Owners Rewards.  También se destacan ofertas en productos reacondicionados con hasta un 30% de descuento y promociones en herramientas para el cabello como la Dyson Airwrap y la Corrale. El artículo incluye reseñas de varios productos Dyson, destacando sus características y rendimiento.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo se centra en productos tecnológicos de una marca reconocida, Dyson, analizando sus características, precios y ofertas. La información sobre tecnología, descuentos y reseñas de productos es relevante para la categoría Ciencia y Tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Cléopâtre, la reine de tous les fantasmes",
+      "link": "https://www.sciencesetavenir.fr/archeo-paleo/archeologie/cleopatre-la-reine-de-tous-les-fantasmes_187940?xtor=RSS-4",
+      "fecha_obj": "2025-09-14T04:00:00+00:00",
+      "fecha_str": "14-09-2025 04:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El misterio de Cleopatra: ¿Reina seductora o hábil estratega? La historia, la arqueología y el mito se entrelazan.",
+      "resumen": "El artículo explora la figura de Cleopatra, desmintiendo la imagen construida por la propaganda de Augusto. Si bien la escasez de evidencia arqueológica dificulta conocer su vida, las fuentes antiguas la presentan como una mujer fatal, manipulando a César y Antonio.  Sin embargo, estudios recientes basados en fuentes orientales la muestran como una gobernante eficiente y querida por su pueblo. Su imagen ha evolucionado a través de la historia, desde las caricaturas romanas hasta la representación renacentista de una reina trágica y poderosa. La búsqueda de su tumba continúa, alimentando el mito.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "El artículo se centra en la historia y la arqueología, con una mención tangencial a la búsqueda arqueológica moderna.  La tecnología se menciona indirectamente en relación con las excavaciones, pero no es el tema principal."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "How a 2020 Rolex Collection Changed the Face of Watch Design",
+      "link": "https://www.wired.com/story/how-a-2020-rolex-collection-changed-the-face-of-watch-design/",
+      "fecha_obj": "2025-09-13T16:27:39+00:00",
+      "fecha_str": "13-09-2025 16:27 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La colección Oyster Perpetual 2020 de Rolex revolucionó el diseño de relojes con sus vibrantes esferas de colores.",
+      "resumen": "El artículo destaca la influencia de la colección Oyster Perpetual 2020 de Rolex en la industria relojera.  A diferencia de sus lanzamientos usuales, Rolex presentó una gama completa de relojes con esferas de colores brillantes (coral, verde, turquesa, rosa y amarillo), una innovación que se considera inesperada para la marca.  Esta colección, inspirada en los modelos Day-Date \"Stella\", inspiró a otras marcas como Zenith, Oris y Omega a crear sus propias líneas de relojes con esferas de colores vibrantes.  Este cambio, inicialmente en un modelo menos conocido de Rolex, se convirtió en una tendencia significativa en la industria, demostrando la capacidad de la marca para influir en el diseño relojero.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien el artículo trata sobre diseño e innovación en la industria relojera, su enfoque principal es la moda y el diseño, no la ciencia o la tecnología. La innovación en materiales o procesos de fabricación no es el tema central."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Andrew Lincoln’s dark new drama will suck you in instantly",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/14/tv-tonight-andrew-lincolns-dark-new-drama-will-suck-you-in-instantly",
+      "fecha_obj": "2025-09-14T05:20:24+00:00",
+      "fecha_str": "14-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Domingo de TV: drama, rugby, críquet y una mirada a la cultura con Tár.",
+      "resumen": "La programación televisiva del domingo incluye el drama 'Coldwater' con Andrew Lincoln,  'Educating Yorkshire', que sigue a estudiantes con desafíos, y 'Freddie Flintoff’s Field of Dreams'. También se destacan 'Rob and Rylan’s Passage to India', la serie histórica 'King & Conqueror', el thriller finlandés 'Isolated', y la película 'Tár' con Cate Blanchett.  La programación deportiva incluye la Copa Mundial Femenina de Rugby y partidos de críquet y fútbol de la Premier League. La variedad de programas abarca desde la comedia oscura hasta dramas históricos y documentales.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "La programación incluye la película 'Tár', una exploración de la alta creatividad,  lo que la hace relevante para la categoría 'Cultura Arte'. Sin embargo, la mayor parte del contenido se centra en otros géneros, reduciendo la puntuación."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Artistas bajo el mismo cielo: Adrián Villar Rojas y Silvia Rivas brillan en la Trienal de Aichi",
+      "link": "https://www.clarin.com/cultura/artistas-mismo-cielo-adrian-villar-rojas-silvia-rivas-brillan-trienal-aichi_0_tonsITFN5C.html",
+      "fecha_obj": "2025-09-13T16:38:18+00:00",
+      "fecha_str": "13-09-2025 16:38 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La Trienal de Aichi 2025: un diálogo global sobre el pasado, presente y futuro de la humanidad a través del arte.",
+      "resumen": "La 6° Trienal de Aichi presenta obras de 61 artistas de 23 países, reflexionando sobre la relación humano-entorno.  Adrián Villar Rojas destaca con su instalación en una escuela abandonada, \"Terrestrial Poems\", explorando la historia de la humanidad. Silvia Rivas presenta \"Zumbido Dynamics\", una videoinstalación sobre el tiempo y la percepción. Otras obras incluyen instalaciones monumentales, esculturas, pinturas y colaboraciones comunitarias, abordando temas como el colonialismo, la memoria histórica y la relación con la naturaleza. La Trienal se extiende por diferentes locaciones, incluyendo el Aichi Art Center y Seto City, mostrando una diversidad de estilos y perspectivas artísticas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra completamente en la Trienal de Aichi, un evento de arte contemporáneo de gran relevancia internacional. Describe diversas obras de arte, artistas y temas relevantes para la categoría 'Cultura Arte', ofreciendo una cobertura completa del evento."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Cuatro podcasts culturales: la nueva voz que transforma la manera de contar la cultura",
+      "link": "https://www.clarin.com/cultura/podcasts-culturales-nueva-voz-transforma-manera-contar-cultura_0_CwDkUsgx8q.html",
+      "fecha_obj": "2025-09-13T13:00:33+00:00",
+      "fecha_str": "13-09-2025 13:00 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Podcasts culturales: nuevas voces que transforman la manera de contar la cultura, generando comunidad e identidad.",
+      "resumen": "El artículo explora el auge de los podcasts culturales en Argentina, destacando cuatro ejemplos: El Club del Podcast (escucha colectiva), Biografías Lectoras (conversaciones íntimas con escritores), La Escena (análisis de la industria cultural) y Tema Libre (charlas informales entre autores).  Estos podcasts ofrecen un análisis profundo y una construcción de comunidad, contrastando con la inmediatez de otros formatos.  Se analiza su impacto en la cultura, su financiamiento y el rol del Estado en su sostenibilidad, mostrando una nueva forma de consumir y crear contenido cultural, especialmente entre jóvenes.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra completamente en el análisis de podcasts culturales, su impacto, creación y financiación.  Es altamente relevante para la categoría 'Cultura Arte' por su enfoque en la producción y consumo de contenido cultural a través de un medio emergente."
+    },
+    "categoria": "cultura_arte"
   }
 ]
