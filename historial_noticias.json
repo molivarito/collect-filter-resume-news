@@ -5710,5 +5710,149 @@
       "relevancia_justificacion": "El artículo se centra completamente en el análisis de podcasts culturales, su impacto, creación y financiación.  Es altamente relevante para la categoría 'Cultura Arte' por su enfoque en la producción y consumo de contenido cultural a través de un medio emergente."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Australie : un rapport prédit des effets «en cascade» du changement climatique",
+      "link": "https://www.lefigaro.fr/flash-actu/australie-un-rapport-predit-des-effets-en-cascade-du-changement-climatique-20250915",
+      "fecha_obj": "2025-09-15T07:05:58+00:00",
+      "fecha_str": "15-09-2025 07:05 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Australia: informe revela devastadores efectos en cascada del cambio climático, con pérdidas económicas millonarias.",
+      "resumen": "Un nuevo informe australiano advierte sobre los devastadores efectos \"en cascada\" del cambio climático en el país, incluyendo la subida del nivel del mar, olas de calor extremas y pérdidas económicas de 611 mil millones de dólares australianos para 2050.  Más de 1,5 millones de personas viven en zonas de riesgo por la subida del mar. El informe, publicado antes de que el gobierno revele sus nuevos objetivos de reducción de emisiones, ha generado preocupación, especialmente considerando la continua aprobación de proyectos en el sector de combustibles fósiles.  A pesar de los esfuerzos del gobierno por reducir emisiones y desarrollar energías renovables, la transición a un futuro más verde se presenta como un desafío complejo.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre un informe de impacto global sobre el cambio climático en un país desarrollado, con consecuencias económicas y sociales significativas que trascienden las fronteras australianas y son relevantes para la comunidad internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Le festival de Toronto sacre Hamnet, une tragédie librement inspirée de la vie de Shakespeare",
+      "link": "https://www.lefigaro.fr/cinema/le-festival-de-toronto-sacre-hamnet-une-tragedie-librement-inspiree-de-la-vie-de-shakespeare-20250915",
+      "fecha_obj": "2025-09-15T07:05:43+00:00",
+      "fecha_str": "15-09-2025 07:05 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Hamnet, la película de Chloé Zhao sobre el duelo de Shakespeare, triunfa en Toronto y se perfila como favorita al Oscar.",
+      "resumen": "El Festival de Toronto otorgó su premio principal a Hamnet, película de Chloé Zhao que explora el duelo de William Shakespeare por la muerte de su hijo.  La cinta, aclamada por la crítica, se posiciona como favorita para los Oscars 2026.  Zhao, ganadora de tres Oscars con Nomadland, adapta la novela de Maggie O'Farrell.  Otros premios fueron para Guillermo del Toro (Frankenstein) y un documental sobre el 7 de octubre en Israel. El premio del público en Toronto suele ser un buen presagio para las nominaciones a los Oscars y otros premios importantes, como lo demuestra el caso de Slumdog Millionaire.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia trata sobre un evento cinematográfico internacional (Festival de Toronto), una película con proyección internacional (candidata a los Oscar) y directores de renombre internacional (Zhao, Del Toro).  Su impacto trasciende fronteras."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Bretagne : mise en examen d’un homme pour le meurtre de son ex-conjointe",
+      "link": "https://www.lefigaro.fr/faits-divers/bretagne-mise-en-examen-d-un-homme-pour-le-meurtre-de-son-ex-conjointe-20250915",
+      "fecha_obj": "2025-09-15T07:05:39+00:00",
+      "fecha_str": "15-09-2025 07:05 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Hombre en Francia es procesado por el asesinato de su expareja tras atropellarla con su camioneta.",
+      "resumen": "Un hombre de 36 años en Goven, Francia, ha sido imputado por el asesinato de su exmujer de 33 años.  El incidente ocurrió cuando el hombre, bajo los efectos del alcohol, atropelló a la víctima con su camioneta.  Según la fiscalía, una discusión precedió al suceso, y la mujer intentó subir al vehículo cuando el hombre retrocedió, impactándola.  Aunque el acusado admite la maniobra, niega la intención de matar a su expareja, alegando que no la vio.  La investigación determinará si el hecho fue intencional, accidental o involuntario. El hombre, con antecedentes de conducir ebrio, permanece detenido.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien es un suceso local, un crimen violento con implicaciones legales internacionales y que involucra a ciudadanos franceses tiene relevancia para la categoría internacional.  La noticia podría ser de interés para medios internacionales por el tema de violencia doméstica y justicia."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Trump’s retreat from Nato was priced in. But his humiliation of Qatar and India spells total chaos | Nesrine Malik",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/15/trump-qatar-india-israel-middle-east-saudi-uae-modi-nato",
+      "fecha_obj": "2025-09-15T05:00:55+00:00",
+      "fecha_str": "15-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El impredecible comportamiento de Trump genera una realineación global, dejando a sus aliados buscando nuevas alianzas.",
+      "resumen": "El artículo analiza la reacción internacional a las acciones erráticas de la administración Trump, especialmente su ruptura con aliados como Qatar e India.  La visita de líderes a Doha tras un ataque israelí a la capital catarí, y la cumbre entre China, Rusia e India tras las acciones económicas de Trump contra India, ilustran la formación de nuevas coaliciones.  Se argumenta que la falta de fiabilidad de Trump y la agresividad de Israel han roto el statu quo, obligando a los países a buscar alternativas para proteger su soberanía económica y política.  La creación de nuevos bloques de poder, como la iniciativa de gobernanza global de China, se presenta como una respuesta a la inestabilidad generada por Estados Unidos. El autor concluye que la era de la dependencia incondicional de Estados Unidos ha terminado.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta un análisis de opinión sobre las consecuencias geopolíticas de las acciones de Trump, expresando una perspectiva crítica y ofreciendo una interpretación de los eventos.  Su estructura argumentativa y su enfoque analítico lo hacen un claro ejemplo de ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "How Trump Can Prevent a War Over Taiwan",
+      "link": "https://www.nytimes.com/2025/09/15/opinion/taiwan-china-war-trump.html",
+      "fecha_obj": "2025-09-15T05:00:05+00:00",
+      "fecha_str": "15-09-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump podría prevenir una guerra por Taiwán reduciendo el rol de la isla en la relación EEUU-China.",
+      "resumen": "El artículo propone que Trump prevenga una guerra con China por Taiwán mediante una estrategia de distensión.  Esto implica reafirmar que EEUU no apoya la independencia taiwanesa, restringir el contacto diplomático con Taiwán, y reducir la presencia militar estadounidense en la región.  A cambio, se busca que China declare que no tiene un plazo para la unificación con Taiwán ni intención de usar la fuerza.  Si bien esto implica riesgos políticos para Trump por la creciente simpatía hacia Taiwán en Washington, el autor argumenta que la prevención de una guerra con China, un poder militar formidable, es prioritaria, incluso por encima del apoyo a Taiwán.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "Es un ensayo de opinión que presenta una propuesta política concreta con argumentos a favor y en contra, analizando las implicaciones geopolíticas y los riesgos políticos involucrados.  La estructura y el desarrollo del argumento son propios de un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "This dating show for farmers bombed in the UK, but I can see why in France it’s a runaway hit | Anne-Laure Pineau",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/15/france-reality-tv-show-dating-family-rural-urban-farmer-wants-a-wife",
+      "fecha_obj": "2025-09-15T04:00:52+00:00",
+      "fecha_str": "15-09-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El éxito de 'L’amour est dans le Pré' en Francia revela una conexión rural-urbana inesperada.",
+      "resumen": "El programa de telerrealidad francés 'L’amour est dans le Pré', un éxito rotundo con 3.6 millones de espectadores, contrasta con su fracaso en Reino Unido.  El artículo analiza las razones de su popularidad en Francia, destacando cómo refleja la sociedad francesa y sus cambios. Si bien inicialmente reforzaba estereotipos sobre la gente rural, el programa ha evolucionado mostrando la diversidad del mundo rural francés.  Su éxito se relaciona con la creciente conexión entre el campo y la ciudad, reflejada en movimientos sociales recientes.  El programa se ha convertido en un espacio de representación para la población rural, desafiando prejuicios y ofreciendo una visión más compleja de la vida en el campo.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre el éxito de un programa de televisión, analizando sus implicaciones sociales y culturales en el contexto francés.  La autora comparte sus propias reflexiones y observaciones, ofreciendo una perspectiva crítica y reflexiva sobre la representación de la población rural en los medios."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "‘Did he really play on Petula Clark’s Downtown?’ Stewart Lee on his guitar hero Derek Bailey",
+      "link": "https://www.theguardian.com/music/2025/sep/15/petula-clarks-downtown-stewart-lee-improv-guitar-hero-derek-bailey",
+      "fecha_obj": "2025-09-15T07:00:56+00:00",
+      "fecha_str": "15-09-2025 07:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Stewart Lee recuerda a su héroe musical, Derek Bailey, un guitarrista improvisacional único.",
+      "resumen": "El comediante Stewart Lee evoca su amistad con el guitarrista experimental Derek Bailey en un programa de radio. Describe la música innovadora de Bailey, su encuentro en su casa, y su peculiar personalidad.  Lee destaca la influencia de Bailey en su vida y carrera, incluyendo su libro sobre improvisación. El artículo también menciona una anécdota divertida sobre la reacción del presentador del programa, Matthew Parris, ante la música de Bailey, y la celebración que Lee organiza en honor al guitarrista.  Lee describe la música de Bailey como única y desafiante, pero profundamente conmovedora.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre la vida y obra de un músico innovador, su influencia en otros artistas y la escena musical experimental. Es una pieza relevante para la categoría 'Cultura Arte', explorando aspectos biográficos, musicales y culturales."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "No other show gets as up-close-and-personal as this: best podcasts of the week",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/15/no-other-show-gets-as-up-close-and-personal-as-this-best-podcasts-of-the-week",
+      "fecha_obj": "2025-09-15T06:00:55+00:00",
+      "fecha_str": "15-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Los mejores podcasts de la semana: historias conmovedoras, escándalos del pasado y política progresista.",
+      "resumen": "El artículo presenta una selección de podcasts destacados.  'Heavyweight' regresa con historias íntimas sobre arrepentimientos; 'Model Wars' narra el ascenso y caída de una agencia de modelos en los 80s; 'Helen's Log' ofrece un humor caótico y personal; 'Stop Rewind' cuenta la historia de un niño indio adoptado; y 'Bold Politics' presenta conversaciones sobre ideas políticas progresistas con el líder del partido verde Zack Polanski.  Cada podcast ofrece un estilo y temática diferentes, desde historias personales hasta análisis políticos.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien algunos podcasts podrían tener elementos culturales (como 'Model Wars' que refleja la cultura de los 80s), la mayoría se centra en temas personales o políticos, no directamente en arte o cultura en un sentido tradicional.  La relevancia es baja porque el enfoque principal no es el arte."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: disturbing revelations in jumpy BBC thriller The Guest",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/15/tv-tonight-bbc-the-guest-task-sky-atlantic",
+      "fecha_obj": "2025-09-15T05:20:53+00:00",
+      "fecha_str": "15-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: thrillers, dramas criminales y comedias, ¡para todos los gustos!",
+      "resumen": "La programación televisiva de esta noche ofrece una variedad de opciones.  'The Guest' (BBC One) continúa con su thriller psicológico, presentando nuevas revelaciones.  Jamie Oliver (Channel 4) comparte recetas saludables.  'Task' (Sky Atlantic) sigue al agente del FBI Tom Brandis en su investigación. 'Kevin Costner’s The West' (Sky History) ofrece una nueva perspectiva de la historia de Estados Unidos.  'Elsbeth' (Sky Witness) presenta a la protagonista en una nueva investigación. Finalmente, 'Trying' (BBC One)  muestra las dificultades de una pareja que intenta tener un bebé.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien la programación incluye algunos programas que podrían tener un ligero vínculo con la cultura (como el documental histórico o la comedia), la mayoría son programas de entretenimiento general, sin un enfoque principal en el arte o la cultura."
+    },
+    "categoria": "cultura_arte"
   }
 ]
