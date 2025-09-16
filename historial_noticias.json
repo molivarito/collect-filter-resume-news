@@ -5854,5 +5854,197 @@
       "relevancia_justificacion": "Si bien la programación incluye algunos programas que podrían tener un ligero vínculo con la cultura (como el documental histórico o la comedia), la mayoría son programas de entretenimiento general, sin un enfoque principal en el arte o la cultura."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Guerre à Gaza : de forts bombardements dans la nuit, une commission de l’ONU accuse Israël de «génocide»",
+      "link": "https://www.lefigaro.fr/international/en-direct-guerre-a-gaza-de-forts-bombardements-israeliens-dans-la-nuit-la-defense-civile-evoque-un-massacre-majeur-20250916",
+      "fecha_obj": "2025-09-16T07:10:03+00:00",
+      "fecha_str": "16-09-2025 07:10 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Walzer acusa a Israel de cometer una guerra criminal en Gaza, calificando la continuación del conflicto como una falta moral.",
+      "resumen": "Michael Walzer, reconocido filósofo de la ética de la guerra, critica duramente la prolongación del conflicto en Gaza. Si bien inicialmente consideró justificada la respuesta israelí al ataque del 7 de octubre, ahora la califica como una guerra criminal.  Walzer señala que la reanudación de las hostilidades, la ruptura del alto el fuego por parte del gobierno de Netanyahu y el bloqueo de suministros cambiaron la naturaleza del conflicto.  Para él, la continuación de la guerra constituye una falta moral y la considera una acción cometida por un gobierno criminal.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre un conflicto bélico internacional de gran magnitud, con declaraciones de una figura relevante en el ámbito de la ética de la guerra, lo que le otorga una alta relevancia en la categoría 'Internacional'."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Locations Airbnb : sur la Côte d’Azur, des centaines de boîtes à clés déjà retirées",
+      "link": "https://www.lefigaro.fr/nice/locations-airbnb-sur-la-cote-d-azur-des-centaines-de-boites-a-cles-deja-retirees-20250916",
+      "fecha_obj": "2025-09-16T07:01:00+00:00",
+      "fecha_str": "16-09-2025 07:01 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Cannes y Niza retiran cientos de cajas de llaves Airbnb para regular las alquileres turísticos.",
+      "resumen": "Las ciudades francesas de Niza y Cannes están tomando medidas para regular el creciente número de alquileres turísticos a través de plataformas como Airbnb.  Se han retirado cientos de cajas de llaves instaladas ilegalmente en mobiliario urbano, tras la prohibición de estas a finales de 2023.  Ambas ciudades imponen ahora cuotas por zonas para limitar las licencias de alquileres vacacionales, con el objetivo de controlar las molestias a los residentes y proteger el sector hotelero.  Además, se han implementado nuevas restricciones, como la limitación de la duración de las autorizaciones y la obligatoriedad de un registro municipal para los propietarios.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "La noticia tiene relevancia internacional por ser un ejemplo de cómo ciudades turísticas populares están lidiando con los desafíos planteados por la proliferación de plataformas de alquiler vacacional, un problema global.  Afecta a la regulación del turismo y el acceso a la vivienda, temas de interés internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Au Soudan du Sud, l’ONU dénonce le « pillage de la nation » par les élites au pouvoir",
+      "link": "https://www.lemonde.fr/afrique/article/2025/09/16/au-soudan-du-sud-l-onu-denonce-le-pillage-de-la-nation-par-les-elites-au-pouvoir_6641358_3212.html",
+      "fecha_obj": "2025-09-16T07:00:09+00:00",
+      "fecha_str": "16-09-2025 07:00 UTC",
+      "source_name": "Le Monde International"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El informe de la ONU revela el saqueo sistemático de las élites del Sudán del Sur, sumiendo al país en la crisis.",
+      "resumen": "Un informe de la ONU denuncia el \"pillaje de la nación\" por parte de las élites del Sudán del Sur, acusándolas de corrupción rampante y desvío de fondos públicos destinados al petróleo.  La crisis humanitaria y la guerra civil son consecuencias directas de esta corrupción, que ha impedido el desarrollo del país y ha generado una situación de extrema pobreza y hambre.  El informe señala al vicepresidente Benjamin Bol Mel como uno de los principales beneficiarios de este esquema de corrupción, a través del programa \"Oil for Roads\".  La situación se agrava con la reciente detención de líderes de la oposición, poniendo en peligro el acuerdo de paz y el futuro del país.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre una grave crisis política y humanitaria en el Sudán del Sur, un tema de gran relevancia internacional por sus implicaciones geopolíticas y humanitarias."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "My U.N. Commission’s Finding: Israel Is Committing Genocide",
+      "link": "https://www.nytimes.com/2025/09/16/opinion/un-palestinians-israel-gaza-genocide.html",
+      "fecha_obj": "2025-09-16T07:00:05+00:00",
+      "fecha_str": "16-09-2025 07:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Comisión de la ONU acusa a Israel de genocidio contra palestinos en Gaza.",
+      "resumen": "Una comisión de la ONU, liderada por un juez con experiencia en el Tribunal Penal Internacional para Ruanda, concluye que Israel ha cometido genocidio contra los palestinos en Gaza entre octubre de 2023 y julio de 2025.  La investigación, basada en evidencia extensa y corroborada por múltiples fuentes, señala la destrucción masiva, incluyendo más de 64.000 muertos (muchos niños y mujeres), el colapso del sistema de salud y el uso del hambre como arma de guerra.  La comisión argumenta que estas acciones constituyen un intento deliberado de destruir a un pueblo, violando gravemente el derecho internacional.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión contundente y argumentada sobre un tema de gran relevancia internacional, basado en una investigación exhaustiva.  Su naturaleza analítica y la presentación de evidencia lo hacen adecuado para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Who benefits if NHS drug prices soar? Donald Trump and big pharma. Just one more way he’s menacing Britain | Polly Toynbee",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/16/nhs-drug-prices-donald-trump-big-pharma-britain-labour",
+      "fecha_obj": "2025-09-16T07:00:01+00:00",
+      "fecha_str": "16-09-2025 07:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Las amenazas de Trump a la industria farmacéutica británica ponen en jaque al NHS y a la investigación científica.",
+      "resumen": "El artículo analiza el conflicto entre el NHS, las compañías farmacéuticas y la amenaza de aranceles de Trump.  La presión estadounidense para que el NHS pague precios más altos por medicamentos, sumada a la oposición de las farmacéuticas al sistema de evaluación de precios del NICE, crea un dilema para el gobierno británico.  El equilibrio entre el acceso a medicamentos asequibles, el fomento de la investigación y el control del gasto público resulta complejo, especialmente con la inminente visita de Trump y la posibilidad de nuevas medidas que encarezcan los fármacos.  El artículo cuestiona la sostenibilidad del modelo actual y la priorización de la inversión en salud.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un tema de actualidad con implicaciones políticas y económicas, presentando argumentos y perspectivas diferentes sobre el conflicto entre el acceso a medicamentos, la industria farmacéutica y la sostenibilidad del NHS."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "I went home, to one of Labour’s safest seats, and it felt like a newly minted Reform constituency | Kirsty Major",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/16/labour-safe-seat-reform-constituency-knowsley-liverpool",
+      "fecha_obj": "2025-09-16T05:00:28+00:00",
+      "fecha_str": "16-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Knowsley, bastión laborista, se inclina hacia Reform UK por la inmigración y la desigualdad.",
+      "resumen": "Kirsty Major visita Knowsley, un distrito históricamente laborista, y observa un cambio significativo en el sentimiento público.  La narrativa anti-inmigrante, particularmente la preocupación por la seguridad de las mujeres, se ha extendido, aprovechando la frustración por la pobreza y la falta de oportunidades.  A pesar de la alta necesidad de apoyo social en Knowsley, la falta de respuesta del gobierno central y la ineficacia percibida de Labour han creado un vacío que Reform UK ha llenado con un discurso simplista.  La autora contrasta Knowsley con Liverpool Wavertree, donde la perspectiva sobre la inmigración es más matizada.  La victoria cercana de Reform en Runcorn sirve como advertencia para Labour.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre el cambio político en una zona específica, analizando las causas subyacentes y sus implicaciones.  La perspectiva personal de la autora enriquece el análisis, encajando perfectamente en la categoría de 'Opinion Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Up to $2,000 Off LG Promo Codes & Coupons",
+      "link": "https://www.wired.com/story/lg-promo-code/",
+      "fecha_obj": "2025-09-16T05:30:00+00:00",
+      "fecha_str": "16-09-2025 05:30 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta \\u00242,000 en electrodomésticos y televisores LG durante sus días de innovación.",
+      "resumen": "El artículo detalla las diversas promociones y descuentos disponibles en productos LG, incluyendo televisores OLED, electrodomésticos y otros artículos electrónicos.  Se destacan ofertas como hasta 20% de descuento al registrarse en MyLG Rewards,  descuentos de hasta \\u00242,000 durante los Días de Innovación LG (con descuentos escalonados por la cantidad de productos comprados), descuentos para estudiantes, maestros y personal de emergencias, y la posibilidad de obtener hasta 20% de reembolso con MyLG Rewards. También se mencionan ofertas especiales en modelos de TV LG C4 y G4, así como en la nueva línea evo G5 OLED.  El artículo finaliza sugiriendo aprovechar las ofertas disponibles antes de que terminen.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo se centra en productos tecnológicos de LG, como televisores y electrodomésticos inteligentes,  con detalles sobre sus características y promociones. La información sobre descuentos y ofertas es relevante para el público interesado en tecnología y electrónica de consumo."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "How to Shop Like a Pro During Amazon Prime Day (2025)",
+      "link": "https://www.wired.com/story/amazon-prime-day-2025-tips-to-find-best-deals/",
+      "fecha_obj": "2025-09-16T05:01:00+00:00",
+      "fecha_str": "16-09-2025 05:01 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Amazon Prime Day 2025: ¡cuatro días de ofertas, pero ¿son realmente buenas?",
+      "resumen": "El artículo analiza el Amazon Prime Day 2025, que se extenderá del 8 al 11 de julio.  A pesar de la publicidad de \"millones de ofertas\",  advierte sobre descuentos engañosos y la necesidad de discernir entre verdaderas gangas y precios inflados.  Si bien oficialmente es exclusivo para miembros Prime (con prueba gratuita disponible), otras tiendas como Best Buy y Target ofrecen ofertas similares.  La clave está en identificar las ofertas genuinas, especialmente en productos Amazon, entre la gran cantidad de artículos en rebaja. El artículo recomienda enfocarse en ofertas de productos probados y con precios realmente reducidos.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre Amazon Prime Day, un evento de comercio electrónico relacionado con la tecnología y las compras online.  Aunque no profundiza en aspectos científicos o tecnológicos específicos, su relevancia radica en el análisis de estrategias de venta online y el impacto de la tecnología en el consumo."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Lenovo Coupon Codes and Deals: $800+ Off",
+      "link": "https://www.wired.com/story/lenovo-coupon-code/",
+      "fecha_obj": "2025-09-16T05:00:00+00:00",
+      "fecha_str": "16-09-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra hasta $810 en laptops Lenovo durante el Fall Tech Fest y aprovecha cupones y descuentos adicionales.",
+      "resumen": "Lenovo ofrece grandes descuentos en sus productos durante el Fall Tech Fest, incluyendo hasta $810 de descuento en la ThinkPad P16.  Adicionalmente, hay cupones con ahorros de $15 a $100 dependiendo del monto de la compra, ofertas semanales, precio garantizado y envío gratuito. Se ofrecen descuentos del 5% para educación, salud, primeros auxilios y personas mayores de 55 años.  El programa My Lenovo Rewards ofrece puntos por compras, y Katapult permite financiar o arrendar laptops Lenovo.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre ofertas y descuentos en productos tecnológicos de Lenovo, una importante empresa de computadoras y periféricos. La información es relevante para la categoría 'Ciencia y Tecnología' por su enfoque en tecnología informática y las promociones disponibles."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Lemmy, Leigh Bowery and ‘the two Georges’: 80s stars in the Limelight – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/sep/16/lemmy-leigh-bowery-the-two-georges-80s-limelight-club-david-koppeln-pictures",
+      "fecha_obj": "2025-09-16T06:00:01+00:00",
+      "fecha_str": "16-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Foto icónica de Boy George y George Michael captura la esencia del pop de los 80.",
+      "resumen": "El artículo presenta una fotografía de George Michael y Boy George juntos, tomada por David Koppel en un espacio VIP abarrotado. Koppel describe cómo logró la instantánea, aprovechando un breve momento en que ambos artistas estaban conversando.  La imagen se considera icónica, representativa del auge de la cultura pop en los años 80.  El artículo también menciona a otras figuras relevantes de la década como Lemmy y Leigh Bowery, aunque la imagen central se enfoca en los dos Georges.  La anécdota de Koppel resalta la espontaneidad y el carácter efímero de un momento capturado para la posteridad, convirtiéndose en un símbolo de una época.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La imagen y el artículo se centran en figuras icónicas de la música pop de los 80, un período cultural significativo.  La fotografía en sí es una obra que refleja la estética y el espíritu de la época, y la anécdota que la rodea añade un valor histórico y cultural. La única razón por la que no es un 10 es que el enfoque es más biográfico que puramente artístico."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "To understand how AI will reconfigure humanity, try this German fairytale | Clemens J Setz",
+      "link": "https://www.theguardian.com/books/2025/sep/16/ai-artificial-intelligence-fairytale-fisherman",
+      "fecha_obj": "2025-09-16T06:00:00+00:00",
+      "fecha_str": "16-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La IA como pez mágico: ¿nos concede deseos o nos condena a la decadencia?",
+      "resumen": "El artículo utiliza el cuento de 'El pescador y su mujer' como metáfora de la IA.  La esposa, Ilsebill, representa a la generación que crece con la IA como herramienta que satisface cualquier deseo.  Sin embargo, esta omnipotencia genera una paradoja: la falta de desafíos y la consecuente sensación de vacío.  El autor explora tres posibles respuestas: la decadencia, la creación de comunidades con limitaciones artificiales, y la autoimposición de culpa ecológica como forma de encontrar significado.  Concluye que, en este último escenario, Ilsebill pierde la capacidad de autodeterminación, dejando que la culpa la defina.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo analiza la influencia de la IA en la creatividad y el consumo cultural, explorando cómo la tecnología redefine la experiencia artística y humana.  La referencia a cuentos clásicos y la reflexión sobre la condición humana lo conectan con la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: who will win The Great British Sewing Bee?",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/16/tv-tonight-who-will-win-the-great-british-sewing-bee",
+      "fecha_obj": "2025-09-16T05:20:27+00:00",
+      "fecha_str": "16-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en la TV: final de Sewing Bee, viaje de Palin a Venezuela y más.",
+      "resumen": "La programación televisiva de esta noche incluye la final de The Great British Sewing Bee, donde tres finalistas compiten en el desafío de trompe l'oeil.  También se emitirán Stacey & Joe, un programa que sigue a la pareja en unas vacaciones familiares en un resort de esquí; Michael Portillo’s 200 Years of the Railways, explorando la historia del ferrocarril británico; y The Great British Bake Off, con un tema centrado en las creaciones de levadura.  Adicionalmente, Michael Palin continúa su aventura en Venezuela, visitando Caracas y la laguna de Canaima.  Finalmente, se transmitirán los Sky Arts Awards 2025 y partidos de la Champions League.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Los Sky Arts Awards y el programa de Michael Palin tienen una alta relevancia para la categoría 'Cultura y Arte'.  La mención a otros programas, aunque no directamente relacionados, amplía el alcance de la programación televisiva, incluyendo elementos culturales."
+    },
+    "categoria": "cultura_arte"
   }
 ]
