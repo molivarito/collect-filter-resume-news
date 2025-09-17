@@ -6046,5 +6046,181 @@
       "relevancia_justificacion": "Los Sky Arts Awards y el programa de Michael Palin tienen una alta relevancia para la categoría 'Cultura y Arte'.  La mención a otros programas, aunque no directamente relacionados, amplía el alcance de la programación televisiva, incluyendo elementos culturales."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Grève du 18 septembre : «Je m’attends à une mobilisation très très forte et hybride», déclare Bruno Retailleau",
+      "link": "https://www.lefigaro.fr/politique/en-direct-greve-18-septembre-premier-ministre-sebastien-lecornu-socialistes-rassemblement-national-20250917",
+      "fecha_obj": "2025-09-17T07:08:02+00:00",
+      "fecha_str": "17-09-2025 07:08 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Retailleau, ministro francés saliente, duda sobre su continuidad en el gobierno tras las protestas del 18 de septiembre.",
+      "resumen": "Bruno Retailleau, exministro del Interior de Francia, declaró en BFMTV que no se mantendrá automáticamente en su puesto en el próximo gobierno, tras la reciente ola de protestas del 18 de septiembre.  Retailleau, quien también preside Los Republicanos, afirmó que su permanencia dependerá de la escucha al pueblo francés y la ausencia de 'magueos políticos'.  Subrayó que su partido no forma parte de la mayoría presidencial, insinuando una posible renuncia si considera que el nuevo gobierno no responde a las necesidades del país.  Sus declaraciones reflejan la incertidumbre política en Francia tras las manifestaciones y el proceso de formación del nuevo gabinete.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La noticia trata sobre un alto cargo político francés y su posible salida del gobierno tras protestas nacionales, un tema de interés internacional por su impacto en la política francesa y europea."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Foot : dans l’affaire Sala, le procès devant le tribunal de commerce de Nantes reporté",
+      "link": "https://www.lefigaro.fr/sports/football/foot-dans-l-affaire-sala-le-proces-devant-le-tribunal-de-commerce-de-nantes-reporte-20250917",
+      "fecha_obj": "2025-09-17T07:03:31+00:00",
+      "fecha_str": "17-09-2025 07:03 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El juicio por la muerte de Emiliano Sala se pospone hasta diciembre, generando controversia entre Cardiff y Nantes.",
+      "resumen": "El juicio entre Cardiff City y FC Nantes por el caso Emiliano Sala, que debía comenzar el 22 de septiembre, se ha aplazado al 8 de diciembre.  Según Cardiff, la solicitud de aplazamiento proviene del FC Nantes, quien se declara \"no preparado\", a pesar de que la fecha estaba fijada desde abril de 2025. Cardiff reclama más de 120 millones de euros por \"prejuicios subidos\" tras la muerte de Sala en 2019, una cantidad que Nantes considera \"extravagante\".  A pesar del aplazamiento, Cardiff confía en la justicia francesa y espera exponer su caso en diciembre.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El caso involucra a dos clubes de fútbol de diferentes países (Gales y Francia), generando un conflicto legal internacional con implicaciones financieras significativas. El interés mediático alrededor de la muerte de Emiliano Sala también contribuye a su relevancia internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Grève du 18 septembre : Bruno Retailleau s’attend «à une mobilisation très très forte et hybride»",
+      "link": "https://www.lefigaro.fr/actualite-france/greve-du-18-septembre-bruno-retailleau-s-attend-a-une-mobilisation-tres-tres-forte-et-hybride-20250917",
+      "fecha_obj": "2025-09-17T07:02:29+00:00",
+      "fecha_str": "17-09-2025 07:02 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Gran movilización prevista para el 18 de septiembre en Francia: ¿una jornada de protestas o disturbios?",
+      "resumen": "El exministro del Interior francés, Bruno Retailleau, anticipa una masiva y violenta movilización para el 18 de septiembre, con entre 5.000 y 10.000 personas dispuestas a la confrontación.  Se espera una jornada de protestas y bloqueos, similar a las manifestaciones contra la reforma de las pensiones de 2023, con una participación que podría superar las 400.000 personas según las autoridades.  Los sindicatos convocan a la huelga y manifestaciones contra las medidas presupuestarias, mientras que Retailleau alerta sobre la presencia de grupos radicales de extrema izquierda. Las autoridades buscan garantizar el orden público durante las protestas.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia reporta una gran movilización social en Francia, un país con gran influencia internacional.  La posibilidad de disturbios y la magnitud de la protesta la hacen relevante a nivel internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Keir Starmer is betting everything on an America that doesn’t exist any more | Rafael Behr",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/17/keir-starmer-america-donald-trump-britain",
+      "fecha_obj": "2025-09-17T06:00:29+00:00",
+      "fecha_str": "17-09-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Starmer apuesta todo a una relación con Trump, ¿una jugada maestra o un riesgo para el futuro de Reino Unido?",
+      "resumen": "El artículo analiza la visita de estado de Trump a Reino Unido y la estrategia de Starmer de apaciguarlo para asegurar beneficios económicos y de seguridad.  A pesar de las críticas internas por la falta de condena a las políticas autoritarias de Trump, Starmer prioriza la alianza con EE.UU. en la nueva geopolítica, viendo a China como la principal amenaza. Sin embargo, la dependencia de un líder impredecible como Trump conlleva riesgos, incluyendo la posibilidad de que se repliquen sus políticas nacionalistas en Reino Unido.  El autor cuestiona si esta estrategia a corto plazo compromete los valores democráticos y las relaciones con Europa.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente una decisión política compleja, ofreciendo argumentos a favor y en contra de la estrategia de Starmer.  Presenta una perspectiva matizada y reflexiona sobre las implicaciones a largo plazo de la decisión, lo que lo convierte en un excelente ejemplo del género."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "If Labour admitted there is a genocide in Gaza, it would have to admit its own hand in it | Owen Jones",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/17/labour-genocide-gaza-british-palestinians-fighter-jets",
+      "fecha_obj": "2025-09-17T05:00:28+00:00",
+      "fecha_str": "17-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El gobierno británico niega el genocidio en Gaza para ocultar su complicidad.",
+      "resumen": "Un artículo de Owen Jones acusa al gobierno británico, particularmente al Partido Laborista, de complicidad en el genocidio en Gaza al negar la realidad de la situación.  Señala el suministro de armas a Israel, la cooperación en inteligencia y la falta de sanciones significativas como evidencia de esta complicidad.  El autor contrasta la respuesta del gobierno a las protestas contra el genocidio con la falta de acción ante la muerte de familiares de un ciudadano palestino que buscó ayuda de una política laborista.  Jones argumenta que la negación del genocidio se debe a la necesidad de mantener relaciones con Israel y Estados Unidos, priorizando la política sobre la vida humana.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la complicidad del gobierno británico en la situación de Gaza, ofreciendo análisis político y ejemplos concretos.  Se ajusta perfectamente a la categoría de 'Opinión Ensayo' por su naturaleza argumentativa, su perspectiva subjetiva y su análisis crítico de un tema político actual."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Tina Brown: When Trump Visits King Charles III",
+      "link": "https://www.nytimes.com/2025/09/17/opinion/king-charles-trump-britain-visit.html",
+      "fecha_obj": "2025-09-17T05:00:06+00:00",
+      "fecha_str": "17-09-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La visita de Trump a la familia real británica: ¿un choque cultural que revela la verdadera naturaleza del poder?",
+      "resumen": "El artículo analiza la visita hipotética de Donald Trump a la familia real británica, contrastando la monarquía británica con la presidencia estadounidense. Se destaca la habilidad del Rey Carlos III para manejar las relaciones internacionales con diplomacia y empatía, en contraste con la personalidad de Trump.  Se explora la compleja relación entre Carlos y sus hijos, Harry y William, y cómo el rey busca la reconciliación familiar.  El autor reflexiona sobre las presiones de la vida pública en la monarquía y la presidencia, sugiriendo que Trump podría aprender sobre el verdadero poder y la importancia de la discreción de la visita a Windsor.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión clara y argumentada sobre la monarquía británica, la presidencia estadounidense y la naturaleza del poder, utilizando ejemplos concretos y análisis comparativos.  Su estilo es reflexivo y analítico, propio de un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Canon Promo Codes: 10% Off | September 2025",
+      "link": "https://www.wired.com/story/canon-promo-code/",
+      "fecha_obj": "2025-09-17T05:10:00+00:00",
+      "fecha_str": "17-09-2025 05:10 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Canon ofrece descuentos de hasta $900 en cámaras, lentes e impresoras; ¡aprovecha las ofertas!",
+      "resumen": "El artículo detalla diversas promociones de Canon, incluyendo descuentos en cámaras EOS R5, R6 Mark II, R3, y PowerShot; kits de lentes; impresoras PIXMA y MegaTank; y ofertas especiales para profesionales y estudiantes.  Se destacan ofertas de hasta $800 en la venta de apreciación al cliente, descuentos instantáneos en cámaras mirrorless, y hasta un 10% de descuento adicional para miembros del Canon Professional Service. También se incluyen ofertas en productos reacondicionados con garantía de un año.  Canon ofrece envío gratuito en cámaras, lentes y consumibles.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo se centra en productos tecnológicos (cámaras, lentes, impresoras) y sus promociones, lo que lo hace altamente relevante para la categoría 'Ciencia y Tecnología'. La información sobre las especificaciones técnicas de las cámaras también contribuye a su relevancia."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+      "link": "https://www.wired.com/story/legalzoom-promo-code/",
+      "fecha_obj": "2025-09-17T05:00:00+00:00",
+      "fecha_str": "17-09-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ahorra 10% en la formación de tu LLC con el código promocional de LegalZoom.",
+      "resumen": "El artículo describe la experiencia del autor usando LegalZoom para formar una LLC, destacando su facilidad de uso a pesar del costo.  Se detalla que el precio varía según el estado, entre $35 y $500, incluyendo tarifas de presentación.  Se ofrece un código promocional para un 10% de descuento en la formación de LLC.  Además, se mencionan otros servicios de LegalZoom como planificación patrimonial y recursos gratuitos disponibles para los miembros.  Finalmente, se sugieren otras maneras de ahorrar, como promociones estacionales y planes anuales.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien LegalZoom utiliza tecnología para ofrecer servicios legales online, el artículo se centra en aspectos legales y administrativos de negocios, no en avances tecnológicos o científicos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "On Drugs by Justin Smith-Ruiu review – a philosopher’s guide to psychedelics",
+      "link": "https://www.theguardian.com/books/2025/sep/17/on-drugs-by-justin-smith-ruiu-review-a-philosophers-guide-to-psychedelics",
+      "fecha_obj": "2025-09-17T06:00:29+00:00",
+      "fecha_str": "17-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Un filósofo explora la experiencia psicodélica, cuestionando la razón cartesiana y encontrando paralelismos con la religión.",
+      "resumen": "La reseña del libro \"On Drugs\" de Justin Smith-Ruiu explora la experiencia del autor con diversas sustancias psicoactivas, incluyendo psicodélicos.  Smith-Ruiu, un filósofo, utiliza su experiencia para desafiar la primacía de la razón cartesiana, sugiriendo que los psicodélicos pueden expandir la conciencia y conectar al individuo con una realidad cósmica.  El autor encuentra paralelismos entre la experiencia psicodélica y la práctica religiosa, argumentando que ambos implican una suspensión de la voluntad individual.  La reseña destaca la originalidad del enfoque de Smith-Ruiu y su capacidad para conectar la filosofía con la experiencia personal.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo analiza un libro que explora la intersección entre la filosofía, la experiencia personal y la religión, temas relevantes para la cultura y el arte. La perspectiva filosófica sobre la experiencia psicodélica aporta una dimensión intelectual y reflexiva que enriquece el debate cultural."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Girls & Boys review – intense trans romance sparks fireworks in impressive debut",
+      "link": "https://www.theguardian.com/film/2025/sep/17/girls-boys-review-trans-romance-adam-lunnon-collery-liath-hannon",
+      "fecha_obj": "2025-09-17T06:00:28+00:00",
+      "fecha_str": "17-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Romance intenso y transgresor en el debut de 'Girls & Boys', una película irlandesa que explora la identidad y el pasado.",
+      "resumen": "Girls & Boys, una película irlandesa, presenta una romántica historia entre Jason, un jugador de rugby, y Charlie, una joven trans.  Ambientada en Dublín, la película sigue a la pareja en una noche en la ciudad, mostrando una conexión natural e intensa.  Aunque hay un giro argumental que requiere una suspensión de la incredulidad, las actuaciones de los actores debutantes son elogiadas por su naturalismo. El guion explora temas de identidad, arrepentimiento y la memoria, mostrando la evolución del personaje de Jason al confrontar su pasado. La película es considerada un debut impresionante.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La película se centra en una historia de amor con personajes complejos, además de explorar temas relevantes de identidad de género.  Su estreno y la crítica positiva la ubican como una obra relevante dentro del ámbito cinematográfico y cultural."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Segregation, swines and social gatherings: A slice of Black life in Texas – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/sep/17/segregation-swines-and-social-gatherings-a-slice-of-black-life-in-texas-in-pictures",
+      "fecha_obj": "2025-09-17T06:00:27+00:00",
+      "fecha_str": "17-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Fotografía afroamericana en Texas: una exposición revela la vida cotidiana y la importancia de la comunidad.",
+      "resumen": "Una nueva exposición, \"Kinship & Community\",  presenta la obra de fotógrafos afroamericanos en zonas rurales y urbanas de Texas durante el siglo XX.  La muestra destaca el trabajo de Louise Ozelle Martin y otros, quienes documentaron la vida y cultura de sus comunidades, contribuyendo a fortalecer la autoestima.  La exposición resalta el papel crucial de los fotógrafos locales en la preservación de la historia y la identidad afroamericana, mostrando imágenes de eventos sociales, retratos y escenas cotidianas que reflejan la segregación y la vida en comunidad. La exhibición estará en CPW, Kingston, Nueva York del 20 de septiembre de 2025 al 11 de enero de 2026.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La exposición se centra en la fotografía como herramienta de documentación cultural e histórica de la comunidad afroamericana en Texas.  Su alto valor artístico y su relevancia para la comprensión de la historia y la cultura afroamericana justifican una alta puntuación."
+    },
+    "categoria": "cultura_arte"
   }
 ]
