@@ -6222,5 +6222,197 @@
       "relevancia_justificacion": "La exposición se centra en la fotografía como herramienta de documentación cultural e histórica de la comunidad afroamericana en Texas.  Su alto valor artístico y su relevancia para la comprensión de la historia y la cultura afroamericana justifican una alta puntuación."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Grève du 18 septembre : un déploiement «sans précédent» de drones pour surveiller les manifestations",
+      "link": "https://www.lefigaro.fr/actualite-france/greve-du-18-septembre-un-deploiement-sans-precedent-de-drones-pour-surveiller-les-manifestations-20250918",
+      "fecha_obj": "2025-09-18T07:06:11+00:00",
+      "fecha_str": "18-09-2025 07:06 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Francia: El uso masivo de drones policiales para vigilar protestas genera polémica.",
+      "resumen": "El uso de drones por parte de las fuerzas del orden en Francia ha aumentado drásticamente, triplicándose la flota nacional en cinco años.  Si bien la policía destaca su utilidad para la seguridad y el mantenimiento del orden en eventos masivos,  la proliferación de su uso en protestas ha generado una batalla legal.  Organizaciones defensoras de los derechos civiles denuncian un despliegue sin precedentes, cuestionando la proporcionalidad y la necesidad de su uso, así como la falta de transparencia.  Se han presentado numerosos recursos judiciales para suspender los permisos de vuelo, obteniendo algunas victorias parciales, pero el debate sobre el equilibrio entre seguridad y libertades civiles permanece abierto.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre el uso de drones por la policía francesa para vigilar protestas, un tema de interés internacional por las implicaciones en materia de derechos civiles y libertades públicas.  La controversia y la batalla legal que se describe trascienden las fronteras francesas."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Grève du 18 septembre : lycées bloqués à Paris et Marseille, opération escargot sur l’A57 et l’A50... Suivez les mobilisations",
+      "link": "https://www.lefigaro.fr/social/blocage-18-septembre-en-direct-greve-transports-paris-ratp-manifestation-parcours-mouvement-social-20250918",
+      "fecha_obj": "2025-09-18T07:02:02+00:00",
+      "fecha_str": "18-09-2025 07:02 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Francia paralizada: huelga general el 18 de septiembre afecta transportes, educación y salud.",
+      "resumen": "El 18 de septiembre, Francia experimentó una gran huelga general que afectó múltiples sectores.  Transportes, educación, salud y función pública fueron los más afectados, con cierres de escuelas, bloqueos de carreteras y paros en hospitales.  Los sindicatos protestaron contra medidas de austeridad, bajas salariales y otras políticas gubernamentales.  El movimiento involucró a trabajadores de la energía, la química y la industria farmacéutica, con piquetes de huelga en instalaciones clave.  La movilización se espera que sea mayor que la del 10 de septiembre, mostrando un descontento generalizado en el país.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La huelga general en Francia es un evento de relevancia internacional por su impacto en la economía y la política del país, y por su potencial efecto en otros países europeos."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Équateur : le président Daniel Noboa veut une nouvelle Constitution pour lutter contre le crime",
+      "link": "https://www.lefigaro.fr/flash-actu/equateur-le-president-daniel-noboa-veut-une-nouvelle-constitution-pour-lutter-contre-le-crime-20250918",
+      "fecha_obj": "2025-09-18T07:00:07+00:00",
+      "fecha_str": "18-09-2025 07:00 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Presidente de Ecuador propone nueva Constitución para combatir el narcotráfico y crimen organizado.",
+      "resumen": "El presidente ecuatoriano, Daniel Noboa, propuso una nueva Constitución para fortalecer la lucha contra el narcotráfico y el crimen organizado.  Noboa ha intentado previamente reformas constitucionales, algunas rechazadas por la Corte Constitucional.  Su propuesta incluye la posibilidad de bases militares extranjeras para combatir el tráfico de drogas, un referéndum al respecto está previsto para noviembre.  Ecuador enfrenta una grave crisis de seguridad, siendo en 2024 el país más peligroso de Latinoamérica según Insight Crime,  con un alto índice de homicidios y convirtiéndose en punto de partida del 70% de la cocaína mundial.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia trata sobre una crisis política y de seguridad en Ecuador, un país latinoamericano, con implicaciones internacionales debido a su rol en el narcotráfico y la propuesta de intervención extranjera.  Es altamente relevante para la categoría 'Internacional'."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Britain Offers a Warning of What America Could Become",
+      "link": "https://www.nytimes.com/2025/09/18/opinion/trump-britain-state-visit.html",
+      "fecha_obj": "2025-09-18T06:53:50+00:00",
+      "fecha_str": "18-09-2025 06:53 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El declive del Imperio Británico: ¿un presagio del futuro de Estados Unidos?",
+      "resumen": "El artículo traza un paralelismo entre el declive del Imperio Británico y la actual situación de Estados Unidos.  Señala que ambos países, tras periodos de hegemonía basados en narrativas de progreso y excepcionalismo, experimentaron un giro nacionalista tras las elecciones de 2016,  rechazando las normas internacionales y enfrentando problemas internos como la desigualdad y la polarización.  El Brexit y la elección de Trump se presentan como síntomas de este declive,  generando pesimismo y cuestionando la viabilidad de sus modelos. El autor sugiere que la experiencia británica podría ser una advertencia para Estados Unidos sobre los peligros del nacionalismo y el abandono de las alianzas internacionales.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada y analiza un tema de relevancia política internacional, comparando dos casos históricos para extraer conclusiones y proyectar posibles escenarios futuros.  Su estructura y contenido encajan perfectamente en la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Labour is in a mess. Is there anything Starmer can do to turn things around? Our panel responds – part one",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/18/labour-mess-starmer-turn-things-round-panel-part-one",
+      "fecha_obj": "2025-09-18T06:00:35+00:00",
+      "fecha_str": "18-09-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La falta de vivienda social en Reino Unido es una crisis que el gobierno Laborista debe abordar con urgencia.",
+      "resumen": "John Harris critica la inacción del gobierno laborista de Keir Starmer ante la crisis de vivienda social en Reino Unido.  A pesar de promesas de construcción de viviendas y programas existentes, el ritmo es insuficiente para afrontar la magnitud del problema, que afecta especialmente a las zonas tradicionalmente laboristas. Harris argumenta que un programa ambicioso de construcción de viviendas sociales, aprovechando la experiencia de los ayuntamientos laboristas, sería una respuesta efectiva a la insatisfacción pública y una estrategia política inteligente para contrarrestar a la derecha.  La falta de acción deja espacio a la narrativa pesimista de la oposición, mientras que la recuperación de la tradición laborista en materia de vivienda social se presenta como una solución viable.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente la política de vivienda del gobierno laborista británico, ofreciendo argumentos y propuestas.  Se ajusta perfectamente a la categoría, presentando una perspectiva clara y fundamentada."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "It’s come to this: Keir Starmer is now just the warm-up act for Nigel Farage | Aditya Chakrabortty",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/18/clear-keir-starmer-warm-up-act-nigel-farage",
+      "fecha_obj": "2025-09-18T05:00:34+00:00",
+      "fecha_str": "18-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El auge de la extrema derecha en Reino Unido, ¿un fracaso de Keir Starmer?",
+      "resumen": "El artículo critica la respuesta tibia de Keir Starmer al creciente extremismo de derecha en Reino Unido, ejemplificada por la marcha de más de 100.000 personas en Londres.  Se acusa a Starmer de apaciguar el racismo para obtener réditos políticos,  permitiendo que la retórica anti-inmigrante de Nigel Farage se normalice.  El autor argumenta que la falta de una respuesta contundente del gobierno laborista facilita el avance de la extrema derecha, con consecuencias potencialmente devastadoras para las minorías y la sociedad en general. Se destaca la hipocresía del gobierno al expresar preocupación por la extrema derecha mientras simultáneamente minimiza sus acciones. El autor concluye que el fracaso de Starmer en contrarrestar este auge podría tener consecuencias históricas negativas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza críticamente un tema político actual, ofreciendo una perspectiva argumentada y con ejemplos concretos.  Su estructura, estilo y contenido se ajustan perfectamente a la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Sécheresse record en août en Europe et sur les côtes de la Méditerranée",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/secheresse-record-en-aout-en-europe-et-sur-les-cotes-de-la-mediterranee_188254?xtor=RSS-15",
+      "fecha_obj": "2025-09-18T03:32:00+00:00",
+      "fecha_str": "18-09-2025 03:32 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Agosto 2025: el mes más seco en Europa y el Mediterráneo desde 2012, con graves consecuencias.",
+      "resumen": "El Observatorio Europeo de la Sequía (EDO) reporta que agosto de 2025 fue el mes más seco en Europa y la región mediterránea desde 2012, con el 53% de los suelos afectados por sequía, superando ampliamente la media.  Esta situación, que batió récords mensuales desde enero de 2025, afectó gravemente a los Balcanes y Europa del Este, con tasas superiores al 90% en países como Bulgaria y Serbia, provocando incendios devastadores.  Europa Occidental también sufrió, con Portugal y Francia registrando altos porcentajes de territorio afectado.  El Este del Mediterráneo, incluyendo Armenia, Georgia y Líbano, también experimentó sequía extrema.  La combinación de sequía meteorológica, de suelos e hidrológica tuvo consecuencias en la agricultura, la producción vinícola y provocó numerosos incendios.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre un fenómeno climático con impacto ambiental y social, utilizando datos de observación satelital.  Si bien no se centra en tecnología específica, la información proviene de la tecnología de observación terrestre y tiene implicaciones para el desarrollo de modelos climáticos y sistemas de alerta temprana."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Aux Etats-Unis, une réunion sur les recommandations vaccinales sous haute tension",
+      "link": "https://www.sciencesetavenir.fr/sciences/aux-etats-unis-une-reunion-sur-les-recommandations-vaccinales-sous-haute-tension_188252?xtor=RSS-18",
+      "fecha_obj": "2025-09-18T01:50:33+00:00",
+      "fecha_str": "18-09-2025 01:50 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Cambios en el comité de vacunas de EEUU desatan alarma científica por posibles restricciones.",
+      "resumen": "Un nuevo comité de expertos en vacunas en Estados Unidos, nombrado por el ministro de salud Robert Kennedy Jr. y con posturas antivacunas, revisará las recomendaciones de vacunación.  Esta revisión genera preocupación entre científicos por posibles restricciones al acceso a vacunas, especialmente considerando la disminución de tasas de vacunación y el riesgo de enfermedades como la  rougeole. La ex directora de los CDC, Susan Monarez, denunció presiones para modificar el calendario vacunal sin evidencia científica.  Esta situación, junto con recortes presupuestarios, ha generado una crisis en las agencias sanitarias y ha llevado a algunas instituciones a publicar sus propias recomendaciones. Existe temor de que la reducción o eliminación de la recomendación de ciertas vacunas deje a muchos sin acceso a ellas debido a su alto costo.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre una decisión política que impacta directamente en la salud pública y las políticas científicas relacionadas con las vacunas.  La controversia y las implicaciones para la salud pública lo hacen altamente relevante para la categoría Ciencia y Tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "\"Un tournant\" après les crises: les pêcheurs français réunis à Boulogne-sur-Mer",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/un-tournant-apres-les-crises-les-pecheurs-francais-reunis-a-boulogne-sur-mer_188253?xtor=RSS-15",
+      "fecha_obj": "2025-09-18T01:50:15+00:00",
+      "fecha_str": "18-09-2025 01:50 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Peces franceses en crisis: Brexit, cuotas y futuro incierto amenazan la pesca en Boulogne-sur-Mer.",
+      "resumen": "Los pescadores franceses se reúnen en Boulogne-sur-Mer para discutir el futuro de la industria pesquera, afectada por el Brexit, la reducción de zonas de pesca y el envejecimiento de la flota.  La dificultad para renovar la flota debido a las regulaciones europeas sobre la potencia de los barcos, junto con la disminución de recursos pesqueros por sobrepesca y cambio climático, genera incertidumbre.  Aunque Boulogne-sur-Mer muestra resultados económicos positivos, la competencia con Reino Unido y la presión por la sostenibilidad ambiental plantean un panorama complejo.  Se debate la necesidad de modernizar la flota, gestionar sosteniblemente los recursos y adaptar las políticas pesqueras a las nuevas realidades.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "El artículo se centra en los desafíos socioeconómicos de la pesca francesa, con menciones a la tecnología (envejecimiento de la flota y métodos de pesca), pero su enfoque principal no es científico ni tecnológico."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "A walk in the park! The exhibition set in the great outdoors – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2025/sep/18/a-walk-in-the-park-the-exhibition-set-in-the-great-outdoors-in-pictures",
+      "fecha_obj": "2025-09-18T06:00:35+00:00",
+      "fecha_str": "18-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Exposición fotográfica: 'A Gentle Awareness' explora la conexión entre el espacio y la identidad.",
+      "resumen": "La exposición fotográfica \"A Gentle Awareness\", de Margaret Mitchell, reflexiona sobre cómo los espacios que habitamos nos moldean y cómo formamos parte de ellos.  Las imágenes, parte de un trabajo más amplio, muestran diversos lugares de Escocia: desde calles urbanas hasta pueblos pequeños, pasando por paisajes isleños y zonas periféricas. Mitchell captura la esencia de la vida en estos entornos, mostrando cómo las personas y los lugares se influyen mutuamente. La exposición invita a la contemplación sobre el sentido de pertenencia y la relación entre el individuo y su entorno.  La obra se centra en la observación de la vida cotidiana en diferentes contextos escoceses, mostrando una perspectiva íntima y reflexiva.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La exposición fotográfica se centra en el arte, específicamente en la fotografía como medio de expresión artística y reflexión social. El tema de la exposición, la conexión entre el espacio y la identidad, es altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Mawaan Rizwan’s zany comedy Juice returns",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/18/tv-tonight-mawaan-rizwan-russell-tovey-juice-sky-atomic",
+      "fecha_obj": "2025-09-18T05:20:33+00:00",
+      "fecha_str": "18-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche, disfruta de comedia, dramas y thrillers en la televisión.",
+      "resumen": "La programación televisiva de esta noche ofrece una variedad de opciones.  'Juice' en BBC Three presenta una comedia zany con Mawaan Rizwan.  'The Dog House' en Channel 4 sigue a un refugio de animales. 'The Newsreader' en BBC Two continúa su drama ambientado en una redacción australiana en los 80s. 'Long Lost Family' en ITV1 reúne a hermanos separados. 'Taskmaster' en Channel 4 ofrece una nueva entrega de su comedia con invitados estelares. Finalmente, 'Atomic' en Sky Atlantic llega a su fin con una emocionante persecución en Casablanca.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien algunos programas podrían tener elementos culturales (como la representación de la cultura mod en 'Long Lost Family'), la programación se centra principalmente en el entretenimiento y no en el arte o la cultura en un sentido profundo."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Dracula review – Mina Harker bites back but drama is deadened by tricksy retelling",
+      "link": "https://www.theguardian.com/stage/2025/sep/18/dracula-review-lyric-hammersmith-london",
+      "fecha_obj": "2025-09-17T23:01:25+00:00",
+      "fecha_str": "17-09-2025 23:01 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Mina Harker toma el control en una reinterpretación feminista de Drácula, pero la meta-narración eclipsa el terror.",
+      "resumen": "Esta producción de Drácula ofrece una relectura feminista, centrándose en Mina Harker y sus limitaciones en la sociedad victoriana.  La obra utiliza una estructura meta-teatral con constantes interrupciones narrativas que, aunque intentan analizar la historia original, terminan restándole tensión y atmósfera.  Si bien la actuación de Umi Myers como Mina es destacada, la constante narración y el enfoque en la forma sobre el fondo perjudican la experiencia.  A pesar de plantear temas relevantes sobre el patriarcado y el control sobre los cuerpos femeninos, la comedia y la excesiva metaficción impiden que la obra alcance su potencial, dejando una sensación de oportunidad desaprovechada.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La reseña trata directamente sobre una puesta en escena de una obra clásica de la literatura, analizando su interpretación, dirección, actuación y puesta en escena.  Es una crítica teatral que cae directamente dentro de la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
   }
 ]
