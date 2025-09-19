@@ -6414,5 +6414,165 @@
       "relevancia_justificacion": "La reseña trata directamente sobre una puesta en escena de una obra clásica de la literatura, analizando su interpretación, dirección, actuación y puesta en escena.  Es una crítica teatral que cae directamente dentro de la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Drapeaux palestiniens sur les mairies : le ministère de l’Intérieur demande aux préfets de s’y opposer",
+      "link": "https://www.lefigaro.fr/actualite-france/drapeaux-palestiniens-sur-les-mairies-le-ministere-de-l-interieur-demande-aux-prefets-de-s-y-opposer-20250919",
+      "fecha_obj": "2025-09-19T07:08:07+00:00",
+      "fecha_str": "19-09-2025 07:08 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Francia prohíbe banderas palestinas en edificios públicos el 22 de septiembre.",
+      "resumen": "El Ministerio del Interior francés ha pedido a los prefectos que se opongan a la exhibición de banderas palestinas en ayuntamientos y edificios públicos el 22 de septiembre, día en que Francia reconoce el Estado de Palestina.  Esta decisión se basa en el principio de neutralidad del servicio público.  El primer secretario del Partido Socialista, Olivier Faure, había instado previamente a izar la bandera palestina en señal de apoyo. El ministerio instruye a los prefectos a recurrir a la jurisdicción administrativa si los alcaldes deciden ignorar la orden.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia trata sobre una decisión del gobierno francés con implicaciones internacionales, específicamente en el contexto del conflicto israelo-palestino y la política exterior francesa.  Su impacto trasciende las fronteras nacionales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "«La FIFA et l’UEFA doivent suspendre Israël» : le cri du cœur d’Éric Cantona qui compare l’État israélien à la Russie",
+      "link": "https://www.lefigaro.fr/sports/football/la-fifa-et-l-uefa-doivent-suspendre-israel-le-cri-du-coeur-d-eric-cantona-qui-compare-l-etat-israelien-a-la-russie-20250919",
+      "fecha_obj": "2025-09-19T06:52:37+00:00",
+      "fecha_str": "19-09-2025 06:52 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Cantona pide la suspensión de Israel de las competiciones FIFA y UEFA, comparándolo con Rusia.",
+      "resumen": "Durante un concierto en Londres, Éric Cantona abogó por la exclusión de Israel de todas las competiciones deportivas internacionales.  Cantona comparó la situación con la suspensión de Rusia tras la invasión de Ucrania, cuestionando la doble moral de la FIFA y la UEFA al permitir la participación de Israel pese a lo que considera un 'genocidio'.  El exfutbolista instó a un boicot deportivo similar al aplicado contra el apartheid en Sudáfrica, apelando al poder de los aficionados para presionar a las organizaciones deportivas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia tiene una relevancia internacional alta, al involucrar a organismos deportivos globales (FIFA, UEFA), un personaje público reconocido y una controversia geopolítica con implicaciones internacionales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "La France suspend sa coopération antiterroriste avec le Mali et expulse deux diplomates",
+      "link": "https://www.lefigaro.fr/flash-actu/la-france-suspend-sa-cooperation-antiterroriste-avec-le-mali-et-expulse-deux-diplomates-20250919",
+      "fecha_obj": "2025-09-19T06:34:01+00:00",
+      "fecha_str": "19-09-2025 06:34 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Francia suspende cooperación antiterrorista con Mali tras arresto de diplomático francés y expulsa a dos diplomáticos malienses.",
+      "resumen": "Francia ha suspendido su cooperación antiterrorista con Mali y expulsado a dos diplomáticos malienses en respuesta a la detención en agosto de un agente diplomático francés en Bamako.  El gobierno maliense, liderado por una junta militar, acusó al agente francés de trabajar para los servicios de inteligencia franceses y de participar en una tentativa de desestabilización.  Como represalia, Mali declaró persona non grata a cinco miembros de la embajada francesa.  La decisión francesa refleja la creciente tensión entre ambos países, marcada por la colaboración de Mali con Rusia y las acusaciones de abusos contra civiles por parte del ejército maliense y mercenarios rusos. A pesar de las tensiones, la cooperación entre los servicios de inteligencia en materia antiterrorista se mantenía hasta el incidente.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El conflicto diplomático entre Francia y Mali, dos países con relevancia internacional,  incluye la suspensión de una cooperación crucial en la lucha contra el terrorismo y tiene implicaciones geopolíticas en la región del Sahel."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "After the far-right mass rally in London, Britain must learn lessons from abroad – and fast | Cas Mudde",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/19/far-right-mass-rally-london-britain-immigration-migrants",
+      "fecha_obj": "2025-09-19T06:00:37+00:00",
+      "fecha_str": "19-09-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El auge de la extrema derecha en Reino Unido exige un aprendizaje urgente de errores internacionales.",
+      "resumen": "El artículo analiza la masiva manifestación de la extrema derecha en Londres liderada por Tommy Robinson,  señalándola como una llamada de atención para los demócratas británicos.  Critica la estrategia del Partido Laborista de competir con la extrema derecha en temas de inmigración,  argumentando que esta táctica es contraproducente.  Asimismo, rechaza la idea de que el Brexit haya solucionado el problema de la extrema derecha en Reino Unido,  evidenciando la creciente influencia de figuras como Nigel Farage y Elon Musk en este movimiento. El autor enfatiza la necesidad de abandonar el excepcionalismo británico y aprender de las experiencias de otros países para combatir eficazmente el auge de la extrema derecha,  abogando por la colaboración entre partidos centristas y de izquierda.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta un análisis de opinión argumentado sobre un tema político relevante,  ofreciendo perspectivas internacionales y conclusiones basadas en evidencia. Su estructura, estilo y contenido se ajustan perfectamente a la categoría de 'Opinion Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Is there anything Labour can do to save itself from disaster? Our panel responds",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/19/labour-save-itself-from-disaster-keir-starmer-panel-part-two",
+      "fecha_obj": "2025-09-19T05:00:36+00:00",
+      "fecha_str": "19-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El laborismo enfrenta una crisis: ¿puede evitar el desastre con cambios constitucionales y una nueva estrategia en IA e Israel?",
+      "resumen": "El artículo analiza los desafíos del partido laborista británico.  Rory Stewart critica las constantes reestructuraciones ministeriales de Starmer, abogando por una revolución constitucional con más poder local y un sistema electoral más proporcional. Mariana Mazzucato advierte sobre la dependencia de la inversión extranjera en IA, instando a un enfoque que priorice el beneficio público y la creación de capacidades británicas. Shaista Aziz critica la respuesta del gobierno a la crisis en Gaza, argumentando que su inacción ha dañado su credibilidad y exige un replanteamiento de la relación con Israel. Los autores coinciden en la necesidad de cambios profundos para recuperar la confianza pública.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta diferentes perspectivas de opinión sobre la situación del partido laborista y temas de política nacional e internacional, constituyendo un ensayo de opinión completo y bien argumentado."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "A Leaderless and Connected Gen Z Is Taking Over in Asia",
+      "link": "https://www.nytimes.com/2025/09/19/opinion/asia-protest-youth-nepal-bangladesh.html",
+      "fecha_obj": "2025-09-19T05:00:05+00:00",
+      "fecha_str": "19-09-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La Generación Z asiática, conectada y sin líderes, usa redes sociales para protestas políticas, desafiando la narrativa de fragilidad.",
+      "resumen": "El artículo argumenta que la Generación Z en Asia, a diferencia de la percepción común, está utilizando plataformas como Instagram y TikTok para organizar protestas políticas.  Inicialmente pacíficas, estas manifestaciones se volvieron violentas en respuesta a la brutalidad policial en países como Nepal, Sri Lanka, Bangladesh e Indonesia.  La censura gubernamental, lejos de sofocar las protestas, las intensificó.  El artículo destaca la importancia de las redes sociales como herramientas de movilización y la reacción de los jóvenes ante la violencia estatal,  dibujando un paralelismo con la Primavera Árabe.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión sobre el comportamiento político de la Generación Z en Asia,  analizando su uso de las redes sociales y la respuesta a la represión gubernamental.  Su estructura argumentativa y análisis de un fenómeno social lo hacen adecuado para la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Two UK teens charged in connection to Scattered Spider ransomware attacks",
+      "link": "https://arstechnica.com/security/2025/09/two-uk-teens-charged-in-connection-to-scattered-spider-ransomware-attacks/",
+      "fecha_obj": "2025-09-19T00:00:37+00:00",
+      "fecha_str": "19-09-2025 00:00 UTC",
+      "source_name": "Ars Technica"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Dos adolescentes británicos fueron acusados por ataques de ransomware Scattered Spider, causando pérdidas millonarias.",
+      "resumen": "Thalha Jubair (19) y Owen Flowers (18), ambos del Reino Unido, fueron acusados en relación con los ataques de ransomware de Scattered Spider.  Jubair enfrenta cargos en Estados Unidos por conspirar para cometer fraude informático, participando en ataques que generaron más de $115 millones en pagos de rescate. Flowers, previamente arrestado por el ataque a Transport for London, también enfrenta cargos en el Reino Unido por este incidente y por ataques contra SSM Health Care y un intento de acceso no autorizado a Sutter Health, ambos en Estados Unidos.  Ambos fueron arrestados y se presentarán en la corte en octubre.  Las autoridades recuperaron Bitcoin pagado por las víctimas.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre un ciberataque de gran escala con implicaciones financieras significativas, mostrando la relevancia de la seguridad informática y la tecnología en el contexto del crimen organizado."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: Jimi Hendrix gets inside our souls with one of his last gigs",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/19/tv-tonight-jimi-hendrix-gets-inside-our-souls-with-one-of-his-last-gigs",
+      "fecha_obj": "2025-09-19T05:20:35+00:00",
+      "fecha_str": "19-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: Hendrix, Gogglebox, Fawlty Towers y más.",
+      "resumen": "La programación televisiva incluye un documental-concierto de Jimi Hendrix en Atlanta 1970; Gogglebox comenta programas como Coldwater y Black Rabbit; The Paper, una comedia sobre un periódico en crisis, destaca por la actuación de Sabrina Impacciatore; se emite una adaptación teatral de Fawlty Towers; Mitchell y Webb Are Not Helping regresa con sketches; y Peacemaker continúa en Sky Max.  Finalmente, se reseña la película 'Swiped', un biopic ficticio sobre la cofundadora de Tinder y Bumble, Whitney Wolfe Herd, que critica la cultura tóxica de Silicon Valley.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo menciona el concierto de Jimi Hendrix, un evento cultural relevante.  La mención de otras series y películas, aunque no estrictamente 'arte', contribuyen a la cultura popular.  Sin embargo, la mayor parte del contenido se centra en la programación televisiva, reduciendo la puntuación."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘Always the coolest, calmest man in the room’: friends and film-makers remember Robert Redford",
+      "link": "https://www.theguardian.com/film/2025/sep/19/robert-redford-ralph-fiennes-judd-hirsch-norman-reedus",
+      "fecha_obj": "2025-09-19T04:00:34+00:00",
+      "fecha_str": "19-09-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Robert Redford: Recuerdos de un gigante del cine, más allá de la pantalla.",
+      "resumen": "El artículo recopila testimonios de actores y directores que trabajaron con Robert Redford, describiendo su personalidad, generosidad y profesionalidad.  Destacan su humildad a pesar de su fama, su compromiso con el cine independiente a través del Sundance Institute, y su capacidad para crear un ambiente de trabajo tranquilo y colaborativo. Se recuerdan anécdotas de rodajes, mostrando su talento como actor y director, y su interés genuino por las personas.  Las experiencias compartidas resaltan su impacto en el cine y su legado como figura humanitaria.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra en la vida y obra de Robert Redford, una figura icónica de la cultura cinematográfica estadounidense.  Aborda su influencia en el cine independiente, su trabajo como actor y director, y su impacto en la industria.  Por lo tanto, es altamente relevante para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "12 Art Books to Read This Fall",
+      "link": "https://hyperallergic.com/1043154/12-art-books-to-read-this-fall-2025/",
+      "fecha_obj": "2025-09-18T21:44:37+00:00",
+      "fecha_str": "18-09-2025 21:44 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Doce libros de arte prometen un otoño culturalmente rico; desde Enwezor hasta Grandma Moses.",
+      "resumen": "El artículo presenta doce nuevos libros de arte, incluyendo obras sobre Okwui Enwezor, Louise Bourgeois, Robert Rauschenberg y Wifredo Lam.  Se destacan también publicaciones sobre fotógrafos como Frank S. Matsura, y artistas contemporáneos como Nayland Blake.  Los libros abarcan diversas temáticas: la reescritura de la historia del arte desde una perspectiva global, la vida y obra de artistas icónicos, el arte como herramienta política y la experiencia de las mujeres artistas nigerianas en la diáspora.  Se incluyen reseñas breves de cada libro, resaltando su contenido y relevancia.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo se centra exclusivamente en libros de arte, ofreciendo reseñas y detalles de publicaciones relevantes para el mundo del arte contemporáneo y la historia del arte.  Su contenido es altamente pertinente para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
   }
 ]
