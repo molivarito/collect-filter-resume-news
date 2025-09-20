@@ -6574,5 +6574,197 @@
       "relevancia_justificacion": "El artículo se centra exclusivamente en libros de arte, ofreciendo reseñas y detalles de publicaciones relevantes para el mundo del arte contemporáneo y la historia del arte.  Su contenido es altamente pertinente para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Guerre en Ukraine : une «attaque massive» de drones et missiles russes fait au moins trois morts",
+      "link": "https://www.lefigaro.fr/international/guerre-en-ukraine-des-frappes-russes-font-un-mort-et-une-dizaine-de-blesses-a-dnipropetrovsk-20250920",
+      "fecha_obj": "2025-09-20T06:58:50+00:00",
+      "fecha_str": "20-09-2025 06:58 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ataque masivo ruso en Dnipropetrovsk deja tres muertos y 13 heridos; Zelenski exige más ayuda.",
+      "resumen": "Un nuevo ataque con misiles y drones rusos en la región de Dnipropetrovsk, Ucrania, ha causado al menos tres muertes y 13 heridos.  Los ataques, que también afectaron otras regiones, destruyeron edificios de empresas e incendiaron varias zonas. El presidente ucraniano, Volodymyr Zelensky, denunció la estrategia terrorista de Rusia y pidió más sistemas de defensa aérea y sanciones.  A pesar de que la región de Dnipropetrovsk no está entre las anexionadas por Rusia, los ataques continúan, mientras Moscú exige la retirada de Ucrania de territorios que controla parcialmente como condición para detener las hostilidades.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre un conflicto bélico internacional, un ataque de gran magnitud con víctimas mortales en territorio ucraniano, y las reacciones políticas internacionales al mismo. Es de alta relevancia para la categoría 'Internacional'."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "En Australie, une panne téléphonique fait trois morts dont un nourrisson faute d'accès aux urgences",
+      "link": "https://www.lefigaro.fr/international/en-australie-une-panne-telephonique-fait-trois-morts-dont-un-nourrisson-faute-d-acces-aux-urgences-20250920",
+      "fecha_obj": "2025-09-20T06:49:12+00:00",
+      "fecha_str": "20-09-2025 06:49 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Panne téléphonique en Australie: trois morts, dont un nourrisson, faute de pouvoir joindre les secours.",
+      "resumen": "Une panne de réseau téléphonique d'Optus a affecté 600 personnes en Australie pendant au moins 10 heures, causant la mort de trois personnes, dont un nourrisson de 6 semaines et une femme de 68 ans en Australie-Méridionale. Un autre décès a été signalé en Australie-Occidentale.  Le gouvernement australien accuse Optus d'avoir manqué à ses obligations légales en matière d'accès aux services d'urgence. Une enquête est en cours et des amendes sont envisagées.  Optus a déjà été condamné à une amende de 12 millions de dollars australiens pour une panne similaire en 2023.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "L'événement est d'ampleur internationale car il implique un grand opérateur de télécommunications et a causé des décès.  L'impact sur la population et la réaction du gouvernement australien rendent l'information pertinente pour un public international."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Aux Etats-Unis, le procureur fédéral Erik Siebert démissionne sous la pression de Donald Trump",
+      "link": "https://www.lemonde.fr/international/article/2025/09/20/aux-etats-unis-le-procureur-federal-erik-siebert-demissionne-sous-la-pression-de-donald-trump_6641989_3210.html",
+      "fecha_obj": "2025-09-20T06:48:24+00:00",
+      "fecha_str": "20-09-2025 06:48 UTC",
+      "source_name": "Le Monde International"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Presión de Trump fuerza renuncia de fiscal federal que investigaba a sus enemigos.",
+      "resumen": "El fiscal federal del distrito este de Virginia, Erik Siebert, renunció a su cargo tras la pública exigencia de Donald Trump. Siebert había rechazado iniciar acciones legales contra Letitia James, fiscal general de Nueva York que impuso una fuerte multa a Trump luego anulada, y contra James Comey, exdirector del FBI.  Trump consideraba a ambos adversarios políticos. La renuncia de Siebert se produce luego de que el fiscal determinara que no había suficientes pruebas para procesar a James por fraude.  La decisión de Siebert de no procesar a Comey también enfureció a Trump. La renuncia subraya la influencia política sobre el sistema judicial estadounidense.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia involucra al presidente de Estados Unidos y tiene implicaciones políticas internacionales, mostrando la influencia del poder ejecutivo sobre el sistema judicial y generando repercusiones a nivel global."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Coldplay preaching peace and love to Charlie Kirk is all well and good. But would it hurt artists to take a stand? | Elle Hunt",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/20/coldplay-charlie-kirk-chris-martin-wembley",
+      "fecha_obj": "2025-09-20T06:00:07+00:00",
+      "fecha_str": "20-09-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Coldplay's peace message is well-intentioned, but does avoiding firm political stances hinder artists' influence?",
+      "resumen": "El artículo analiza la actuación de Coldplay, destacando su mensaje de paz y amor pero cuestionando su falta de posicionamiento político concreto.  La autora contrasta el enfoque de Coldplay con artistas que sí abordan temas políticos, como la situación en Palestina.  Si bien valora la labor filantrópica de la banda, argumenta que un mensaje más definido podría ser más efectivo, especialmente considerando su audiencia mayoritariamente conservadora.  Se plantea si la búsqueda de la máxima aceptación limita el impacto de los artistas, y si un posicionamiento claro, aunque pueda generar controversia, sería más beneficioso.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre el rol de los artistas en la política, utilizando el ejemplo de Coldplay para analizar la efectividad de mensajes ambiguos versus posturas claras.  Su estructura, análisis y conclusión lo califican como un ensayo de opinión sólido."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "I’m a British MP, a doctor and Jewish. This is what happened when I tried to enter Israel | Peter Prinsley",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/20/jewish-british-mp-israel",
+      "fecha_obj": "2025-09-20T05:00:05+00:00",
+      "fecha_str": "20-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Un parlamentario británico-judío es denegado la entrada a Israel, cuestionando la actual política del gobierno israelí.",
+      "resumen": "Peter Prinsley, parlamentario, médico y judío británico, relata su experiencia negada la entrada a Israel junto a un colega para una misión humanitaria.  A pesar de su identidad judía y su apoyo a Israel, se le negó el acceso bajo el pretexto de \"seguridad pública\", sin explicaciones.  Prinsley critica la creciente exclusión del gobierno israelí, lamentando el alejamiento de los principios fundacionales del país y el impacto en las relaciones con la comunidad judía británica.  La imposibilidad de acceder a la Cisjordania para evaluar la situación sanitaria palestina, sumada a la prohibición de entrada para periodistas y activistas, resalta la opacidad que rodea la situación humanitaria en Gaza y la falta de transparencia del gobierno israelí.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo expresa una opinión clara y argumentada sobre la situación política en Israel, basándose en la experiencia personal del autor.  Su perspectiva única como parlamentario, médico y judío británico le da peso y relevancia al ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "I have now been a journalist for 40 years. The forces ranged against my profession have never been so powerful | George Monbiot",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/20/journalist-40-years-forces-profession-power",
+      "fecha_obj": "2025-09-20T04:00:03+00:00",
+      "fecha_str": "20-09-2025 04:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "40 años de periodismo: la lucha contra el poder mediático nunca ha sido tan intensa.",
+      "resumen": "George Monbiot reflexiona sobre sus 40 años como periodista, contrastando la libertad investigativa de sus inicios en la BBC con la actual situación.  Critica la influencia del poder económico y político en los medios, que silencia voces críticas y promueve una agenda favorable al capital.  Recuerda casos emblemáticos donde la investigación periodística se enfrentó al poder, y cómo este poder ha logrado sofocar la verdad.  Sin embargo, Monbiot encuentra esperanza en el auge del periodismo ciudadano, que emerge como una alternativa a los medios tradicionales dominados por intereses económicos.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que reflexiona críticamente sobre el estado actual del periodismo, su relación con el poder y la esperanza que representa el periodismo ciudadano.  Expresa una opinión fundamentada en la experiencia personal del autor, lo que lo convierte en un ensayo de opinión pertinente y relevante."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "L'hippocampe renouvelle ses neurones",
+      "link": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/l-hippocampe-renouvelle-ses-neurones_187898?xtor=RSS-16",
+      "fecha_obj": "2025-09-20T04:00:00+00:00",
+      "fecha_str": "20-09-2025 04:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El hipocampo genera nuevos neurones a lo largo de la vida, confirmando su papel clave en la memoria.",
+      "resumen": "Un estudio del Instituto Karolinska revela que el hipocampo, área cerebral esencial para la memoria, produce nuevos neurones durante toda la vida humana.  Esta neurogénesis, aparentemente limitada al hipocampo, es más significativa en la infancia, estabilizándose en aproximadamente 700 neurones diarios en la edad adulta.  El hallazgo confirma la capacidad del cerebro para renovarse y tiene implicaciones importantes en la comprensión de la memoria y las enfermedades neurodegenerativas.  La investigación sugiere una relación entre la neurogénesis y la capacidad cognitiva, abriendo nuevas vías para futuras investigaciones sobre el envejecimiento cerebral y las posibles intervenciones terapéuticas.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta un descubrimiento científico relevante sobre la neurogénesis en humanos, un tema de gran interés en el campo de la neurociencia y con implicaciones en la tecnología médica y el desarrollo de tratamientos para enfermedades neurodegenerativas."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Starship will soon fly over towns and cities, but will dodge the biggest ones",
+      "link": "https://arstechnica.com/space/2025/09/starship-will-soon-fly-over-towns-and-cities-but-will-dodge-the-biggest-ones/",
+      "fecha_obj": "2025-09-20T00:18:44+00:00",
+      "fecha_str": "20-09-2025 00:18 UTC",
+      "source_name": "Ars Technica"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Starship, el cohete gigante de SpaceX, volará sobre México en su regreso a Texas.",
+      "resumen": "SpaceX se prepara para probar el regreso controlado de su cohete Starship desde la órbita terrestre baja a su plataforma de lanzamiento en Texas.  Esto requiere un vuelo sobre territorio mexicano y partes de Texas, debido a la ubicación geográfica de la base de lanzamiento.  Las pruebas anteriores solo alcanzaron trayectorias suborbitales.  El éxito de este procedimiento, usando la versión V3 de Starship, demostraría la capacidad de reutilización completa del cohete, un objetivo clave de Elon Musk.  Se espera que este hito ocurra el próximo año.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo trata sobre un avance significativo en la tecnología espacial, específicamente en el desarrollo y las pruebas de un cohete reutilizable de gran escala.  Esto es altamente relevante para la categoría 'Ciencia y Tecnología'."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Hotly anticipated US vaccine meeting ends with confusion — and a few decisions",
+      "link": "https://www.nature.com/articles/d41586-025-03054-z",
+      "fecha_obj": "2025-09-20T00:00:00+00:00",
+      "fecha_str": "20-09-2025 00:00 UTC",
+      "source_name": "Nature News"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Polémica reunión del panel de vacunas de EE. UU.: decisiones confusas y falta de consenso sobre vacunas COVID-19 y MMRV.",
+      "resumen": "El Comité Asesor de Prácticas de Inmunización de EE. UU. (ACIP), con nuevos miembros nombrados por Robert F. Kennedy Jr., generó confusión en sus recomendaciones sobre vacunas.  No se requirió receta médica para las vacunas COVID-19, pero se instó a la consulta con profesionales de la salud.  Se tomaron decisiones contradictorias sobre la vacuna MMRV, revirtiendo votaciones de un día para otro.  La falta de claridad y experiencia del panel preocupó a expertos, quienes destacaron la ambigüedad en las recomendaciones y la omisión de la decisión sobre si las vacunas COVID-19 deberían ser cubiertas por el programa Vaccines for Children.  La decisión de no permitir la opción de la vacuna MMRV combinada, a pesar de la preferencia de algunos padres, también generó controversia.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo trata sobre decisiones de un panel asesor de vacunas, un tema de relevancia científica y tecnológica.  Afecta la política sanitaria y la toma de decisiones basadas en evidencia científica, aunque la controversia generada resta algo de objetividad."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: meet this year’s Strictly Come Dancing celebrities",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/20/tv-tonight-meet-this-years-strictly-come-dancing-celebrities",
+      "fecha_obj": "2025-09-20T05:15:05+00:00",
+      "fecha_str": "20-09-2025 05:15 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche, disfruta de Strictly, nuevos retos en You Bet!, historia ferroviaria y mucho más.",
+      "resumen": "La programación televisiva incluye la nueva temporada de Strictly Come Dancing con celebridades como Ellie Goldstein y Jimmy Floyd Hasselbaink; You Bet! On Tour desde Thorpe Park; un documental sobre la historia del ferrocarril británico; un debate sobre la imagen pública de Kate Middleton; la conclusión de la adaptación de El Conde de Montecristo; y el último episodio de Casualty.  También se destacan las películas 'Elio' de Pixar y 'La noche de las estrellas fugaces', además de eventos deportivos como el Mundial de Atletismo y partidos de la Premier League.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien incluye la reseña de una película ('Elio') y una referencia a la cultura popular ('Strictly Come Dancing'), el artículo se centra principalmente en una guía de programación televisiva diversa, sin un enfoque profundo en temas de arte o cultura."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "The Weir review – a riveting return for Conor McPherson’s lonesome barflies",
+      "link": "https://www.theguardian.com/stage/2025/sep/20/the-weir-review-harold-pinter-theatre-london",
+      "fecha_obj": "2025-09-19T23:01:58+00:00",
+      "fecha_str": "19-09-2025 23:01 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Una puesta en escena magistral de 'The Weir' de Conor McPherson, con un elenco estelar que te dejará sin aliento.",
+      "resumen": "Esta reseña elogia la producción revitalizada de la obra de Conor McPherson, 'The Weir'.  Dirigida por el mismo McPherson y con un diseño de Rae Smith, la obra destaca por su atmósfera rural irlandesa y la interacción entre sus personajes.  El reparto, encabezado por Brendan Gleeson, ofrece interpretaciones convincentes, explorando temas de soledad, confesiones y recuerdos a través de un intercambio de historias.  La reseña destaca la habilidad de McPherson para crear tensión y humor, y la actuación excepcional de cada miembro del elenco, incluyendo a Tom Vaughan-Lawlor, Seán McGinley y Kate Phillips.  La obra se presenta como una experiencia conmovedora y duradera.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La reseña trata sobre una obra de teatro, su producción y sus actores.  Esto la ubica directamente dentro de la categoría 'Cultura Arte', analizando un aspecto específico de la escena teatral contemporánea."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Art History Professor Placed on Leave Over Charlie Kirk Posts",
+      "link": "https://hyperallergic.com/1043397/art-history-professor-placed-on-leave-over-charlie-kirk-posts/",
+      "fecha_obj": "2025-09-19T21:53:21+00:00",
+      "fecha_str": "19-09-2025 21:53 UTC",
+      "source_name": "Hyperallergic"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Profesora de historia del arte en licencia tras publicaciones en redes sociales sobre Charlie Kirk.",
+      "resumen": "Karen Leader, profesora de Historia del Arte en la Universidad Atlántica de Florida (FAU), fue puesta en licencia administrativa tras publicaciones en redes sociales que criticaban a Charlie Kirk.  Tras ser blanco de amenazas de cuentas conservadoras, la universidad la investiga por publicaciones que, según alegan, podrían perturbar el funcionamiento de la universidad o poner en peligro la seguridad de otros. Leader niega haber incitado a la violencia y argumenta que sus publicaciones eran respuestas a las narrativas de Kirk.  El incidente destaca la tensión entre la libertad de expresión académica y las consecuencias de las publicaciones en redes sociales, especialmente en el contexto de la polarización política actual.  La FAU no ha respondido a las solicitudes de comentarios.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre una profesora de Historia del Arte, lo que lo relaciona directamente con la cultura y el arte. Sin embargo, el enfoque principal es la controversia política y las implicaciones para la libertad de expresión, lo que disminuye ligeramente su relevancia para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
   }
 ]
