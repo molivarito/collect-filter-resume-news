@@ -6766,5 +6766,197 @@
       "relevancia_justificacion": "El artículo trata sobre una profesora de Historia del Arte, lo que lo relaciona directamente con la cultura y el arte. Sin embargo, el enfoque principal es la controversia política y las implicaciones para la libertad de expresión, lo que disminuye ligeramente su relevancia para la categoría 'Cultura Arte'."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "En Nouvelle-Calédonie, un gendarme mis en cause après le décès d’un homme en marge d’une intervention",
+      "link": "https://www.lefigaro.fr/flash-actu/en-nouvelle-caledonie-un-gendarme-mis-en-cause-apres-le-deces-d-un-homme-en-marge-d-une-intervention-20250921",
+      "fecha_obj": "2025-09-21T07:06:01+00:00",
+      "fecha_str": "21-09-2025 07:06 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Muere un hombre en Nueva Caledonia tras un disparo policial; gendarme investigado.",
+      "resumen": "Un gendarme en Nueva Caledonia está bajo investigación tras la muerte de Fara Tournier, de 32 años, quien recibió un disparo durante una intervención policial.  El gendarme alegó legítima defensa, afirmando sentirse en peligro inmediato tras un incidente con un conductor que embistió a la patrulla. Sin embargo, testigos contradicen esta versión, indicando que Tournier estaba en un grupo de personas y que el primer disparo le impactó. La investigación se centra en violencia voluntaria con resultado de muerte, agravada por el uso de un arma.  El caso recuerda a otros incidentes similares en la región, generando controversia.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El suceso involucra una muerte a manos de la fuerza pública en un territorio francés de ultramar, con implicaciones legales internacionales y un interés noticioso para la comunidad internacional."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Trump appelle le ministère de la Justice à agir contre deux de ses adversaires politiques",
+      "link": "https://www.lefigaro.fr/international/trump-appelle-le-ministere-de-la-justice-a-agir-contre-deux-de-ses-adversaires-politiques-20250921",
+      "fecha_obj": "2025-09-21T07:01:14+00:00",
+      "fecha_str": "21-09-2025 07:01 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump exige al Departamento de Justicia actuar contra Schiff y James por presunta fraude.",
+      "resumen": "Donald Trump instó al Departamento de Justicia a procesar a Adam Schiff y Letitia James, acusados de fraude por Bill Pulte, un aliado de Trump.  Schiff lideró la destitución de Trump, mientras que James lo enfrentó legalmente.  Trump relaciona la falta de acción con la reputación de su administración y la reciente renuncia de un fiscal federal que rechazó procesar a James.  Trump menciona una multa impuesta a él por James, posteriormente anulada por excesiva, y anuncia el nombramiento de una reemplazo para el fiscal renunciante.  Trump considera estas acciones como necesarias para la justicia.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre acciones del expresidente estadounidense Donald Trump, figura clave en la política internacional, y sus acusaciones contra figuras políticas estadounidenses.  Tiene implicaciones políticas internacionales por la influencia de Trump y la naturaleza de sus acusaciones."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Pour les 50 ans des Dents de la mer, Los Angeles consacre une exposition au film mythique",
+      "link": "https://www.lefigaro.fr/culture/pour-les-50-ans-des-dents-de-la-mer-los-angeles-consacre-une-exposition-au-film-mythique-20250921",
+      "fecha_obj": "2025-09-21T07:00:00+00:00",
+      "fecha_str": "21-09-2025 07:00 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Los Ángeles celebra el 50 aniversario de Tiburón con una exposición inmersiva en el Museo de los Óscars.",
+      "resumen": "El Museo de los Óscars en Los Ángeles conmemora el 50 aniversario de la película Tiburón, de Steven Spielberg, con una exposición que incluye más de 200 piezas, entre ellas, objetos del rodaje, vestuario, fotografías y la maqueta del famoso tiburón 'Bruce'. La muestra, abierta hasta julio de 2026, ofrece un recorrido por los desafíos de la producción y el éxito posterior de la cinta, que catapultó a Spielberg a la fama. Spielberg, presente en la inauguración, compartió anécdotas sobre las dificultades del rodaje y su sorpresa al ver objetos conservados durante décadas. La exposición permite a los visitantes interactuar con piezas icónicas, como la maqueta del tiburón y recrear la famosa melodía de John Williams.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La exposición conmemora un hito del cine mundial, atrayendo la atención internacional por su impacto cultural y la figura de Steven Spielberg. El evento se celebra en Los Ángeles, un centro neurálgico de la industria cinematográfica global."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Look to Myanmar for a vision of a world where authoritarians have unfettered power | Simon Tisdall",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/21/myanmar-authoritarians-regimes-power",
+      "fecha_obj": "2025-09-21T05:00:35+00:00",
+      "fecha_str": "21-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Myanmar: un microcosmos de la creciente opresión global, donde la indiferencia internacional permite atrocidades.",
+      "resumen": "El artículo analiza la crisis en Myanmar, donde la junta militar comete atrocidades contra civiles, incluyendo crímenes contra la humanidad.  La falta de respuesta internacional, especialmente por parte de China, Rusia y una ambivalente postura estadounidense, permite la consolidación del régimen.  El autor destaca la manipulación de las próximas elecciones y el apoyo de potencias a la junta, presentando a Myanmar como un ejemplo del fracaso del sistema internacional en la defensa de la democracia y los derechos humanos, y una premonición de un futuro autoritario.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre la situación en Myanmar, usando este caso como ejemplo de un problema global más amplio.  Es un ensayo de opinión que analiza las implicaciones geopolíticas y morales de la indiferencia internacional ante las violaciones de derechos humanos."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "I Look at This Country and I See a Stranger",
+      "link": "https://www.nytimes.com/2025/09/21/opinion/trump-kirk-trans-people-russia.html",
+      "fecha_obj": "2025-09-21T05:00:11+00:00",
+      "fecha_str": "21-09-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El miedo a la persecución política y social fuerza a intelectuales y activistas al exilio.",
+      "resumen": "El artículo reflexiona sobre el sentimiento de inseguridad y amenaza que viven intelectuales y activistas en países como Estados Unidos y Turquía, donde la libertad de expresión se ve comprometida. Se mencionan ejemplos concretos como la reacción a la muerte de Kirk, la entrega de nombres de estudiantes y profesores a las autoridades y las listas de \"terroristas y extremistas\" en Rusia. La autora, que ya vivió el exilio desde Rusia, teme por su seguridad en Estados Unidos, compartiendo la experiencia de otros intelectuales exiliados, como Ece Temelkuran. El texto denuncia el clima de miedo y autocensura que se genera, donde la conformidad se impone como precio de la supervivencia.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que expone una problemática social y política actual a través de la experiencia personal de la autora y ejemplos concretos.  Su análisis crítico y reflexivo sobre la libertad de expresión y la persecución a activistas lo hacen altamente relevante para esta categoría."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "The Story of the British Larch",
+      "link": "https://www.nytimes.com/2025/09/21/opinion/larch-tree-environment-britain.html",
+      "fecha_obj": "2025-09-21T05:00:06+00:00",
+      "fecha_str": "21-09-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Un alerce británico de 300 años cuenta la historia de la relación entre el hombre y la naturaleza.",
+      "resumen": "El artículo narra la historia de un alerce europeo de casi 300 años, uno de los primeros plantados en Gran Bretaña.  Este árbol, llamado 'El Alerce Padre', aunque no imponente en apariencia, tuvo un papel crucial en la historia británica: su madera se usó en la construcción naval, ferrocarriles y minas de carbón. Sin embargo, siglos después, una enfermedad devastó a la especie, revelando su vulnerabilidad. La historia del alerce simboliza la compleja y a veces frágil relación entre la humanidad y el medio ambiente, mostrando cómo la apreciación de la fuerza de la naturaleza puede coexistir con su inesperada fragilidad.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien el artículo es principalmente descriptivo, la conclusión reflexiona sobre la relación entre la humanidad y el medio ambiente, lo que le otorga un elemento de opinión y ensayo.  No es un ensayo argumentativo, pero la reflexión final sobre la vulnerabilidad de la naturaleza le da un peso opinativo."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Maladie d'Alzheimer : \"Cela n’aurait aucun sens d’organiser un dépistage national\"",
+      "link": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/maladie-d-alzheimer-cela-n-aurait-aucun-sens-d-organiser-un-depistage-national_187027?xtor=RSS-16",
+      "fecha_obj": "2025-09-21T04:00:00+00:00",
+      "fecha_str": "21-09-2025 04:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Nuevo test sanguíneo para Alzheimer: ¿un avance crucial o expectativas prematuras?",
+      "resumen": "Un nuevo test sanguíneo para detectar Alzheimer, aprobado en EEUU y Japón, facilita el diagnóstico al detectar proteínas en sangre, evitando la punción lumbar.  Aunque prometedor, su disponibilidad en Francia es limitada,  principalmente para reclutar pacientes en ensayos clínicos.  Su uso se considera ético solo con los nuevos tratamientos que ralentizan la enfermedad, no para un despistaje masivo. El profesor Amouyel destaca que este test es una herramienta más para los médicos, no un reemplazo de otros métodos diagnósticos, y que aún se requiere investigación para determinar si los nuevos medicamentos pueden prevenir la aparición de síntomas.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre un avance científico y tecnológico en el campo de la medicina, específicamente un nuevo test sanguíneo para diagnosticar la enfermedad de Alzheimer.  Su impacto en la salud y la investigación médica lo hace altamente relevante para la categoría 'Ciencia y Tecnología'."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Sri Lanka: un concours de pêche pour limiter le nombre d'espèces invasives",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/sri-lanka-un-concours-de-peche-pour-limiter-le-nombre-d-especes-invasives_188305?xtor=RSS-15",
+      "fecha_obj": "2025-09-21T03:21:12+00:00",
+      "fecha_str": "21-09-2025 03:21 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Sri Lanka combate especies invasivas con concurso de pesca, premiando la captura de peligrosas serpientes de río.",
+      "resumen": "El gobierno de Sri Lanka organizó un concurso de pesca para controlar la población de especies invasivas como serpientes de río y pirañas que amenazan los ecosistemas locales.  Más de 1000 pescadores participaron en el concurso en el reservorio Deduru Oya, capturando 22 serpientes de río.  El ganador recibió un premio de 200.000 rupias.  La importación, venta y transporte de cuatro especies invasivas está prohibida, y se insta a los propietarios de acuarios a entregarlas a las autoridades.  Se espera que la campaña tenga un impacto positivo en el turismo y la preservación de especies nativas.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata un tema de ecología y conservación, usando métodos innovadores. Si bien no es estrictamente ciencia o tecnología de punta, la iniciativa tiene implicaciones científicas en la gestión de ecosistemas y el control de especies invasoras."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "L'IA meilleure que les gardiens de but",
+      "link": "https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/l-ia-meilleure-que-les-gardiens-de-but_187872?xtor=RSS-12",
+      "fecha_obj": "2025-09-20T16:00:00+00:00",
+      "fecha_str": "20-09-2025 16:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "IA supera a porteros prediciendo penaltis con 63.9% de precisión.",
+      "resumen": "Un estudio de la Universidad de Las Palmas de Gran Canaria entrenó algoritmos de IA con 640 videos de lanzamientos de penaltis.  Los resultados mostraron que la IA superó a los porteros humanos en la predicción de la dirección del balón.  Sin considerar los tiros al centro, la IA alcanzó una precisión del 63.9%, mientras que los porteros lograron solo un 46%.  Este avance en el análisis de imágenes y predicción de movimientos sugiere un potencial significativo de la IA en el ámbito deportivo y el análisis de patrones complejos.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre el uso de la inteligencia artificial para analizar datos deportivos y predecir resultados, mostrando un avance tecnológico con aplicaciones más allá del fútbol."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: an essential record of the Covid contracts scandal",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/21/tv-tonight-an-essential-record-of-the-covid-contracts-scandal",
+      "fecha_obj": "2025-09-21T05:15:34+00:00",
+      "fecha_str": "21-09-2025 05:15 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Documental sobre contratos COVID, drama escocés, y fútbol: ¡una noche llena de acción en la TV!",
+      "resumen": "La programación televisiva incluye un documental crucial sobre el escándalo de los contratos de la pandemia de COVID-19, mostrando corrupción y engaño.  También se presentan episodios de 'Educating Yorkshire', mostrando la vida escolar en Dewsbury; 'Freddie Flintoff’s Field of Dreams', con un partido de fútbol; 'Rob and Rylan’s Passage to India', un viaje por Rajasthan; y 'Coldwater', un drama en la Escocia rural.  Además, se anuncia 'King & Conqueror', una serie histórica; la película 'Riff Raff', una comedia criminal; y una variedad de eventos deportivos como fútbol de la Premier League y críquet.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien incluye la película 'Riff Raff', la mayor parte del artículo se centra en programación de telerrealidad y eventos deportivos, con poca relevancia para la categoría 'Cultura y Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "El Instituto Cervantes recibirá los legados de María Elena Walsh y Sara Facio en Madrid",
+      "link": "https://www.clarin.com/cultura/instituto-cervantes-recibira-legados-maria-elena-walsh-sara-facio-madrid_0_8R8AqQTHl3.html",
+      "fecha_obj": "2025-09-21T01:22:36+00:00",
+      "fecha_str": "21-09-2025 01:22 UTC",
+      "source_name": "Revista Ñ – Clarín Cultura"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Legados de María Elena Walsh y Sara Facio viajarán a España para ser custodiados en la Caja de las Letras del Instituto Cervantes.",
+      "resumen": "El Instituto Cervantes de Madrid recibirá los legados de las artistas argentinas María Elena Walsh y Sara Facio.  El 2 de octubre, se depositarán en la Caja de las Letras, un espacio que resguarda el patrimonio de figuras hispanoamericanas.  El legado de Walsh incluye siete libros, mientras que el de Facio contiene ocho fotografías y dos libros.  La iniciativa, resultado de un acuerdo entre la Fundación María Elena Walsh-Sara Facio, el Instituto Cervantes y el Gobierno de la Ciudad de Buenos Aires, busca promover y preservar la obra de ambas artistas a nivel mundial.  Un evento en la embajada de España en Argentina el 25 de septiembre dará más detalles.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La noticia se centra en la preservación y difusión del trabajo de dos figuras icónicas de la cultura argentina, en un espacio cultural relevante como el Instituto Cervantes.  El evento abarca literatura, fotografía y música, abarcando diferentes expresiones artísticas."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Why is Trump so obsessed with Jimmy Kimmel and US late-night TV shows?",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/20/trump-jimmy-kimmel-late-night-tv-shows",
+      "fecha_obj": "2025-09-20T15:58:10+00:00",
+      "fecha_str": "20-09-2025 15:58 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump's guerra contra los late-night shows: ¿censura o defensa de la verdad?",
+      "resumen": "El artículo explora la compleja relación entre Donald Trump y los programas nocturnos estadounidenses.  Desde la época dorada de Johnny Carson, estos shows han influenciado la opinión pública, incluso afectando las calificaciones presidenciales.  Trump, a diferencia de sus predecesores, ha atacado ferozmente a presentadores como Jimmy Kimmel, acusándolos de parcialidad demócrata y presionando a las cadenas para silenciarlos.  La suspensión de Kimmel y la cancelación del programa de Stephen Colbert ilustran la creciente presión política sobre la comedia nocturna, que lucha por mantener su independencia en un clima de polarización y desinformación.  El artículo argumenta que la comedia nocturna, a pesar de los riesgos, persiste como un importante lente crítico de la política estadounidense.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo analiza la historia de la comedia nocturna estadounidense, su influencia cultural y su relación con la política, temas relevantes para la categoría 'Cultura Arte'.  Examina la evolución del género, desde un humor más mesurado hasta la sátira política actual, y el impacto de figuras como Johnny Carson y Donald Trump."
+    },
+    "categoria": "cultura_arte"
   }
 ]
