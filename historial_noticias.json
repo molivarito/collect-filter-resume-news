@@ -6958,5 +6958,181 @@
       "relevancia_justificacion": "El artículo analiza la historia de la comedia nocturna estadounidense, su influencia cultural y su relación con la política, temas relevantes para la categoría 'Cultura Arte'.  Examina la evolución del género, desde un humor más mesurado hasta la sátira política actual, y el impacto de figuras como Johnny Carson y Donald Trump."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "EN DIRECT - Procès de Cédric Jubillar : suivez la première journée d’audience",
+      "link": "https://www.lefigaro.fr/faits-divers/en-direct-proces-de-cedric-jubillar-suivez-la-premiere-journee-d-audience-20250922",
+      "fecha_obj": "2025-09-22T07:11:48+00:00",
+      "fecha_str": "22-09-2025 07:11 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Comienza el juicio a Cédric Jubillar por el asesinato de su esposa, Delphine, tras años de investigación e interrogatorios.",
+      "resumen": "El juicio contra Cédric Jubillar por la desaparición y presunta muerte de su esposa, Delphine, se inicia tras casi cinco años de investigación.  Delphine desapareció en diciembre de 2020, y Cédric fue arrestado en junio de 2021.  A pesar de las investigaciones, incluyendo búsquedas exhaustivas y una reconstrucción de los hechos, el cuerpo de Delphine nunca fue encontrado.  El caso ha estado lleno de giros, incluyendo testimonios de un compañero de celda y una ex-pareja de Jubillar, que lo acusan de asesinato.  El juicio promete revelar detalles impactantes sobre este caso que ha mantenido a Francia en vilo.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien el caso tiene un impacto mediático considerable en Francia, su relevancia internacional es limitada.  Aunque es un crimen de alto perfil, no tiene implicaciones geopolíticas o internacionales más amplias."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Meurtre de Thomas à Crépol : une reconstitution numérique, acte majeur de l’enquête pour faire émerger la vérité",
+      "link": "https://www.lefigaro.fr/faits-divers/meurtre-de-thomas-a-crepol-une-reconstitution-numerique-acte-majeur-de-l-enquete-pour-faire-emerger-la-verite-20250922",
+      "fecha_obj": "2025-09-22T07:02:09+00:00",
+      "fecha_str": "22-09-2025 07:02 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Reconstitución digital clave en el caso del asesinato de Thomas Perotto en Francia.",
+      "resumen": "Comienza en el tribunal de Valence una reconstitución digital del asesinato de Thomas Perotto, de 16 años, ocurrido en un baile en Crépol (Drôme) el 18 de noviembre de 2023.  Esta etapa crucial de la investigación, que durará dos semanas, reunirá a los 14 implicados (10 en prisión preventiva, 4 bajo control judicial), magistrados, expertos y partes civiles.  Se busca esclarecer las responsabilidades de cada sospechoso, todos acusados de \"asesinato y tentativa de asesinato en banda organizada\", confrontando sus versiones de los hechos y resolviendo las contradicciones existentes sobre las escenas de los enfrentamientos.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien el crimen ocurrió en Francia, la magnitud del caso, con múltiples implicados y una investigación compleja, podría generar interés internacional, especialmente en medios especializados en justicia y sucesos criminales."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "La dhimma, ce statut oublié des Juifs, qui explique leur relation avec le monde musulman",
+      "link": "https://www.lefigaro.fr/vox/religion/la-dhimma-ce-statut-oublie-des-juifs-qui-explique-leur-relation-avec-le-monde-musulman-20250922",
+      "fecha_obj": "2025-09-22T07:00:00+00:00",
+      "fecha_str": "22-09-2025 07:00 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "La dhimma: el estatus de inferioridad de los judíos en el mundo musulmán, un pasado que explica el presente.",
+      "resumen": "El artículo analiza la dhimma, el estatus legal de los judíos en países musulmanes, que limitaba sus derechos.  Daniel Bensoussan-Bursztein, en su libro \"La Question séfarade\", detalla las restricciones impuestas por el pacte d’Umar, como la prohibición de portar armas o construir casas más altas que las de los musulmanes.  Este sistema, aunque oficialmente abolido, generó controversias, como durante la Primera Guerra Mundial en Irak. El artículo destaca cómo este pasado, minimizado por algunos historiadores, arroja luz sobre la situación actual en Oriente Medio.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El tema aborda la historia de las relaciones entre judíos y musulmanes, un conflicto con implicaciones geopolíticas internacionales y que sigue vigente en la actualidad.  Su análisis histórico contribuye a la comprensión de dinámicas internacionales en Oriente Medio."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Think you’re kind? Maybe you’re just being nice. I’ve learned there’s a big difference | Ann Russell",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/22/kind-nice-women-conditioned-people-please",
+      "fecha_obj": "2025-09-22T06:00:04+00:00",
+      "fecha_str": "22-09-2025 06:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Amabilidad vs. gentileza: ¿qué te define? Un ensayo reflexivo sobre la diferencia y sus consecuencias.",
+      "resumen": "El artículo explora la diferencia crucial entre ser amable y ser agradable.  La autora, una limpiadora, relata una experiencia con una clienta que le hizo reflexionar sobre la verdadera amabilidad, que implica hacer lo correcto aunque no sea lo más cómodo socialmente.  Ser agradable se centra en la percepción ajena, mientras que la amabilidad prioriza el bienestar del otro.  La autora argumenta que la presión social, especialmente en mujeres, fomenta la complacencia y la 'gentileza' superficial, a menudo en detrimento propio.  Finalmente, concluye que priorizar la amabilidad, aunque más difícil, resulta más liberador y satisfactorio a largo plazo.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión personal bien argumentada sobre un tema relevante, con ejemplos concretos y reflexiones profundas sobre las implicaciones sociales y personales de la amabilidad versus la gentileza.  Se ajusta perfectamente a la categoría de 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "This Is the Feeling of Losing a Country. I Know It Well.",
+      "link": "https://www.nytimes.com/2025/09/21/opinion/trump-kirk-trans-people-russia.html",
+      "fecha_obj": "2025-09-22T05:08:02+00:00",
+      "fecha_str": "22-09-2025 05:08 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El miedo a la persecución política fuerza a exiliarse a intelectuales y periodistas.",
+      "resumen": "El artículo reflexiona sobre la sensación de vivir en un país donde se está en riesgo por las propias ideas o identidad. La autora, tras un incidente que la hace cuestionar su seguridad, relata su experiencia de exilio de Rusia por su orientación sexual.  Se compara con la situación de otros intelectuales y periodistas exiliados, como Ece Temelkuran, y se critica la autocensura en universidades estadounidenses ante las políticas de Trump.  El artículo destaca el uso de listas para silenciar y perseguir a disidentes, creando un clima de miedo e inseguridad.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "Es un ensayo de opinión que expone una perspectiva personal sobre el exilio y la persecución política, apoyado en ejemplos concretos y análisis de la situación actual.  La autora reflexiona sobre temas relevantes como la libertad de expresión, la autocensura y el miedo al autoritarismo."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Palestinians Need More Than the Gesture of Statehood",
+      "link": "https://www.nytimes.com/2025/09/22/opinion/palestinian-statehood-united-nations.html",
+      "fecha_obj": "2025-09-22T05:00:06+00:00",
+      "fecha_str": "22-09-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El reconocimiento de Palestina es un gesto vacío sin acciones contra las políticas israelíes.",
+      "resumen": "Varios países reconocieron el Estado de Palestina, un paso positivo pero simbólico ante la negativa israelí a la autodeterminación palestina y la expansión de asentamientos.  El autor critica la falta de acciones concretas para detener la guerra en Gaza y la situación humanitaria, considerando el reconocimiento como una distracción de la realidad de un estado de apartheid impuesto por Israel.  Desde la perspectiva de Cisjordania, el anhelo de un estado palestino se ve frustrado por la expansión de asentamientos israelíes, generando una sensación de déjà vu ante la ineficacia de la solución de dos estados. El autor enfatiza la necesidad de acciones que responsabilizen a Israel por sus políticas ilegales y destructivas.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo presenta una opinión argumentada sobre el reconocimiento del Estado de Palestina, analizando sus limitaciones y la necesidad de acciones concretas.  Su estructura, tono y enfoque lo hacen ideal para la categoría 'Opinión Ensayo'."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster",
+      "link": "https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/",
+      "fecha_obj": "2025-09-22T06:00:00+00:00",
+      "fecha_str": "22-09-2025 06:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Ciberataque a Jaguar Land Rover paraliza producción y amenaza miles de empleos en su cadena de suministro.",
+      "resumen": "Un ciberataque a Jaguar Land Rover (JLR) ha detenido la producción durante casi tres semanas, afectando a miles de empleados directos e indirectamente.  La interrupción causa pérdidas millonarias a JLR y pone en riesgo la estabilidad financiera de cientos de empresas proveedoras, algunas de las cuales ya han despedido personal o reducido salarios. El gobierno británico reconoce el impacto significativo en la cadena de suministro automotriz.  A pesar de las investigaciones, JLR no ha detallado la naturaleza del ataque ni las medidas de apoyo a sus proveedores, extendiendo la paralización de la producción hasta el 24 de septiembre. El incidente se considera de gran magnitud, sin precedentes en el Reino Unido por su alcance.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre un ciberataque de gran escala con consecuencias económicas y sociales significativas, lo que lo hace altamente relevante para la categoría 'Ciencia y Tecnología'.  Aborda temas de seguridad informática, impacto de la tecnología en la economía y la vulnerabilidad de las cadenas de suministro globales."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Canon Promo Codes: 10% Off | September 2025",
+      "link": "https://www.wired.com/story/canon-promo-code/",
+      "fecha_obj": "2025-09-22T05:00:00+00:00",
+      "fecha_str": "22-09-2025 05:00 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Canon ofrece descuentos increíbles en cámaras, lentes, impresoras y más; ¡aprovecha las ofertas!",
+      "resumen": "El artículo detalla las diversas promociones de Canon, incluyendo descuentos de hasta $500 en cámaras EOS y PowerShot, ofertas en lentes, impresoras y tinta,  y envío gratuito en cámaras y lentes.  Se destacan ofertas especiales para profesionales y estudiantes a través del Canon Professional Service, con descuentos del 10% al 30% según el nivel de membresía.  También se promocionan cámaras y lentes reacondicionadas con descuentos significativos,  y se incluyen ofertas especiales en impresoras, con descuentos de hasta $366.  El artículo resalta la calidad de las cámaras Canon, especialmente la EOS R5 y la R6.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "El artículo se centra en productos tecnológicos (cámaras, impresoras, etc.) y sus ofertas, lo que lo hace relevante para la categoría. La información sobre precios y promociones es de interés para los consumidores de tecnología."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "The Williams sisters are back on court: best podcasts of the week",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/22/the-williams-sisters-are-back-on-court-best-podcasts-of-the-week",
+      "fecha_obj": "2025-09-22T06:00:06+00:00",
+      "fecha_str": "22-09-2025 06:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Las hermanas Williams regresan con podcast; otros podcasts destacan historias de Armenia, Dubai y Chicago.",
+      "resumen": "El artículo presenta una selección de podcasts.  'Stockton Street' de Serena y Venus Williams,  entrevista a las hermanas sobre su vida y carrera. 'Country of Dust' explora historias personales en Armenia. 'Joe and James Fact Up' es un podcast divertido con Joe Thomas y James Buckley. 'World of Secrets: Death in Dubai' investiga la muerte de Monic Karungi. Finalmente, 'Tortured Justice With Omar Jimenez' expone la brutalidad policial racista en Chicago.",
+      "relevancia_score": 4,
+      "relevancia_justificacion": "Si bien algunos podcasts podrían tener elementos culturales (ej. 'Country of Dust'), la mayoría se centra en temas periodísticos o de entretenimiento, no estrictamente en arte y cultura."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: hunting the virus that could cause the next pandemic",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/22/tv-tonight-hunting-the-virus-that-could-cause-the-next-pandemic",
+      "fecha_obj": "2025-09-22T05:20:03+00:00",
+      "fecha_str": "22-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: documentales sobre pandemias, Gaza, y series de drama y comedia.",
+      "resumen": "La programación televisiva incluye el documental 'Disease X', que explora la búsqueda del próximo virus pandémico; 'Panorama: Gaza – Dying for Food', que analiza la crisis alimentaria en Gaza; 'Jamie: Eat Yourself Healthy', con recetas saludables de Jamie Oliver; el thriller 'The Guest'; el drama criminal 'Task'; y la comedia 'Trying', sobre una pareja que intenta adoptar.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien incluye la serie 'The Guest', un thriller, la mayor parte de la programación se centra en noticias, documentales y programas de cocina, con poca relevancia para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "‘It’s a lot darker than Sleaford Mods’: Jason Williamson on acting, rejection and a radical portrait of street life",
+      "link": "https://www.theguardian.com/stage/2025/sep/22/sleaford-mods-jason-williamson-acting-edgecity-gobscure",
+      "fecha_obj": "2025-09-22T05:00:06+00:00",
+      "fecha_str": "22-09-2025 05:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Jason Williamson de Sleaford Mods debuta en teatro con monólogos crudos sobre la vida en la calle.",
+      "resumen": "Jason Williamson, vocalista de Sleaford Mods, se embarca en una nueva aventura teatral interpretando monólogos del poeta gobscure.  Estos textos, crudos y fragmentarios, reflejan la experiencia de la indigencia, la enfermedad mental y la burocracia británica.  La obra, \"Edgecity\", contrasta con el estilo musical de Williamson, aunque comparte un tono oscuro y desesperanzado que refleja la realidad social.  A pesar de sus nervios, Williamson se enfrenta a este reto, conectando con la autenticidad y la rabia social que caracterizan tanto su música como la escritura de gobscure, quien utiliza un lenguaje experimental para describir su dura experiencia de vida.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo trata sobre el debut teatral de un músico reconocido, la colaboración con un poeta outsider y la representación de temas sociales relevantes a través del arte. Esto lo relaciona directamente con la cultura y el arte escénico."
+    },
+    "categoria": "cultura_arte"
   }
 ]
