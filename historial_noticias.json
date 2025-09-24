@@ -7310,5 +7310,197 @@
       "relevancia_justificacion": "El artículo trata exclusivamente sobre el cierre temporal del Centro Pompidou, un museo de arte contemporáneo de gran relevancia internacional, para una renovación.  Toda la información gira en torno a aspectos culturales y artísticos, incluyendo exposiciones, artistas y eventos relacionados."
     },
     "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Baisse de la TVA, hausse du salaire net, blocage des prix... Quelles sont les propositions des partis sur le pouvoir d’achat ?",
+      "link": "https://www.lefigaro.fr/conjoncture/baisse-de-la-tva-hausse-du-salaire-net-blocage-des-prix-quelles-sont-les-propositions-des-partis-sur-le-pouvoir-d-achat-20250924",
+      "fecha_obj": "2025-09-24T07:05:28+00:00",
+      "fecha_str": "24-09-2025 07:05 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Partidos franceses proponen medidas para mejorar el poder adquisitivo: bajadas de impuestos, subidas de salarios y bloqueos de precios.",
+      "resumen": "El nuevo primer ministro francés, Sébastien Lecornu, enfrenta el desafío de lograr un acuerdo presupuestario para 2026, incluyendo 44 mil millones de euros en ahorros.  Mientras tanto, los partidos políticos presionan con propuestas para proteger el poder adquisitivo de los ciudadanos.  Estas incluyen reducciones en el IVA, suspensión de la reforma de pensiones, aumentos salariales y revalorización de las pensiones.  El artículo analiza las diferentes propuestas de cada partido, en un contexto político tenso donde la posibilidad de una censura al gobierno es alta.",
+      "relevancia_score": 8,
+      "relevancia_justificacion": "La noticia trata sobre la política económica y las propuestas de diferentes partidos en Francia, un país con influencia internacional.  El debate sobre el poder adquisitivo y las medidas gubernamentales tiene relevancia global, ya que puede servir como ejemplo para otros países."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "«C’est très désagréable» : dans le centre-ville de Bordeaux, l’odeur de certains arbres asiatiques indispose riverains et parents d’élèves",
+      "link": "https://www.lefigaro.fr/bordeaux/c-est-tres-desagreable-dans-le-centre-ville-de-bordeaux-l-odeur-de-certains-arbres-asiatiques-indispose-riverains-et-parents-d-eleves-20250924",
+      "fecha_obj": "2025-09-24T07:01:00+00:00",
+      "fecha_str": "24-09-2025 07:01 UTC",
+      "source_name": "Le Figaro"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "El olor a \"vómito y calcetines sucios\" de los ginkgos de Burdeos causa molestias a vecinos.",
+      "resumen": "Los frutos de los árboles de ginkgo biloba hembra en el barrio Mériadeck de Burdeos desprenden un olor desagradable en otoño.  Este olor, descrito como similar al vómito y calcetines sucios, afecta a residentes y padres de familia que esperan a sus hijos cerca de las escuelas.  La municipalidad reconoce el problema y realiza limpiezas intensivas para mitigar el mal olor.  Como solución, la ciudad ha dejado de plantar ginkgo biloba hembra.  A pesar de su belleza y resistencia, el fuerte olor de sus frutos durante la descomposición es un inconveniente significativo.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien la noticia trata un tema local, su alcance internacional es limitado.  La problemática se centra en una ciudad específica y no refleja un problema global.  La relevancia aumenta ligeramente por la mención del ginkgo biloba, un árbol con presencia en otras partes del mundo, pero el foco principal es local."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Woman Is Convicted of Killing Her Children and Leaving Them in Suitcases",
+      "link": "https://www.nytimes.com/2025/09/23/world/asia/korea-zealand-suitcase-murders.html",
+      "fecha_obj": "2025-09-24T06:56:04+00:00",
+      "fecha_str": "24-09-2025 06:56 UTC",
+      "source_name": "The New York Times World"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Madre en Nueva Zelanda declarada culpable de asesinar a sus hijos y guardarlos en maletas.",
+      "resumen": "Un jurado de Nueva Zelanda declaró culpable a Hakyung Lee de dos cargos de asesinato por matar a sus hijos de 6 y 8 años, esconder sus cuerpos en maletas y huir a Corea del Sur.  El juicio duró dos semanas en el Tribunal Superior de Auckland, casi tres años después de su arresto en Corea del Sur. Lee admitió haber causado la muerte de sus hijos con nortriptilina, un antidepresivo, en 2018, aunque la causa exacta de la muerte sigue siendo incierta.  A pesar de admitir los hechos, se declaró inocente alegando enfermedad mental, argumentando que tras la muerte de su esposo en 2017, intentó suicidarse y matar a sus hijos.  Tras el intento fallido de suicidio, huyó a Corea del Sur.  Probablemente será sentenciada a cadena perpetua.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El caso involucra un crimen de gran magnitud ocurrido en Nueva Zelanda con implicaciones internacionales debido a la huida de la acusada a Corea del Sur.  La repercusión mediática internacional justifica una alta puntuación."
+    },
+    "categoria": "internacional"
+  },
+  {
+    "info": {
+      "titulo": "Resisting Faragism offers the Lib Dems a rare clarity of purpose | Rafael Behr",
+      "link": "https://www.theguardian.com/commentisfree/2025/sep/24/resisting-farage-lib-dems-ed-davey",
+      "fecha_obj": "2025-09-24T05:00:17+00:00",
+      "fecha_str": "24-09-2025 05:00 UTC",
+      "source_name": "The Guardian Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Los LibDems encuentran un propósito claro: resistir el populismo de Farage y Badenoch.",
+      "resumen": "El artículo analiza la estrategia de los Liberal Demócratas británicos (Lib Dems) para capitalizar la creciente insatisfacción con los conservadores y el auge del populismo de derecha representado por figuras como Nigel Farage y Kemi Badenoch.  Los Lib Dems buscan atraer a votantes conservadores moderados decepcionados con la dirección actual del partido, así como a votantes de izquierda que buscan una alternativa a la moderación de Keir Starmer.  Su estrategia se centra en presentarse como la principal oposición al populismo de Farage, destacando la amenaza a la democracia liberal y la necesidad de una política más centrada y compasiva. A pesar de sus contradicciones internas en materia económica, el artículo argumenta que los Lib Dems han encontrado una clara identidad política en la lucha contra el populismo, lo que les proporciona una oportunidad electoral.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo es un ensayo de opinión que analiza profundamente la estrategia política de un partido, ofreciendo un comentario informado y una perspectiva crítica sobre el panorama político británico actual.  Expresa una opinión clara y argumentada, con ejemplos y evidencia para apoyar su tesis."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Trump Is Pulling the Plug on Puerto Rico’s Economy",
+      "link": "https://www.nytimes.com/2025/09/24/opinion/puerto-rico-bankruptcy-debt.html",
+      "fecha_obj": "2025-09-24T05:00:06+00:00",
+      "fecha_str": "24-09-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Trump's intervention in Puerto Rico's debt crisis risks colonialist exploitation, prioritizing creditors over the island's people.",
+      "resumen": "El artículo analiza la intervención de la Casa Blanca en la reestructuración de la deuda de la Autoridad de Energía Eléctrica de Puerto Rico (Prepa).  Un grupo de bonistas exige el pago completo de una deuda de $12 billones, lo que impactaría severamente a la población puertorriqueña. La Junta de Supervisión Fiscal de Puerto Rico,  propuso un pago parcial, pero la intervención de la Casa Blanca, posiblemente influenciada por los bonistas, amenaza con anular esta decisión.  El autor critica esta acción, argumentando que prioriza los intereses de los acreedores sobre el bienestar del pueblo puertorriqueño,  y que se asemeja a prácticas colonialistas del pasado.  Señala que la imposición de esta deuda a los contribuyentes puertorriqueños es injusta y perjudica la recuperación económica de la isla.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "El artículo presenta una opinión contundente sobre la intervención de Trump en la crisis económica de Puerto Rico,  analizando sus implicaciones políticas, económicas y éticas.  Su estructura argumentativa, el análisis de las consecuencias y la crítica a las prácticas colonialistas lo hacen adecuado para un ensayo de opinión."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "What the World Gets Wrong About Israel",
+      "link": "https://www.nytimes.com/2025/09/24/opinion/israel-war-security.html",
+      "fecha_obj": "2025-09-24T05:00:05+00:00",
+      "fecha_str": "24-09-2025 05:00 UTC",
+      "source_name": "The New York Times Opinion"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Occidente malinterpreta la guerra de Israel contra Hamas, ignorando el consenso nacional israelí sobre la seguridad.",
+      "resumen": "El artículo argumenta que la reacción occidental a la guerra de Israel contra Hamas está equivocada al enfocarse en Netanyahu y no en el consenso nacional israelí.  Se critica la visión occidental que prioriza la figura de Netanyahu sobre la seguridad nacional israelí, un consenso que se opone al reconocimiento de un estado palestino sin antes asegurar una gobernanza responsable, desradicalización y la eliminación del terrorismo.  El autor, miembro del gabinete de guerra y de la oposición, subraya que el apoyo occidental al estado palestino no es solo una crítica a Netanyahu, sino al consenso de seguridad bipartidista israelí, lo que considera contraproducente para la estabilidad global y la seguridad de Israel.",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "El artículo expresa una opinión clara y argumentada sobre la percepción occidental del conflicto israelo-palestino, encajando perfectamente en la categoría de 'Opinion Ensayo'. Presenta un análisis político, una perspectiva personal y una crítica fundamentada, elementos centrales de este tipo de texto."
+    },
+    "categoria": "opinion_ensayo"
+  },
+  {
+    "info": {
+      "titulo": "Logitech Signature Solar Slim+ K980 Keyboard Review: See the Light",
+      "link": "https://www.wired.com/review/logitech-signature-solar-slim-k980-keyboard/",
+      "fecha_obj": "2025-09-24T07:01:00+00:00",
+      "fecha_str": "24-09-2025 07:01 UTC",
+      "source_name": "Wired"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Teclado solar Logitech Signature Slim Solar+ K980: ¿comodidad o tecnología innovadora?",
+      "resumen": "El teclado Logitech Signature Slim Solar+ K980, sucesor del K750, se alimenta completamente con energía solar, prescindiendo de puertos USB.  A un precio de $100, ofrece un diseño simple y utilitario, ideal para espacios de oficina bien iluminados. Si bien su construcción es de plástico reciclado (70%) con teclas de perfil bajo y switches de tijera, la experiencia de escritura se describe como 'pasable', con un sonido algo metálico y teclas con una sensación blanda. La calidad de las leyendas en las teclas es inferior a otros teclados Logitech, siendo su principal atractivo la carga solar. En general, su funcionalidad es básica y no destaca frente a competidores en cuanto a experiencia de escritura.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "El artículo trata sobre un producto tecnológico que incorpora una tecnología innovadora (energía solar). Si bien la reseña se centra en la experiencia del usuario, la tecnología empleada es relevante para la categoría 'Ciencia y Tecnología'."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Micron prévoit un chiffre d'affaires supérieur aux attentes au 1e trimestre grâce à l'IA",
+      "link": "https://www.sciencesetavenir.fr/micron-prevoit-un-chiffre-d-affaires-superieur-aux-attentes-au-1e-trimestre-grace-a-l-ia_188359",
+      "fecha_obj": "2025-09-24T05:17:59+00:00",
+      "fecha_str": "24-09-2025 05:17 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Micron supera expectativas de ingresos en el primer trimestre gracias a la demanda de IA.",
+      "resumen": "Micron, fabricante de chips de memoria, ha anunciado que sus ingresos del primer trimestre superarán las expectativas.  Este éxito se atribuye principalmente al aumento en la demanda de chips de memoria impulsado por el auge de la inteligencia artificial.  La compañía ha visto un incremento significativo en los pedidos de sus productos, lo que indica una fuerte demanda en el sector tecnológico.  Este resultado positivo sugiere un crecimiento continuo en el mercado de la IA y su impacto en la industria de semiconductores.  La noticia destaca la importancia de la memoria en el desarrollo de la IA y el potencial de crecimiento para las empresas que proveen estos componentes.",
+      "relevancia_score": 9,
+      "relevancia_justificacion": "La noticia trata directamente sobre el impacto de la inteligencia artificial en la industria de semiconductores, un tema central en ciencia y tecnología.  El crecimiento de Micron está directamente relacionado con la demanda de IA, haciendo la noticia altamente relevante para la categoría."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "Aux Seychelles, présidentielle à suspense sur fond d'inquiétudes environnementales",
+      "link": "https://www.sciencesetavenir.fr/nature-environnement/aux-seychelles-presidentielle-a-suspense-sur-fond-d-inquietudes-environnementales_188357?xtor=RSS-15",
+      "fecha_obj": "2025-09-24T03:00:35+00:00",
+      "fecha_str": "24-09-2025 03:00 UTC",
+      "source_name": "Sciences et Avenir"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Elecciones Seychelles: ¿Continuará Ramkalawan o triunfará Herminie en medio de escándalos y preocupaciones ambientales?",
+      "resumen": "Seychelles celebra elecciones presidenciales y legislativas con Wavel Ramkalawan buscando la reelección contra Patrick Herminie.  La campaña se centra en el controvertido acuerdo de concesión de la isla Assomption a inversores qataríes, generando preocupación ambiental.  El narcotráfico también es un tema relevante, con estimaciones variables sobre el consumo de heroína.  A pesar de un número récord de candidatos, la contienda se polariza entre Ramkalawan, que destaca la estabilidad económica y la lucha contra la corrupción, y Herminie, quien promete revertir el acuerdo con Qatar. La falta de encuestas dificulta las predicciones.",
+      "relevancia_score": 2,
+      "relevancia_justificacion": "El artículo se centra en la política y la economía de Seychelles, con una mención tangencial a las preocupaciones ambientales relacionadas con el desarrollo turístico.  No hay avances científicos o tecnológicos significativos."
+    },
+    "categoria": "ciencia_tecnologia"
+  },
+  {
+    "info": {
+      "titulo": "TV tonight: the phone-hacking scandal gets the Mr Bates treatment",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/24/tv-tonight-the-phone-hacking-scandal-gets-the-mr-bates-treatment",
+      "fecha_obj": "2025-09-24T05:20:15+00:00",
+      "fecha_str": "24-09-2025 05:20 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Esta noche en TV: drama sobre el escándalo del News of the World, documentales sobre desigualdad global y la cultura viral.",
+      "resumen": "La programación televisiva incluye 'The Hack', un drama sobre el escándalo del News of the World y el teléfono hacking; 'The Shadow Scholars', un documental sobre estudiantes que contratan a kenianos para escribir sus ensayos; 'Location, Location, Location', buscando casa en Edimburgo; 'The Donald Trump Show', analizando su presidencia; 'Cracking the Case', un caso de asesinato y desmembramiento; y 'The Ibiza Final Boss', sobre un joven viral.",
+      "relevancia_score": 3,
+      "relevancia_justificacion": "Si bien algunos programas podrían tener elementos culturales (el documental sobre el fenómeno viral o la serie sobre Trump), la mayoría se centra en temas de actualidad, política y crimen, no en cultura o arte en sentido estricto."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Slow Horses season five review – not even Gary Oldman can salvage this TV mess",
+      "link": "https://www.theguardian.com/tv-and-radio/2025/sep/24/slow-horses-season-five-review-not-even-gary-oldman-can-salvage-this-tv-mess",
+      "fecha_obj": "2025-09-24T04:00:16+00:00",
+      "fecha_str": "24-09-2025 04:00 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Quinta temporada de Slow Horses: caos, personajes irritantes y una trama inconexa que ni Gary Oldman salva.",
+      "resumen": "La quinta temporada de Slow Horses decepciona.  La trama, que involucra nacionalistas de derecha, activistas ambientales y agentes extranjeros, resulta sobrecargada y sin sustancia. River Cartwright se vuelve desagradable, mientras que Roddy Ho ofrece comedia forzada.  La muerte de personajes clave afecta la dinámica de la serie, que carece de las parejas cómicas anteriores.  La trama principal es débil y se desvía con subtramas irrelevantes, incluyendo una escena en un zoológico de pingüinos.  A pesar de un giro final, la temporada falla en mantener el interés, con un sonido superior a la imagen.",
+      "relevancia_score": 7,
+      "relevancia_justificacion": "Si bien es una crítica de televisión, la serie Slow Horses es un producto cultural, y la reseña analiza sus aspectos creativos, narrativos y de producción, aspectos relevantes para la categoría 'Cultura Arte'."
+    },
+    "categoria": "cultura_arte"
+  },
+  {
+    "info": {
+      "titulo": "Dirty Looks review – room after room of utterly filthy fashion",
+      "link": "https://www.theguardian.com/culture/2025/sep/24/dirty-looks-review-desire-and-decay-in-fashion-barbican-london",
+      "fecha_obj": "2025-09-23T23:02:07+00:00",
+      "fecha_str": "23-09-2025 23:02 UTC",
+      "source_name": "The Guardian Culture"
+    },
+    "resumen_datos": {
+      "teaser_sentence": "Exposición 'Dirty Looks': la moda se ensucia para cuestionar los ideales de belleza occidentales.",
+      "resumen": "La exhibición 'Dirty Looks' en el Barbican explora el uso deliberado de la suciedad y la decadencia en la moda contemporánea.  Con más de 120 prendas de diseñadores como Zandra Rhodes, Hussein Chalayan, y Vivienne Westwood, la muestra analiza cómo la suciedad (ambiental, corporal y artificial) desafía los estándares de belleza occidentales y contrasta con la 'suciedad' implícita de la moda masiva. La exposición abarca desde prendas con manchas de pintura hasta otras con fluidos corporales, explorando la manipulación de la decadencia como una forma de expresión artística y crítica social.  Se cuestiona la idea de la 'limpieza' en la alta costura, mostrando la vida y el desgaste como parte integral de la prenda. ",
+      "relevancia_score": 10,
+      "relevancia_justificacion": "La exhibición se centra en un análisis crítico de la moda como expresión artística y cultural, explorando temas de belleza, decadencia y consumo.  Su relevancia para la categoría 'Cultura Arte' es máxima por su enfoque en la moda como un objeto de estudio artístico y su impacto sociocultural."
+    },
+    "categoria": "cultura_arte"
   }
 ]
